@@ -8,4 +8,4 @@ The Chair develops research, educational, and valorisation projects in collabora
 
 The Chair’s team gathers career and student researchers and educators with expertise spanning across design, the human and social science, natural sciences, engineering and education. Most team-members are located in Montréal, and bind with multiple professional, scientific, academic and technical networks spanning across the globe.
 
-Our offices are located within the Environmental Design Building of the University of Montréal's Mountain campus. 
+Our offices are located on unceded indigenous territory within the Environmental Design Building of the University of Montréal's Mountain campus.
