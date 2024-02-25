@@ -1,11 +1,11 @@
 ---
-title: "Report giving us insight on emerging technologies in cities"
+title: Report giving us insight on emerging technologies in cities
 author: UNESCO Chair in Urban Landscape
 tags:
 location: Montréal
-participants:
-participants_companies:
-features_img: /assets/images/IMG_0522.jpeg
+participants: Léandry Jieutsa, Shin Koseki, Jérôme Chenal 
+participants_companies: Université de Montréal, Mila, Obvia, EPFL
+featured_img: /assets/images/IMG_0522.jpeg
 img_credit:
 alt:
 ---
