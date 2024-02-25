@@ -10,7 +10,7 @@ featured_img: /assets/images/
 img_credit:
 alt:
 ---
-The UNESCO Chair in Urban Landscape has obtained financial support from UdeM international for the year 2024, for the following projects:
+UdeM international funds three of the Chair's projects that push the boundaries of international research, teaching and cooperation.
 
 ## Datathink
 The Datathink research seminar explores the themes of digitalization and data in the planning disciplines. Initiated in 2016 at the École Polytechnique Fédérale de Lausanne and ETH Zurich, it is today co-organized by the UNESCO Chair in Urban Landscape at the University of Montreal, the Max Planck Center for Digital Visual Studies of University of Zurich, and the Max Planck Institute for the History of Art and Architecture – Bibliotheca Herziana. The objective of the 2024 edition of the seminar is to explore AI governance on and by cities.
