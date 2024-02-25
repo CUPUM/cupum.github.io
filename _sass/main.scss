@@ -118,17 +118,18 @@ span.b{
 /* Footer */
 .footer{
 	background-color: #ffffff;
+	
+	/* Container */
+    .container {
+      width: 46px;
+      height: 46px;
+    }
+
+    .container img {
+      width: 100%;
+    }
 } 
 
-/* Container */
-.container {
-    width: 30px;
-    height: 30px;
-}
-
-.container img {
-    width: 100%;
-}
 
 /* Navigation menu */
 .navigation-menu{
