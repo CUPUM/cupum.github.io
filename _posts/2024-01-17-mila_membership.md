@@ -10,7 +10,7 @@ featured_img: /assets/images/
 img_credit:
 alt:
 ---
-Shin Koseki, assistant professor at the school of urban planning and landscape architecture of the Faculty of Environmental Design and holder of the UNESCO Chair in urban landscape of the University of Montreal, has been named an affiliate member of Mila, the ‘Artificial Intelligence Institute of Quebec’. This appointment consolidates the numerous collaborations between the UNESCO Chair and the world-renowned non-profit organization on the development of responsible artificial intelligence systems (AIS) for and by cities.
+The Mila Board of Directors have appointed Shin Koseki as Affiliate Member for 2023-2026. This appointment consolidates the numerous collaborations between the UNESCO Chair and the world-renowned non-profit organization on the development of responsible artificial intelligence systems (AIS) for and by cities.
 
 Recent collaborations include the white paper “AI and Cities: Risks, Applications and Governance” published by UN Habitat of which Shin Koseki was the first author, and the research project “AI EDI Espace Public” funded by the ministry of Economy, Innovation and Energy. This research project, carried out with citizens of Montreal as well as numerous architecture and urban planning offices, aims to design an AIS that can assess the quality of public space from an inclusive and intersectoral approach.
 
