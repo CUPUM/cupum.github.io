@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Hello world"
+title: ""
 date: 2024-02-24
 author: UNESCO Chair in Urban Landscape
-tags: test
+tags:
 
 category: blog
 blog: true
