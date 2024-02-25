@@ -1,6 +1,6 @@
 ---
 short_name: UNESCO Studio
-name: UNESCO Studio (Workshop Atelier Terrain UNESCO)
+name: Fostering international collaboration on sustainable and inclusive city making
 participants_universities: [Université de Montréal]
 participants_ngos: []
 partners: []

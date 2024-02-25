@@ -1,6 +1,6 @@
 ---
 short_name: Fluvialities
-name: Fluvialities
+name: Projecting the transition of urban territories along continental rivers
 participants_universities: [Université de Montréal, Université du Québec en Outaouais, Université Laurentienne, Université Mémoriale de St-Jean-de-Terre-Neuve]
 participants_ngos: []
 partners: []
