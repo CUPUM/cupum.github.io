@@ -1,5 +1,15 @@
-# Three international project find support from the University of Montreal
-
+---
+title: Three international project find support from the University of Montreal
+author: UNESCO Chair in Urban Landscape
+category: Funding
+tags:
+location: Montréal
+participants: 
+participants_companies:
+featured_img: /assets/images/
+img_credit:
+alt:
+---
 The UNESCO Chair in Urban Landscape has obtained financial support from UdeM international for the year 2024, for the following projects:
 
 ## Datathink
