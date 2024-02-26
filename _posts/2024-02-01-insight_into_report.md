@@ -1,7 +1,7 @@
 ---
 title: Get insight into emerging technologies in cities
 author: UNESCO Chair in Urban Landscape
-category: Report
+category: Report published
 tags:
 location: Montréal
 participants: Léandry Jieutsa, Shin Koseki, Jérôme Chenal 

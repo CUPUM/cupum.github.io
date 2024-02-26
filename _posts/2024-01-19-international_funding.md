@@ -1,7 +1,7 @@
 ---
 title: Three international project find support from the University of Montreal
 author: UNESCO Chair in Urban Landscape
-category: Funding
+category: Funding received
 tags:
 location: Montréal
 participants: 

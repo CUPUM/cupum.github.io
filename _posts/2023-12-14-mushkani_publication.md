@@ -1,7 +1,7 @@
 ---
 title: Urban Planning in the Digital Age, Views of the Contributions of Research in Planning
 author: UNESCO Chair in Urban Landscape
-category: Event
+category: Round table organized
 tags: 
 location: Montréal
 participants: Jérôme Chenal, Léandry Jieutsa, Shin Koseki 
