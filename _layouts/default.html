@@ -1,27 +1,18 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-      <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-        {% feed_meta %}
-        {% seo %}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+    {% feed_meta %} {% seo %}
   </head>
-	<body>
-		<div class="container">
-			<div class="header">
-				{% include contact.html %}
-			</div>
-			<div class="navigation-menu">
-				{% include navigation.html %}
-			</div>
-			<div class="content">
-				{{ content }}
-			</div>
-			<div class="footer">
-				{% include footer.html %}
-			</div>
-		</div>
-	</body>
-  
+  <body>
+    <div class="container">
+      <div class="header">{% include contact.html %}</div>
+      <div class="navigation-menu">{% include navigation.html %}</div>
+      <div class="content">{{ content }}</div>
+      <div class="footer">{% include footer.html %}</div>
+    </div>
+  </body>
 </html>
