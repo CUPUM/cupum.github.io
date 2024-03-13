@@ -18,6 +18,4 @@ Originaire de Montréal, Shin Koseki est formé à l’architecture, à l’urba
 
 Avant de rejoindre l’Université de Montréal, Shin Koseki a été chercheur aux Écoles polytechniques fédérales de Lausanne (EPFL) et de Zürich (ETH Zürich), à l’Université d’Oxford (Oxon.), à l’Université nationale de Singapore (NUS), au Massachusetts Institute of Technology (MIT), à l’Université de Zürich (UZH) et à la Société Max-Planck (MPG).
 
-L’annonce de la nouvelle sur le site de l’Université de Montréal:
-
-https://nouvelles.umontreal.ca/article/2021/05/17/shin-koseki-est-nomme-titulaire-de-la-chaire-unesco-en-paysage-urbain/
+[Voir l'annonce de la nouvelle sur le site de l’Université de Montréal](https://nouvelles.umontreal.ca/article/2021/05/17/shin-koseki-est-nomme-titulaire-de-la-chaire-unesco-en-paysage-urbain/)
