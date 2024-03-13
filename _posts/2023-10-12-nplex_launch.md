@@ -3,7 +3,7 @@ title: Presentation of a platform that promotes design projects
 author: UNESCO Chair in Urban Landscape
 category: Paltform launched
 tags: 
-location: Montréal
+location: Montreal
 participants: Shin Koseki, Emmanuel Baudry
 participants_companies: Université de Montréal
 featured_img: /assets/images/
