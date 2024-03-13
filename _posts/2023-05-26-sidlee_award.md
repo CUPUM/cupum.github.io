@@ -3,7 +3,7 @@ title: Sid Lee Architecture Master’s Award
 author: UNESCO Chair in Urban Landscape
 category: Student awarded
 tags: 
-location: Montréal
+location: Montreal
 participants:
 participants_companies: Université de Montréal, Sidlee Architecture
 featured_img: /assets/images/
