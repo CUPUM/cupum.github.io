@@ -5,7 +5,7 @@ participants_universities: [Université de Montréal, National Science Research 
 participants_ngos: []
 partners: []
 featured_img: /assets/images/jieutsa-photo_projet_5g-20240313.png
-img_credit: Leandry Jieutsa
+img_credit:
 img_link:
 alt:
 ---
