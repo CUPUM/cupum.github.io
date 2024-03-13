@@ -3,7 +3,7 @@ title: The UNESCO Chair in Urban Landscape receives funding to develop an Inclus
 author: UNESCO Chair in Urban Landscape
 category: Funded received
 tags: 
-location: Montréal
+location: Montreal
 participants: 
 participants_companies: Université de Montréal
 featured_img: /assets/images/
