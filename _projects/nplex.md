@@ -1,9 +1,9 @@
 ---
-short_name: AIAI 
-name: Aligning generative AI for more inclusive public spaces
+short_name: Nplex
+name: A platform promoting excellence across modest-scale design projects
 participants_universities: [Université de Montréal]
-participants_ngos: [Mila]
-partners: []
+participants_ngos: []
+partners: [City of Montreal]
 featured_img: /assets/images/
 img_credit: 
 img_link: 
