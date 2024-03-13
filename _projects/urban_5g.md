@@ -4,9 +4,9 @@ name: Planning the impact of 60 000 5G antennas on urban landscapes in Montréal
 participants_universities: [Université de Montréal, National Science Research Institute, University of Québec in Montréal]
 participants_ngos: []
 partners: []
-featured_img: /assets/images/
-img_credit: 
-img_link: 
+featured_img: /assets/images/jieutsa-photo_projet_5g-20240313.png
+img_credit: Leandry Jieutsa
+img_link:
 alt:
 ---
 This project aims to define inclusive design options and guidelines for the visual identity of 5G antennas in the urban environment in Montreal. Seen as the key to the future of telecommunications, the implementation of the 5G network will involve the deployment of thousands of antennas to ensure uninterrupted connectivity to users. The harmonious integration of these antennas into the urban landscape requires careful consideration given their significant visual impact.
