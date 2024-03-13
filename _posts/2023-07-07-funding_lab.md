@@ -3,7 +3,7 @@ title: The UNESCO Chair in Urban Landscape receives funding for its NULAB projec
 author: UNESCO Chair in Urban Landscape
 category: Funding received
 tags: 
-location: Montréal
+location: Montreal
 participants: Shin Koseki 
 participants_companies: Université de Montréal, ACSA
 featured_img: /assets/images/
