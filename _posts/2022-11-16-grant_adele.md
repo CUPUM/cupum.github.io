@@ -1,3 +1,4 @@
+---
 title: A student receives a 5,000$ discovery scholarship
 author: UNESCO Chair in Urban Landscape
 category: Student awarded
