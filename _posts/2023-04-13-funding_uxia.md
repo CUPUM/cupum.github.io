@@ -1,7 +1,7 @@
 ---
 title: The UNESCO Chair in Urban Landscape receives funding to develop an Inclusive UX IA protocol
 author: UNESCO Chair in Urban Landscape
-category: Funded received
+category: Funding received
 tags: 
 location: Montreal
 participants: 
