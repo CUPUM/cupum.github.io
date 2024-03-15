@@ -39,6 +39,4 @@ Postdoctoral researcher
 UNESCO Chair in Urban Landscape at the University of Montreal
 Email: cassandre.chatonnier@umontreal.ca
 
- 
-
-This event takes place thanks to the support from the New Frontiers in Research Fund and the Sid Lee Architecture Fund.
+ This event takes place thanks to the support from the New Frontiers in Research Fund and the Sid Lee Architecture Fund.
