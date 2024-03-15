@@ -1,3 +1,4 @@
+---
 title: Andréanne Bernard, student at the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
 category: Research presented
