@@ -1,3 +1,4 @@
+---
 title: Learning about the river environment
 author: UNESCO Chair in Urban Landscape
 category: Seminar attended
