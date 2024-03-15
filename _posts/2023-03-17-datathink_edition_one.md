@@ -10,7 +10,7 @@ featured_img: /assets/images/
 img_credit:
 alt:
 ---
-igital technology plays a preponderant role in the production processes of urban and architectural space, well beyond computer-aided design tools. The digital traces left by everyone, artificial intelligence systems, and telecommunications infrastructures are changing our relationship to the world, to the city and to the individual. Despite this increased dependence on digital data and services, designers and planners remain few tools to understand their current and future impact on the natural, social and integrated environment.
+Digital technology plays a preponderant role in the production processes of urban and architectural space, well beyond computer-aided design tools. The digital traces left by everyone, artificial intelligence systems, and telecommunications infrastructures are changing our relationship to the world, to the city and to the individual. Despite this increased dependence on digital data and services, designers and planners remain few tools to understand their current and future impact on the natural, social and integrated environment.
 
 The seminar, “Datathink: Issues and digital tools in planning”, open to students enrolled in a research master’s program, took place in Rome, Italy, from February 27 to March 3, 2023. It aimed to develop a critical reflection and a technical understanding of the production, use and integration of digital data in the fields of planning (architecture, urban planning, landscape architecture, design, and governance), as well as than in the humanities (history of art and architecture, and history and theory of landscape).
 
