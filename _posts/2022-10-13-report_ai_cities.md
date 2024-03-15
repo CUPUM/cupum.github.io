@@ -1,3 +1,4 @@
+---
 title: UN habitat & MILA publish a guide to bring attention on AI in cities
 author: UNESCO Chair in Urban Landscape
 category: Report published
