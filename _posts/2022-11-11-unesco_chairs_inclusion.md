@@ -1,3 +1,4 @@
+---
 title: Conference of the UNESCO Chairs in Paris
 author: UNESCO Chair in Urban Landscape
 category: Event organized
