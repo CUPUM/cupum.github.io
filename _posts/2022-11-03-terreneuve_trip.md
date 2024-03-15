@@ -1,3 +1,4 @@
+---
 title: Following the urban traces at Terre-Neuve
 author: UNESCO Chair in Urban Landscape
 category: Trip organized
