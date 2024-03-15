@@ -4,7 +4,7 @@ author: UNESCO Chair in Urban Landscape
 category: Conference organized
 tags: 
 location: Montréal
-participants: 
+participants: Cassandre Chatonnier, Toumadher Ammar, Shin Koseki
 participants_companies: Université de Montréal
 featured_img: /assets/images/
 img_credit:
