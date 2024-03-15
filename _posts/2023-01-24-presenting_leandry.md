@@ -1,3 +1,4 @@
+---
 title: Leandry Jieutsa joins the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
 category: Research presented
