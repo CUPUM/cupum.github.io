@@ -13,4 +13,6 @@ The UNESCO Chair in Urban Landscape has been running a research-creation program
 
 The UNESCO Studio employs urban ethnography methods to generate representations of the city. These representations are then used to propose future development of the areas, utilizing creative design, planning skills, and discipline-specific tools. At the end of the studio, research findings and design proposals are presented in an exhibition.
 
-Since 2023, the UNESCO Studio focusses on cities built along major rivers as part of the ongoing UNESCO Chair in Urban Landscape projects. This studio is part of the larger research project “Fluvialités”, which aims to develop practical and transferable knowledge about major rivers' governance and integrated management.
+Since 2023, the UNESCO Studio focussed on cities built along major rivers as part of the ongoing UNESCO Chair in Urban Landscape projects. This studio is part of the larger research project “Fluvialités”, which aims to develop practical and transferable knowledge about major rivers' governance and integrated management.
+
+The upcoming edition of the UNESCO Studio will be held from May 13-24 in Phnom Penh, Cambodia. 
