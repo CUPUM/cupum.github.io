@@ -1,6 +1,6 @@
 ---
-short_name: IAIA
-name: (todo)
+short_name: AIAI
+name: Description for AIAI
 participants_universities: [Université de Montréal]
 participants_ngos: []
 partners: [City of Montréal]
