@@ -5,7 +5,7 @@ participants_universities: [Université de Montréal]
 participants_ngos:
 partners: []
 featured_img: /assets/images/projects/gillespie_cloutier-photo-vietnam-2023.png
-img_credit:Leila Gillespie-Cloutier 
+img_credit: Leila Gillespie-Cloutier 
 img_link: 
 alt:
 ---
