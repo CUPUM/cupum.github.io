@@ -4,8 +4,8 @@ name: Fostering international collaboration on sustainable and inclusive city-ma
 participants_universities: [Université de Montréal]
 participants_ngos:
 partners: []
-featured_img: /assets/images/
-img_credit: 
+featured_img: /assets/images/projects/gillespie_cloutier-photo-vietnam-2023.jpg
+img_credit:Leila Gillespie-Cloutier 
 img_link: 
 alt:
 ---
