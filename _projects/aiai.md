@@ -1,9 +1,9 @@
 ---
-short_name: AIAI
+short_name: AI Alignment for Inclusion
 name: This project aims to use AI to visualize inclusive public spaces for Montreal, reflecting the needs and aspirations of a diverse populace, including marginalized identities.
-participants_universities: [Université de Montréal, Mila]
+participants_universities: [Université de Montréal, Mila - Quebec AI Institute]
 participants_ngos: []
-partners: [Enclume, SidLee Architecture, Dark Matters Lab, IVADO]
+partners: [Enclume, Sid Lee Architecture, Dark Matter Labs, IVADO, Canadian Commission for UNESCO]
 featured_img: /assets/images/aiai_stable_diffusion_xl_20240228.jpg
 img_credit: 
 img_link: 
