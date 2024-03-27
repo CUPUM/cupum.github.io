@@ -2,7 +2,7 @@
 title: Sarah Tannir (she/her)
 category: Team
 tags:
-featured_img: /assets/images/
+featured_img: /assets/images/people/sarah_tannir.jpeg
 img_credit:
 alt:
 ---
