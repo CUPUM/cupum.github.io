@@ -4,24 +4,23 @@ title: Team
 <div class="feed">
 	<h1>Team</h1>
 	<div class="archive">
-		{% for team in site.teams %}
+		{% for post in site.posts %}
 		<li> 
 			<article class="article">
-				<img class="image" src="{{ team.featured_img }}" loading="lazy" alt={{ page.alt }}>
+				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt={{ page.alt }}>
 				<div class=date>
-					{{ team.date | date:"%y.%m.%d" }}
+					{{ post.date | date:"%y.%m.%d" }}
 			    </div>
 				<div class=category>
-					{{ team.category }} in
+					{{ post.category }} in
 				</div>
 				<div class=location>
-				{{ team.location }}
+				{{ post.location }}
 				</div>
-				<h2><a href="{{ team.url }}">{{ team.title }}</a></h2> 
-				{{ team.excerpt }}
+				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2> 
+				{{ post.excerpt }}
 			</article>
 		</li>
 		{% endfor %}
 	</div>
 </div>
-
