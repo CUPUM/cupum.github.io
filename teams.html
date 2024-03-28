@@ -7,7 +7,7 @@ title: Team
 		{% for team in site.teams %}
 		<li> 
 			<article class="article">
-				<img class="image" src="{{ team.featured_img }}" loading="lazy" alt={{ page.alt }}>
+				<img class="image" src="{{ project.featured_img }}" loading="lazy" alt={{ page.alt }}>
 				<div class=date>
 					{{ team.date | date:"%y.%m.%d" }}
 			    </div>
@@ -17,7 +17,7 @@ title: Team
 				<div class=location>
 				{{ team.location }}
 				</div>
-				<h2><a href="{{ team.url }}">{{ team.title }}</a></h2> 
+				<h2><a href="{{ project.url }}">{{ team.title }}</a></h2> 
 				{{ team.excerpt }}
 			</article>
 		</li>
