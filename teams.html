@@ -7,7 +7,7 @@ title: Team
 		{% for post in site.posts %}
 		<li> 
 			<article class="article">
-				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt={{ page.alt }}>
+				<img class="image" src="{{ team.featured_img }}" loading="lazy" alt={{ page.alt }}>
 				<div class=date>
 					{{ post.date | date:"%y.%m.%d" }}
 			    </div>
@@ -17,7 +17,7 @@ title: Team
 				<div class=location>
 				{{ post.location }}
 				</div>
-				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2> 
+				<h2><a href="{{ team.url }}">{{ post.title }}</a></h2> 
 				{{ post.excerpt }}
 			</article>
 		</li>
