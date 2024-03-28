@@ -1,26 +1,18 @@
 ---
 title: Team
 ---
+
 <div class="feed">
-	<h1>Team</h1>
-	<div class="archive">
-		{% for post in site.posts %}
-		<li> 
-			<article class="article">
-				<img class="image" src="{{ team.featured_img }}" loading="lazy" alt={{ page.alt }}>
-				<div class=date>
-					{{ post.date | date:"%y.%m.%d" }}
-			    </div>
-				<div class=category>
-					{{ post.category }} in
-				</div>
-				<div class=location>
-				{{ post.location }}
-				</div>
-				<h2><a href="{{ team.url }}">{{ post.title }}</a></h2> 
-				{{ post.excerpt }}
-			</article>
-		</li>
-		{% endfor %}
-	</div>
+    <h1>Team</h1>
+    <div class="archive">
+        {% for member in site.teams %}
+        <li> 
+            <article class="article">
+                <img class="image" src="{{ member.featured_img }}" loading="lazy" alt="{{ member.alt }}">
+                <h2><a href="{{ member.url }}">{{ member.title }}</a></h2> 
+                {{ member.content }}
+            </article>
+        </li>
+        {% endfor %}
+    </div>
 </div>
