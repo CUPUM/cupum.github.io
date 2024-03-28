@@ -2,7 +2,7 @@
 title: Sheïma Shiri (she/her)
 category: Team
 tags:
-featured_img: /assets/images/people/sheima_shiri.jpeg
+featured_img: /assets/images/people/sheima_shiri.jpg
 img_credit:
 alt:
 ---

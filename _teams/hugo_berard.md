@@ -2,7 +2,7 @@
 title: Hugo Bérard (he/him)
 category: Team
 tags:
-featured_img: /assets/images/people/hugo_berard.jpeg
+featured_img: /assets/images/people/hugo_berard.jpg
 img_credit:
 alt:
 ---

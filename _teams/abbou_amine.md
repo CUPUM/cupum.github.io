@@ -2,7 +2,7 @@
 title: Mohamed Amine Abbou (he/him)
 category: Team
 tags:
-featured_img: /assets/images/people/abbou_amine.jpeg
+featured_img: /assets/images/people/abbou_amine.jpg
 img_credit:
 alt:
 ---

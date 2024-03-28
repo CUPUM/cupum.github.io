@@ -2,7 +2,7 @@
 title: Andréanne Bernard (she/her)
 category: Team
 tags:
-featured_img: /assets/images/people/andreanne_bernard.jpeg
+featured_img: /assets/images/people/andreanne_bernard.jpg
 img_credit:
 alt:
 ---

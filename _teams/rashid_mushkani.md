@@ -2,7 +2,7 @@
 title: Rashid Mushkani (he/him)
 category: Team
 tags:
-featured_img: /assets/images/people/rashid_mushkani.jpeg
+featured_img: /assets/images/people/rashid_mushkani.jpg
 img_credit:
 alt:
 ---

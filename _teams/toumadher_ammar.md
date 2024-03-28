@@ -2,7 +2,7 @@
 title: Toumadher Ammar (she/her)
 category: Team
 tags:
-featured_img: /assets/images/people/toumadher_ammar.jpeg
+featured_img: /assets/images/people/toumadher_ammar.jpg
 img_credit:
 alt:
 ---

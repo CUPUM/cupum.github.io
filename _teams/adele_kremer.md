@@ -2,7 +2,7 @@
 title: Adèle Kremer (she/her)
 category: Team
 tags:
-featured_img: /assets/images/people/adele_kremer.jpeg
+featured_img: /assets/images/people/adele_kremer.jpg
 img_credit:
 alt:
 ---
