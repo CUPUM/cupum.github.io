@@ -2,7 +2,7 @@
 title: Emmanuel Beaudry-Marchand (he/him)
 category: Team
 tags:
-featured_img: /assets/images/people/emmanuel_beaudry-marchand.jpeg
+featured_img: /assets/images/people/emmanuel_beaudry-marchand.jpg
 img_credit:
 alt:
 ---
