@@ -19,6 +19,11 @@ defaults:
       layout: "teaching"
   - scope:
       path: ""
+      type: "teams"
+    values:
+      layout: "team"
+  - scope:
+      path: ""
       type: "posts"
     values:
       layout: "post"
