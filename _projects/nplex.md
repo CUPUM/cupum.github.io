@@ -1,6 +1,6 @@
 ---
 short_name: Nplex
-name: A platform promoting excellence across modest-scale design projects
+name: Promoting excellence in design across small-scale, financially modest, architectural and planning projects in Montreal
 participants_universities: [Université de Montréal]
 participants_ngos: []
 partners: [City of Montreal]
