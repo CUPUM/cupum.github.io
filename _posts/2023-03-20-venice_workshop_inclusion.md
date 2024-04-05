@@ -14,8 +14,4 @@ Gathered in Venice for a workshop on social inclusion in cities, five UNESCO cha
 
 The group aims at developing impactful fundamental, applied and action research on the inclusion in cities, and work closely with UNESCO, other international organizations, as well as with governments across the globe. Actions of the group should contribute to reaching Sustainable Development Goals (SDGs) 10 on reducing inequalities and 11 on sustainable cities and communities. In the upcoming months, the group will reach out to other UNESCO Chairs who would be interested in joining. The first item on the agenda is organizing a hybrid seminar amongst group members in the fall of 2023. The seminar should focus on how chairs can work with UNESCO and other members of the UN family towards increasing social inclusion in cities.
 
-Rational for the group by Shin Koseki
-
-For more information, please contact Rashid Mushkani, research assistant at the UNESCO Chair in Urban Landscape: rashid.ahmad.mushkani@umontreal.ca
-
 This initiative has been made possible thanks to the Sid Lee Architecture Fund.
