@@ -1,5 +1,5 @@
 ---
-title: Datathink: Issues and digital tools in planning
+title: Datathink “Issues and digital tools in planning”
 author: UNESCO Chair in Urban Landscape
 category: Workshop organized
 tags: 
