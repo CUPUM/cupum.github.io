@@ -18,12 +18,4 @@ Rashid’s article, “Benchmarking Inclusion in Public Space: An Image-based As
 
 This research falls under the ongoing work of the UNESCO Chair in Urban Landscape in studying inclusion in public spaces.
 
-Details on the symposium here: https://just-city.org/conferences/practice/
-
- 
-
-For more information on the research:      
-Rashid Mushkani
-Doctorate
-UNESCO Chair in Urban Landscape
-Email: rashid.ahmad.mushkani@umontreal.ca
+[Details on the symposium](https://just-city.org/conferences/practice/)
