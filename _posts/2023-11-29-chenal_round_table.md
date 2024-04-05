@@ -18,5 +18,3 @@ Bringing together researchers, urban planners and technological experts, this ev
 
 Time: 12:45-2:45 p.m.
 Location: Pavilion of the Faculty of Planning of the University of Montreal (2940 Chem. de la Côte-Sainte-Catherine, Montreal, QC), room 3073
-
-Registration link: https://forms.office.com/r/YyYYZNrMH6
