@@ -1,5 +1,5 @@
 ---
-title: Research day on inclusive knowledge: indigeneity, public space and artificial intelligence
+title: Research day on inclusive knowledge “indigeneity, public space and artificial intelligence”
 author: UNESCO Chair in Urban Landscape
 category: Conference organized
 tags: 
@@ -33,10 +33,6 @@ L’EDI en Intelligence artificielle : Leina Sellam – IVADO
 IA et Finance Durable: Patricia Gautrin – Algora Lab
 L’éthique de l’intelligence artificielle: Martin Gibert – CRÉ
 
-For information :                                           
-Cassandre Chatonnier
-Postdoctoral researcher
-UNESCO Chair in Urban Landscape at the University of Montreal
 Email: cassandre.chatonnier@umontreal.ca
 
  This event takes place thanks to the support from the New Frontiers in Research Fund and the Sid Lee Architecture Fund.
