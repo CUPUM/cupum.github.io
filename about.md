@@ -17,7 +17,7 @@ Our offices are located on unceded indigenous territory within the Environmental
             <article class="article">
                 <img class="image" src="{{ member.featured_img }}" loading="lazy" alt="{{ member.alt }}">
                 <h2><a href="{{ member.url }}">{{ member.title }}</a></h2> 
-                {{ member.content }}
+                {{ member.excerpt }}
             </article>
         </li>
         {% endfor %}
