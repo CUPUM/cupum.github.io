@@ -20,4 +20,4 @@ Organizing institutions of the WAT UNESCO in Hanoi comprise the UNESCO Chair in 
 
 The WAT UNESCO in Hanoi is made possible thanks to the generous support of the Québec Ministry of International Affairs and Francophonie, the University of Montréal, and the Sid Lee Architecture Fund. Organizers of the WAT UNESCO in Hanoi have also received the help of many: the Canadian Embassy in Viet Nam, the Permanent Delegation of Canada at UNESCO, the Permanent Delegation of Viet Nam at UNESCO, the Representant of Québec at UNESCO, the UNESCO Office in Hanoi, the UNESCO Office in Bangkok, the Representation of UN-Habitat in Hanoi, and the Canadian Commission for UNESCO.
 
-Link to the unesco article: https://www.unesco.org/en/articles/designing-inclusive-and-sustainable-creative-economy-hanoi-workshop
+Link to the [unesco article](https://www.unesco.org/en/articles/designing-inclusive-and-sustainable-creative-economy-hanoi-workshop)
