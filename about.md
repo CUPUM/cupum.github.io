@@ -14,15 +14,17 @@ Our offices are located on unceded indigenous territory within the Environmental
 ## Our Team
 
 <ul>
-{% assign team_members = site.team | sort: 'name' %}
-{% for member in team_members %}
-  <li>
-    <img src="{{ member.portrait }}" alt="{{ member.name }}" class="team-photo">
-    <h2><a href="{{ member.url }}">{{ member.name }} ({{member.pronouns}})</a></h2>
-    <p>{{ member.position }}</p>
-    <p>{{ member.bio }}</p>
-  </li>
-{% endfor %}
+<div class="archive">
+  {% assign team_members = site.team | sort: 'name' %}
+  {% for member in team_members %}
+    <li>
+      <img src="{{ member.portrait }}" alt="{{ member.name }}" class="team-photo">
+      <h2><a href="{{ member.url }}">{{ member.name }} ({{member.pronouns}})</a></h2>
+      <p>{{ member.position }}</p>
+      <p>{{ member.bio }}</p>
+    </li>
+  {% endfor %}
+</div>
 </ul>
 
 
