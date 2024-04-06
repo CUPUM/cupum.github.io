@@ -1,8 +1,10 @@
 ---
-title: Amel Gherbi-Rahal (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/amel_gherbi-rahal.jpeg
+name: Amel Gherbi-Rahal
+title:
+pronouns: she/her
+position: Postdoctoral researcher
+bio:
+portrait: /assets/images/people/amel_gherbi-rahal.jpeg
 img_credit:
 alt:
 ---

@@ -1,8 +1,10 @@
 ---
-title: Leandry Jieutsa (he/him)
-category: Team
-tags:
-featured_img: /assets/images/people/leandry_jieutsa.jpeg
+name: Leandry Jieutsa
+title:
+pronouns: he/him
+position: Doctoral researcher
+bio:
+portrait: /assets/images/people/leandry_jieutsa.jpeg
 img_credit:
 alt:
 ---

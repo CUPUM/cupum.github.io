@@ -1,8 +1,10 @@
 ---
-title: Sarah Tannir (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/sarah_tannir.jpeg
+name: Sarah Tannir
+title:
+pronouns: she/her
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/sarah_tannir.jpeg
 img_credit:
 alt:
 ---

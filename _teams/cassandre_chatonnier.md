@@ -1,8 +1,10 @@
 ---
-title: Cassandre Chatonnier (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/cassandre_chatonnier.jpeg
+name: Cassandre Chatonnier
+title: Dr.
+pronouns: she/her
+position: Postdoctoral researcher
+bio:
+portrait: /assets/images/people/cassandre_chatonnier.jpeg
 img_credit:
 alt:
 ---

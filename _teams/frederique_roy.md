@@ -1,8 +1,10 @@
 ---
-title: Frédérique Roy (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/frederique_roy.jpeg
+name: Frédérique Roy
+title:
+pronouns: she/her
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/frederique_roy.jpeg
 img_credit:
 alt:
 ---

@@ -1,8 +1,10 @@
 ---
-title: Adèle Kremer (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/adele_kremer.jpg
+name: Adèle Kremer
+title:
+pronouns: she/her
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/adele_kremer.jpg
 img_credit:
 alt:
 ---

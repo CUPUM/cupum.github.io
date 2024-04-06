@@ -1,6 +1,8 @@
 ---
-layout: about
+layout: default
+title: About Us
 ---
+
 # Producing and transmitting knowledge on cities’ ecological, social and digital transitions 
 The UNESCO Chair in Urban Landscape of the University of Montreal contributes to research and education on cities, supporting and raising awareness among elected officials and municipal experts, governments, and citizens for the future of their landscapes and quality of life within urban settings. Through the implementation of its objectives, the Chair builds bridges between the academic world, civil society, local communities, research, and political decisions. Thereby, it participates to a sustainable development of cities and urban territories around the world.
 
@@ -9,21 +11,19 @@ The Chair’s team gathers career and student researchers and educators with exp
 
 Our offices are located on unceded indigenous territory within the Environmental Design Building of the University of Montréal's Mountain campus.
 
-<div class="feed">
-    <h1>Team</h1>
-    <div class="archive">
-        {% for member in site.teams %}
-        <li> 
-            <article class="article">
-                <img class="image" src="{{ member.featured_img }}" loading="lazy" alt="{{ member.alt }}">
-                <h2><a href="{{ member.url }}">{{ member.title }}</a></h2> 
-                {{ member.excerpt }}
-            </article>
-        </li>
-        {% endfor %}
-    </div>
-</div>
+## Our Team
 
+<ul>
+{% assign team_members = site.team | sort: 'name' %}
+{% for member in team_members %}
+  <li>
+    <img src="{{ member.portrait }}" alt="{{ member.name }}" class=team-photo">
+    <h2><a href="{{ member.url }}">{{ member.name }} ({{member.pronouns}})</a></h2>
+    <p>{{ member.position }}</p>
+    <p>{{ member.bio }}</p>
+  </li>
+{% endfor %}
+</ul>
 
 
 

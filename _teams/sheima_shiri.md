@@ -1,8 +1,10 @@
 ---
-title: Sheïma Shiri (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/sheima_shiri.jpg
+name: Sheïma Shiri
+title:
+pronouns: she/her
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/sheima_shiri.jpg
 img_credit:
 alt:
 ---

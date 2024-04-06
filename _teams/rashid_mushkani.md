@@ -1,8 +1,10 @@
 ---
-title: Rashid Mushkani (he/him)
-category: Team
-tags:
-featured_img: /assets/images/people/rashid_mushkani.jpg
+name: Rashid Mushkani
+title: 
+pronouns: he/him
+position: Doctoral researcher
+bio:
+portrait: /assets/images/people/rashid_mushkani.jpg
 img_credit:
 alt:
 ---

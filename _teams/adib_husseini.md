@@ -1,8 +1,10 @@
 ---
-title: Adib Husseini (he/him)
-category: Team
-tags:
-featured_img: /assets/images/people/adib_husseini.jpeg
+name: Adib Husseini
+title:
+pronouns: he/him
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/adib_husseini.jpeg
 img_credit:
 alt:
 ---

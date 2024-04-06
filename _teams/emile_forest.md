@@ -1,8 +1,10 @@
 ---
-title: Emile Forest (he/him)
-category: Team
-tags:
-featured_img: /assets/images/people/emile_forest.jpeg
+name: Emile Forest
+title: Guest professor
+pronouns: he/him
+position: Associate researcher
+bio:
+portrait: /assets/images/people/emile_forest.jpeg
 img_credit:
 alt:
 ---

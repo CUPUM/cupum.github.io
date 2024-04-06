@@ -1,8 +1,10 @@
 ---
-title: Shin Koseki, Prof. DSc. (he/him)
-category: Team
-tags:
-featured_img: /assets/images/people/shin_koseki.jpg
+name: Shin Koseki
+title: Prof. DSc. 
+pronouns: he/him
+position: Chairholder
+bio:
+portrait: /assets/images/people/shin_koseki.jpg
 img_credit:
 alt:
 ---

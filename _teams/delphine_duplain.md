@@ -1,8 +1,10 @@
 ---
-title: Delphine Duplain (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/delphine_duplain.jpeg
+name: Delphine Duplain
+title:
+pronouns: she/her
+position: Research professional
+bio:
+portrait: /assets/images/people/delphine_duplain.jpeg
 img_credit:
 alt:
 ---

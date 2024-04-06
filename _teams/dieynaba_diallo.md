@@ -1,8 +1,10 @@
 ---
-title: Dieynaba Diallo (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/dieynaba_diallo.jpeg
+name: Dieynaba Diallo
+title:
+pronouns: she/her
+position: Undergraduate researcher
+bio:
+portrait: /assets/images/people/dieynaba_diallo.jpeg
 img_credit:
 alt:
 ---

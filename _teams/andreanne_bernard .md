@@ -1,8 +1,10 @@
 ---
-title: Andréanne Bernard (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/andreanne_bernard.jpg
+name: Andréanne Bernard
+title:
+pronouns: she/her
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/andreanne_bernard.jpg
 img_credit:
 alt:
 ---

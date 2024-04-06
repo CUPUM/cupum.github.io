@@ -1,8 +1,10 @@
 ---
-title: Emmanuel Beaudry-Marchand (he/him)
-category: Team
-tags:
-featured_img: /assets/images/people/emmanuel_beaudry-marchand.jpg
+name: Emmanuel Beaudry-Marchand
+title:
+pronouns: he/him
+position: Research professional
+bio:
+portrait: /assets/images/people/emmanuel_beaudry-marchand.jpg
 img_credit:
 alt:
 ---

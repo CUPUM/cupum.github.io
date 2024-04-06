@@ -1,8 +1,10 @@
 ---
-title: Meredith Nana Lelièvre (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/meredith_lelievre.jpeg
+name: Meredith Nana Lelièvre
+title:
+pronouns: she/her
+position: Graduate researcher
+bio:
+portrait: /assets/images/people/meredith_lelievre.jpeg
 img_credit:
 alt:
 ---

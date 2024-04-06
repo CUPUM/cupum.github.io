@@ -1,8 +1,10 @@
 ---
-title: Toumadher Ammar (she/her)
-category: Team
-tags:
-featured_img: /assets/images/people/toumadher_ammar.jpg
+name: Toumadher Ammar
+title: Dr.
+pronouns: she/her
+position: Postdoctoral researcher
+bio:
+portrait: /assets/images/people/toumadher_ammar.jpg
 img_credit:
 alt:
 ---

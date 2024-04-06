@@ -5,9 +5,8 @@ collections:
     output: true
   teachings:
     output: true
-  teams:
+  team:
     output: true
-    permalink: /:collection/:name/
 
 defaults:
   - scope:
