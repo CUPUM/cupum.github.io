@@ -2,11 +2,11 @@ main:
   - title: Updates
     url: /
   - title: About
-    url: /about/
+    url: /about.html
   - title: Projects
-    url: /projects/
+    url: /projects.html
   - title: Teaching
-    url: /teachings/
+    url: /teachings.html
 
 footer: 
   - title: Instagram
