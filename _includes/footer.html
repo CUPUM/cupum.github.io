@@ -1,11 +1,9 @@
-<div id="container">
-    <span class="b"></span>
-    <img src="/assets/images/cupum-logo-black_en-20220806.png" alt="" />
-</div>
-
-
-<div>
-	<div>
-		<p>{{ "©UNESCO Chair in Urban Landscape, 2021–2024" }}</p>
-	</div>
-</div>
+<footer class="footer">
+  <div class="footer-menu">
+    <ul class="footer-nav">
+      {% for item in site.data.navigation.footer %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</footer>

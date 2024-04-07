@@ -1,5 +1,19 @@
+# Site settings
+title: UNESCO studio
+email: shin.koseki@umontreal.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  The UNESCO Chair in Urban Landscape at the University of Montreal is a research group in architecture, urban design and planning, and landscape studies headed by Prof. Shin Koseki.
 baseurl: ""
+url: "https://unesco-studio.umontreal.ca"
+twitter_username: unesco_studio
+github_username: cupum
 
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Collections
 collections:
   projects:
     output: true
@@ -8,6 +22,7 @@ collections:
   team:
     output: true
 
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -30,8 +45,19 @@ defaults:
       layout: "default"
   # categories:
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   
