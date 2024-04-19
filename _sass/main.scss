@@ -7,6 +7,7 @@
 html, body {
   height: 100%; /* Full height of the viewport */
   margin: 0; /* Remove default margin */
+  padding: 0;
 }
 
 body {
@@ -35,14 +36,13 @@ body {
   flex: 1; /* Grow to occupy all available space */
 }
 
-.footer {
-  /* Footer styles */
-  width: 100%;
-  background-color: #fffff; /* Example background color */
-  color: white; /* Example text color */
-  text-align: left;
-  padding: 10px 0; /* Example padding */
-}
+
+.flex-container {
+	position:relative;
+	display: flex;
+	justify-content: space-between;
+	max-width:100%;
+  }
 
 
 .note {
@@ -268,23 +268,7 @@ margin: auto;
 }
 
 
-.footer-nav {
-  display: flex;
-  justify-content: right; /* Adjust this as needed */
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  flex-direction: row; /* Default direction */
-}
 
-.footer-nav li {
-  margin: 0 10px; /* Adds horizontal margin; adjust as needed */
-}
-
-.footer-nav a {
-  text-decoration: none; /* Removes underline */
-  color: #333; /* Example: sets link color to a dark gray, adjust as needed */
-}
 
 /* Media query for screens smaller than 600px wide */
 @media (max-width: 600px) {

@@ -1,10 +1,250 @@
 ---
 ---
 @import "main";
+@import "footer";
+@import "home";
+@import "about";
 
 
 /* Add your custom styles below */
-.team-photo {
-  width: 100%; /* Adjust as needed */
+
+.container { 
+    margin: 0 !important; 
+} 
+
+.section {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.logo {
+  position:absolute;
+  width: auto;
+}
+
+.flex-container {
+  position:relative;
+  display: flex;
+  justify-content: space-between;
+  max-width:100%;
+}
+
+#hero-section .logo {
+  position: absolute;
+  top: 80px;
+  left: -35px;
+  width: 175px;
+  z-index: 2; 
+}
+
+.carousel-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  display: none;
+}
+
+.carousel-item.active {
+  display: block; /* Only show the active item */
+}
+
+#featured-project-mission {
+  position: absolute;
+  bottom: 60px;
+  right: 40px;
+  width: 100%;
+  text-align: right;
+  font-size: 5vw;
+  color: white;
+}
+
+#featured-project-name {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  width: 35%;
+  text-align: right;
+  font-size: 2.5vw;
+  color: white;
+}
+
+#presentation-section {
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  text-align: left;
+  color: black;
+}
+
+#presentation-section .logo {
+  position: absolute;
+  bottom: 80px;
+  right: -35px;
+  width: 175px;
+}
+
+.statement {
+  position:absolute;
+  top: 40px;
+  left: 40px;
+  width: 60%;
   height: auto;
+  font-size: 5vw;
+}
+
+.pbox {
+  position:absolute;
+  top: 50%;
+  left: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  width:70%;
+}
+
+.paragraph {
+  flex: 1;
+  margin: 10px;
+  font-size: 2.5vw;
+
+  a, a:link {
+    text-decoration: none;
+  }
+}
+
+.news-section {
+  display: flex;
+  width: 100%;
+  background-color: black;
+  color: white;
+  height: auto;
+
+  a, a:link {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover, a:focus {
+    text-decoration: none;
+  }
+
+  a:visited, a:hover, a:active {
+    color:gray;
+    text-decoration: none;
+  }
+}
+
+.news-updates {
+	width: auto;
+	column-count:auto;
+	column-width:300px;
+	height: auto;
+	padding: 1em;
+	margin: 1.5em auto;
+	column-gap: 1.5em;
+	li {
+	  list-style-type: none;
+	}
+	li h2 {
+		font-size: 26px;
+    font-weight: semi-bold;
+	}
+
+  .news-article-data {
+    font-size: 16px;
+  }
+}
+
+
+#hamburger-menu {
+  cursor: pointer;
+  display: none;
+  position: fixed;
+  right: 20px;
+  top: 20px;
+  z-index: 100;
+
+  .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #333;
+  }
+}
+
+#nav-menu {
+  display: flex;
+  justify-content: flex-end;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  list-style: nome;
+  width: 100%;
+  height: 10%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 99;
+}
+
+#nav-menu ul {
+  padding: 20px;
+  margin: 0;
+  display: flex;
+  list-style-type: none;
+}
+
+#nav-menu ul li {
+  display: inline-block; /* Displays the list items inline */
+  margin-right: 20px; /* Adds some space between the list items */
+}
+
+#nav-menu li a {
+  display: block;
+  padding: 10px 0;
+  text-decoration: none;
+  color: black;
+}
+
+.hidden {
+  display: none;
+}
+
+
+/* Media query for smartphones */
+@media (max-width: 600px) {
+  #hamburger-menu {
+    display: block; /* Show the hamburger */
+  }
+  
+  #nav-menu ul {
+    display: none; /* Hide the inline menu */
+    flex-direction: column; /* Stack vertically */
+  }
+  
+  #nav-menu ul li {
+    margin: 0; /* Remove margin between items for vertical layout */
+  }
+  
+  /* Reveal menu when hamburger is active */
+  #nav-menu.active ul {
+    display: flex;
+  }
+ 
+  #hero-section #logo {
+    width: 100px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 10px;
+  }
 }

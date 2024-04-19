@@ -1,0 +1,1 @@
+The lack of knowledge over biodiversity in cities contributes to the collapse of Life of Earth. Although urban environments are often seen as a threat to nature, they should also help save it. We believe compact cities reduce the need to suburbanize land, while smart design can generate rich ecosystems for flora and fauna.
