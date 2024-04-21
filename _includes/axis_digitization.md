@@ -1,0 +1,1 @@
+Cities play a central role in the creation of disruptive digital technologies such as artifical intelligence. As main financial and knowledge hubs, urban environments provide means and resources for their development and deployment. We look at how urban governance can create a better and safer technology for all.

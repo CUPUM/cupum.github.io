@@ -4,40 +4,42 @@ title: Home
 ---
 
 <!-- Hero Video Section -->
-<div id="hero-section" class="section">
-  <img src="/assets/images/logo.png" alt="UNESCO Chair in Urban Landscape logo" class="logo">
+<section id="hero-section" class="section">
+  <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape sticker" class="sticker top-left">
   {% for post in site.projects %}
       <div class="carousel-item" style="background-image: url('{{ post.video_path }}');">
-        <a href="{{ post.url }}"><p id="featured-project-mission">{{ post.mission }}</p></a>
-        <a href="{{ post.url }}"><p id="featured-project-name">{{ post.name }}&#10464;</p></a>
+        <h3><a href="{{ post.url }}" class="no-icon">{{ post.mission }}</a></h3>
+        <h2><a href="{{ post.url }}">{{ post.name }}</a></h2>
       </div>
   {% endfor %}
-</div>
+</section>
 
 <!-- Presentation Section -->
-<div id="presentation-section" class="section">
-  <img src="/assets/images/logo.png" alt="UNESCO Chair in Urban Landscape logo" class="logo">
-  <p class="statement">Be part of the transition towards brighter, better urban landscapes&#10464;</p>
-  <div class="pbox">
-    <p class="paragraph"><a href="/about.html">{% include what_we_are.md %}</a></p>
-    <p class="paragraph">We research, teach and design how to create sustainable and inclusive living environments for the 21st century and beyond&#10464;</p>
+<section id="presentation-section" class="section">
+  <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape sticker" class="sticker bottom-right">
+  <div class="flex-container column" id="presentation">
+    <h2 class="flex-item statement"><a href="/about.html#questions">{% include invite.md %}</a></h2>
+    <div class="flex-item flex-container" id="what-we">
+      <h3 class="flex-item"><a href="/about.html">{% include what_we_are.md %}</a></h3>
+      <h3 class="flex-item"><a href="/projects.html">{% include what_we_do.md %}</a></h3>
+    </div> 
   </div>
-</div>
+</section>
 
 <!-- Recent News Section -->
-<div class="news-section">
-  <div class="news-updates">
+<section id="news-section">
+  <div class="archive">
 		{% for post in site.posts limit:15 %}
 		<li> 
 			<article class="article">
-				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt={{ page.alt }}>
-				<h2><a href="{{ post.url }}">{{ post.title }}&#10464;</a></h2>
-        <p class="news-article-data">{{ post.date | date: "%b. %d, %Y"}}<br>{{ post.category }} in {{ post.location }}</p>
+				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt="{{ page.alt }}">
+				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="metadata">{{ post.date | date: "%b. %d, %Y"}}<br>{{ post.category }} in {{ post.location }}</p>
 				{{ post.excerpt }}
 			</article>
 		</li>
 		{% endfor %}
 	</div>
-</div>
+</section>
 
 <script src="/assets/js/script.js"></script>

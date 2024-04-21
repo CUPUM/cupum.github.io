@@ -6,8 +6,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl:
 url: https://unesco-studio.umontreal.ca
 contact:
+  person: Prof. Shin Koseki
+  role: Chairholder
   office: Office 4116
-  email: shin.koseki@umontreal.ca
+  email: shin.koseki<wbr>@umontreal.ca
   phone: +1 (514) 343-2320
   mailing: Université de Montréal<br>Pavillon de la faculté de l’aménagement<br>CP 6128 Downtown Station<br>Montréal (Québec) H3C 3J7
   civic: UNESCO Chair in Urban Landscape<br>2940, Côte-Ste-Catherine Rd.<br>Offices 4112–4133<br>Montréal
@@ -75,3 +77,22 @@ collections:
     output: true
   team:
     output: true
+
+# Assests items
+assets:
+  sticker_en: /assets/images/sticker_en.png/
+  logo_compact_en: /assets/images/logo_compact_en.png/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "news"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "members"
+  

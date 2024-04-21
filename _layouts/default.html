@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: "Your Site Title" }}</title>
     <!-- Include main stylesheet -->
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 
-<body>
+<body class="container">
     <!-- Hamburger Menu Icon -->
     <div id="hamburger-menu" class="hidden" onclick="toggleMenu()">
       <div class="bar"></div>
@@ -20,57 +20,46 @@
     <!-- Simple Navigation (Placeholder for your hamburger menu) -->
     <nav id="nav-menu" class="hidden">
         <ul>
-            <li><a href="{{ '/' | relative_url }}">Home&#10464;</a></li>
-            <li><a href="{{ '/about/' | relative_url }}">About&#10464;</a></li>
-            <li><a href="{{ '/projects/' | relative_url }}">Projects&#10464;</a></li>
-            <li><a href="{{ '/teaching/' | relative_url }}">Teaching&#10464;</a></li>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+    <!--        <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+            <li><a href="{{ '/teaching/' | relative_url }}">Teaching</a></li>
+    -->
         </ul>
     </nav>
 
     <!-- Main Content -->
-    <div class="container">
+    <main>
         {{ content }}
-    </div>
+    </main>
 
     <!-- Footer -->
-    <footer class="site-footer">
-        <div class="footer-contact">
-            <div class="flex-container" id="social-media">
-                <div class="flex-item">
-                    <a href="{{ site.social.linkedin }}">LINKEDIN&#10265;</a>
-                </div>
-                <div class="flex-item">
-                    <a href="{{ site.social.facebook }}">FACEBOOK&#10265;</a>
-                </div>
-                <div class="flex-item">
-                    <a href="{{ site.social.instagram }}">INSTAGRAM&#10265;</a>
-                </div>
-                <div class="flex-item">
-                    <a href="{{ site.social.tiktok}}">TIK TOK&#10265;</a>
-                </div>
+    <footer class="footer flex-container column">
+        <div class="flex-container row social-media">
+            <a href="{{ site.social.linkedin }}" target="_blank" class="flex-item external">LINKEDIN</a>
+            <a href="{{ site.social.facebook }}" target="_blank" class="flex-item external">FACEBOOK</a>
+            <a href="{{ site.social.instagram }}" target="_blank" class="flex-item external">INSTAGRAM</a>
+            <a href="{{ site.social.tiktok }}" target="_blank" class="flex-item external">TIK TOK</a>
+        </div>
+        <div class="flex-container row contact">
+            <div class="flex-item logo-container">
+                <img src="{{ site.assets.logo_compact_en }}" alt="Institutional Logo">
             </div>
-            <div class="flex-container">
-                <div class="flex-item logo-container">
-                    <img class="flex-item" src="{{ '/assets/images/institutional-logo.png' | relative_url }}" alt="Institutional Logo">
-                </div >
-                <div class="flex-item">
-                    <h3><a href="{{ '/team/shin_koseki/' }}">Prof. Shin Koseki&#10464;<br>Chairholder</a></h3>
-                    <p>{{ site.contact.office }}<br><a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}&#10265;</a>
-                        <br><a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}&#10265;</a></p>
-                </div>
-                <div class="flex-item">
-                    <h3><a href="{{ site.contact.google_maps }}" target="_blank">Civic Address&#10265;</a></h3>
-                    <p>{{ site.contact.civic }}</p>
-                </div>
-                <div class="flex-item">
-                    <h3>Mailing Address</h3>
-                    <p>{{ site.contact.mailing }}</p>
-                </div>
+            <div class="flex-item">
+                <h3><a href="{{ '/team/shin_koseki/' }}">{{ site.contact.person }}<br>{{ site.contact.role }}</a></h3>
+                <p>{{ site.contact.office }}<br><a href="mailto:{{ site.contact.email }}" target="_blank" class="email external">{{ site.contact.email }}</a>
+                    <br><a href="tel:{{ site.contact.phone }}" target="_blank" class="external">{{ site.contact.phone }}</a></p>
+            </div>
+            <div class="flex-item">
+                <h3><a href="{{ site.contact.google_maps }}" target="_blank" class="external">Civic Address</a></h3>
+                <p>{{ site.contact.civic }}</p>
+            </div>
+            <div class="flex-item">
+                <h3>Mailing Address</h3>
+                <p>{{ site.contact.mailing }}</p>
             </div>
         </div>
-        <div class="footer-credit">
-            <p>&#169; {{ site.title }}, {{ site.year }}</p>
-        </div>
+        <p id="credit">&#169; {{ site.title }}, {{ site.year }}</p>
     </footer>
 
     <!-- JavaScript File -->

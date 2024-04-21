@@ -6,7 +6,7 @@ tags:
 location: Montréal
 participants: Léandry Jieutsa, Shin Koseki, Jérôme Chenal 
 participants_companies: Université de Montréal, Mila, Obvia, EPFL
-featured_img: /assets/images/
+featured_img: /assets/images/test.jpeg
 img_credit:
 alt:
 ---

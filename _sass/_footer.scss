@@ -1,0 +1,60 @@
+/* This file defines the css for the footer*/
+
+.footer {
+    width: 100%;
+    height:auto;
+    padding:40px 40px 0 40px;
+    background-color: white;
+}
+
+.social-media .flex-item {
+    flex: 0 1 auto;
+}
+
+.social-media {
+    flex: 1;
+    position: relative;
+    left: 25%;
+    width: 75%;
+    margin-bottom: 40px;
+
+    a {
+        font-size:2.5vw;
+    }
+}
+
+.contact {
+    align-items: flex-end;
+}
+
+.contact .flex-item {
+    flex:  1;
+    max-width: 100%;
+    padding-right:20px;
+}
+
+.contact .logo-container {
+    min-width: 25%;
+    max-width: 25%;
+}
+
+.contact .logo-container img {
+    width: 100%;
+    padding-right:5%;
+}
+
+.flex-item p {
+    margin-bottom: 0;
+    margin-top: 0.5em;
+}
+
+.flex-item h3 {
+    font-size: 1.5vw;
+    margin-bottom: 0.5em;
+}
+
+
+#credit {
+    flex: 1;
+    margin-top: 60px;
+}

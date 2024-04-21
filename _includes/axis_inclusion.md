@@ -1,0 +1,1 @@
+Despite their great social diversity, cities still struggle to answer citizens' aspirations equally. Injustice remains embedded in public spaces and services, to the disadvantage of marginalised and dominated groups. Our work challenges the status quo by analysing the factors of exclusion and designing sustainable solutions.

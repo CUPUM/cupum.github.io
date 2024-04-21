@@ -1,0 +1,43 @@
+/* This file defines the css for the news posts*/
+
+
+.news_post {
+    margin: 0;
+}
+
+.news_post-image {
+    width: calc(100% - 6rem);
+    height: auto;
+    margin: 3rem;
+}
+
+.news_post-title {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-size: 4rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.news_post-category {
+    margin-left: 3rem;
+    font-size: 2rem;
+    margin-top: 0px;
+}
+
+.news_post-container {
+    display: grid;
+    margin-left:auto;
+    margin-right:auto;
+    place-items: center;
+    width: 500px;
+    margin-bottom:100px;
+}
+
+.news_post-date {
+    font-size: 1rem;
+}
+
+.news_post-content {
+    font-size: 1rem;
+}
