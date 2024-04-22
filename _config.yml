@@ -27,7 +27,7 @@ usernames:
 
 # Build settings
 markdown: kramdown
-theme: minima # or another theme if you've chosen one
+theme: 
 plugins:
   - jekyll-feed
 
