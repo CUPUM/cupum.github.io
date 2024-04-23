@@ -2,12 +2,13 @@
 
 
 /* Hero section */
-#hero-section {
-    max-width: 100%;
-    background-color: black;
+.hero {
+    width: 100vw;
+    height: 100vh;
+    color: white;
 }
 
-#hero-section .sticker {
+.hero .sticker {
     position: absolute;
     top: 80px;
     left: -35px;
@@ -16,75 +17,83 @@
   }
   
 .carousel-item {
-    position: absolute;
-    top: 0;
-    left: 0;
+    padding: 2rem;
     width: 100%;
     height: 100%;
     background-size: cover;
     background-position: center;
-    text-decoration: none;
     display: none;
 }
   
 .carousel-item.active {
     display: block; /* Only show the active item */
 }
-  
-.carousel-item h3 a{
-    position: absolute;
-    bottom: 120px;
-    right: 40px;
-    width: 100%;
+ 
+.carousel-item-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
     text-align: right;
-    font-size: 5vw;
-    color: white;
-}
-  
-.carousel-item h2 a{
-    position: absolute;
-    bottom: 40px;
-    right: 40px;
-    width: 35%;
-    text-align: right;
-    font-size: 2.5vw;
-    color: white;
+    min-height: 100%;
+
+    h3 {
+        font-size: 3rem;
+        margin-bottom: 0;
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 0;
+    }
 }
 
 
 /* Presentation section */
 
-#presentation-section {
-    max-width: 100%;
+.presentation {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    min-height: 100vh;
     background-color: white;
+    color: black;
 }
 
-#presentation {
-    height: auto;
+.presentation_main_text {
+    padding-left: 2rem;
+    padding-right: 6rem;
+    font-size: 3rem;
+    margin-block-start: 10rem;
+    margin-block-end: 4rem;
 }
 
-#what-we {
-    position: relative;
-    margin: 80px 0;
-    padding: 0 20px 20px 10%;
-    max-width:85%;
+.presentation_subtitles_wrapper {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 70% 30%;
+    padding-left: 6rem;
+    padding-bottom: 2rem;
+}
 
-    h3 {
-        font-size: 4vh;
-        margin-right: 40px;
+.presentation_subtitles {
+    display: grid;
+    gap: 2rem;
+    grid-column: 1;
+    grid-template-columns:1fr 1fr;
+
+    h2 {
+        display: block;
+        font-size: 1.5rem;
+        margin-bottom: 0;
     }
-
-    a {
-        font-size: 4vh;
-    }
 }
-
 
 /* News section*/
 
-#news-section {
-    width: 100%;
-    background-color: black;
+.news {
+    padding: 2rem;
     color: white;
     height: auto;
 	
@@ -100,7 +109,7 @@
 
 /* Media query for smartphones */
 @media (max-width: 600px) {
-    #hero-section #logo {
+    #hero #logo {
      width: 100px;
      height: auto;
      margin-top: 50px;

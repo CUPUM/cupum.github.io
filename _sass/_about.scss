@@ -3,8 +3,9 @@
 /* Mission section */
 
 .mission {
-  position: relative;
-  background-color: rgb(255, 255, 255);
+  width: 100vw;
+  min-height: 100vh;
+  background-color: white;
 }
 
 .axes {
@@ -70,8 +71,8 @@
 /* Team section */
 
 .team-section {
-  width: 100%;
-  background-color: rgb(0, 0, 0);
+  width: 100vw;
+  padding: 0 2rem;
   color: white;
   height: auto;
 

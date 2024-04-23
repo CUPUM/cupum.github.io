@@ -4,30 +4,31 @@ title: Home
 ---
 
 <!-- Hero Video Section -->
-<section id="hero-section" class="section">
+<section class="hero">
   <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape sticker" class="sticker top-left">
   {% for post in site.projects %}
       <div class="carousel-item" style="background-image: url('{{ post.video_path }}');">
-        <h3><a href="{{ post.url }}" class="no-icon">{{ post.mission }}</a></h3>
-        <h2><a href="{{ post.url }}">{{ post.name }}</a></h2>
+        <div class="carousel-item-text">
+          <h3 class="carousel-item-mission"><a href="{{ post.url }}" class="no-icon">{{ post.mission }}</a></h3>
+          <h2 class="carousel-item-title"><a href="{{ post.url }}">{{ post.name }}</a></h2>
+        </div>
       </div>
   {% endfor %}
 </section>
 
 <!-- Presentation Section -->
-<section id="presentation-section" class="section">
-  <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape sticker" class="sticker bottom-right">
-  <div class="flex-container column" id="presentation">
-    <h2 class="flex-item statement"><a href="/about.html#questions">{% include invite.md %}</a></h2>
-    <div class="flex-item flex-container" id="what-we">
-      <h3 class="flex-item"><a href="/about.html">{% include what_we_are.md %}</a></h3>
-      <h3 class="flex-item"><a href="/projects.html">{% include what_we_do.md %}</a></h3>
+<section class="presentation">
+  <h1 class="presentation_main_text"><a href="/about.html#questions">{% include invite.md %}</a></h2>
+  <div class="presentation_subtitles_wrapper">
+    <div class="presentation_subtitles">
+      <h2><a href="/about.html">{% include what_we_are.md %}</a></h2>
+      <h2><a href="/projects.html">{% include what_we_do.md %}</a></h2>
     </div> 
   </div>
 </section>
 
 <!-- Recent News Section -->
-<section id="news-section">
+<section class="news">
   <div class="archive">
 		{% for post in site.posts limit:15 %}
 		<li> 
