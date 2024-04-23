@@ -80,8 +80,8 @@ collections:
 
 # Assests items
 assets:
-  sticker_en: /assets/images/sticker_en.png/
-  logo_compact_en: /assets/images/logo_compact_en.png/
+  sticker_en: /assets/images/sticker_en.png
+  logo_compact_en: /assets/images/logo_compact_en.png
 
 # Defaults
 defaults:
