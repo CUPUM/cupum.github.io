@@ -1,0 +1,152 @@
+/* Load custom font */
+@font-face {
+  font-family: "myfont";
+  src: url("../fonts/NB.otf");
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html, body {
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	color: black;
+	font-family: "myfont", "Heveltica", "Sanserif"; /* Use custom fonts */
+	font-size: 22px;
+	a:link {
+		color: inherit;
+		text-decoration: none;
+	}
+	a:active {
+		color: inherit;
+	}
+	a:visited {
+		color: inherit;
+	}
+	overflow: auto;
+	scroll-behavior: smooth;
+}
+
+.section {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+}
+
+.container {
+	max-width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0rem;
+	padding-right: 0rem;
+	padding-top: 0rem;
+}
+
+.flex-container {
+	position:relative;
+	display: flex;
+	padding: 0px;
+	justify-content: space-between;
+	max-width:100%;
+	max-height:100%;
+}
+
+.flex-container.row {
+	flex-direction: row;
+}
+
+.flex-container.row-reverse {
+	flex-direction: row-reverse;
+}
+
+.flex-container.column {
+	flex-direction: column;
+}
+
+.flex-container.column-reverse {
+	flex-direction: column-reverse;
+}
+
+.flex-item {
+	flex:1 ;
+	padding: 0;
+}
+
+.statement {
+    position: relative;
+    margin-top: 15vmin;
+	margin-bottom: 0;
+    left: 40px;
+    max-width: 75%;
+    font-size: 8vmin;
+}
+
+.sticker.top-left {
+    position: absolute;
+    top: 80px;
+    left: -35px;
+    width: 175px;
+    z-index: 2; 
+  }
+
+.sticker.bottom-left {
+	position: absolute;
+	bottom: 40px;
+	left: -35px;
+	width: 175px;
+	z-index: 2; 
+}
+
+.sticker.bottom-right {
+	position: absolute;
+    bottom: 40px;
+    right: 35px;
+    width: 175px;
+    z-index: 2;
+}
+
+
+/* Hyperlinks */
+a::after {
+	content: "\28E0";
+	margin-left: 0px;
+}
+
+a.external::after {
+    content: "\2819";
+    margin-left: 0px;
+}
+
+a:visited::after {
+	color: gray;
+}
+
+a:hover::after {
+	color: rgb(0, 255, 195);
+}
+
+a:visited:hover::after {
+	color: rgb(0, 255, 195);
+}
+
+a.no-icon::after {
+    content: none;
+}
+
+
+/* Wraps and braks*/
+.email {
+	hyphens: auto;
+	word-wrap: break-word;
+}
+
+url {
+	hyphens: auto;
+	word-wrap: break-word;
+}
+
+
+

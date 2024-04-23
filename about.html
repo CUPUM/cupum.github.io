@@ -1,0 +1,111 @@
+---
+layout: default
+title: About
+---
+
+<!-- Mission Section -->
+<div class="mission">
+    <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape logo" class="sticker bottom-right">
+    <div class="flex-container column">
+        <h2 class="flex-item statement">{% include approach.md %}</h2>
+        <div class="flex-item flex-container axes">
+            <div class="flex-item"> 
+                <h3>Biodiversity</h3>
+                <p>{% include axis_biodiversity.md %}</p>
+            </div>
+            <div class="flex-item"> 
+                <h3>Social Inclusion</h3>
+                <p>{% include axis_inclusion.md %}</p>
+            </div>
+            <div class="flex-item"> 
+                <h3>Digitization</h3>
+                <p>{% include axis_digitization.md %}</p>
+            </div>
+        </div>
+    </div>    
+</div>
+
+
+<!-- Vision Section -->
+<section class="vision">
+    <h1 class="vision-main_text">
+        <span>We believe urban landscapes</span>
+        <span>are best made together.</span>
+    </h1>
+
+</section>
+
+<!-- Question section -->
+
+<section class="questions">
+    <div class="flex-container column">
+        <h2 class="flex-item statement">You are...</h2>
+        <div class="flex-item flex-container column actors">
+            <div class="flex-item">
+                <h3>Searching for expertise on city planning, design or governance?</h3>
+                <a href="" class="internal">We are looking forward to your questions and to work with you</a>
+            </div>
+            <div class="flex-item">
+                <h3>Looking to collaborate over academic or industry research?</h3>
+                <a href="" class="internal">We're happy to host your project and work together</a>
+            </div>
+            <div class="flex-item">
+                <h3>Applying for a MSc or PhD program in Environmental Design?</h3>
+                <a href="" class="internal">We provide supervision and peer support</a>
+            </div>
+            <div class="flex-item">
+                <h3>Participating to the UNESCO Studio this Summer?</h3>
+                <a href="" class="internal">We provide you with the information you need</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Team Section -->
+<div class="team-section">
+    <div class="archive">
+          {% for post in site.team %}
+          <li> 
+              <article class="article">
+                  <img class="image" src="{{ post.portrait }}" loading="lazy">
+                  <h2><a href="{{ post.url }}">{{ post.name }} ({{ post.pronouns }})</a></h2>
+                  <p>{{ post.position }}</p>
+                  {{ post.excerpt }}
+              </article>
+          </li>
+          {% endfor %}
+      </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

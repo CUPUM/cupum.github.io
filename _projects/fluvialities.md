@@ -1,6 +1,6 @@
 ---
-short_name: Fluvialités
-name: Developing practical and transferable knowledge about major rivers’ governance and integrated management
+name: Fluvialities
+mission: Fostering sustainability<br>& social inclusion along<br>continental rivers
 participants_universities: [Université de Montréal]
 participants_ngos: []
 partners: []
@@ -8,6 +8,7 @@ featured_img: /assets/images/
 img_credit: 
 img_link: 
 alt:
+video_path: /assets/videos/pixabay-video-rhine_germany.mp4
 ---
 Fluvialités rethinks how humanity manages and occupies river regions globally, starting with the Saint Lawrence River watershed. The project generates new knowledge to face climate change, protect biodiversity, sustainable and inclusive urban development, diversity of cultural expressions, and economic development of countries.
 

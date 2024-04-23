@@ -1,0 +1,39 @@
+/* This file defines the css for the news posts*/
+
+
+.member_post {
+    margin: 0;
+}
+
+.member_post-container {
+    display: grid;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    place-items: center;
+    width: 500px;
+    margin-bottom:100px;
+}
+
+.member_post-portrait {
+    width: 500px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.member_post-name {
+    font-size: 4rem;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.member_post-position {
+    font-size: 2rem;
+    margin-top: 0px;
+}
+
+.member_post-content {
+    font-size: 1rem;
+}

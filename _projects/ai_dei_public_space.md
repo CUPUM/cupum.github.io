@@ -1,13 +1,15 @@
 ---
-short_name: AI DEI Public Space
-name: Measuring the quality of public space with an inclusive artificial intelligence 
+layout: project_post
+name: AI DEI Public Space
+mission: Measuring the quality<br>of public space<br>with an inclusive AI
 participants_universities: [Université de Montréal]
 participants_ngos: [Mila, IVADO, Canadian Coalition of Inclusive Municipalities, UNESCO]
 partners: [Enclume, Sid Lee Architecture, Dark Matter Lab]
 featured_img: /assets/images/cordat-photo-montreal_street.jpeg
-img_credit: Cordat
 img_link: 
 alt:
+img_credit:
+video_path: /assets/videos/pixabay-video-plaza_park_bergen_norway.mp4
 ---
 The COVID-19 pandemic has highlighted the necessity to create more inclusive public space in cities. Research shows that public space plays a central role in the quality of public life and in the economic vitality of urban spaces. Moreover, creating new public spaces and improving existing ones has a significant positive impact on neighboring stores. 
 

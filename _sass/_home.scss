@@ -1,0 +1,118 @@
+/*Defines the css for the home page*/
+
+
+/* Hero section */
+.hero {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+
+.hero .sticker {
+    position: absolute;
+    top: 80px;
+    left: -35px;
+    width: 175px;
+    z-index: 2; 
+  }
+  
+.carousel-item {
+    padding: 2rem;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: none;
+}
+  
+.carousel-item.active {
+    display: block; /* Only show the active item */
+}
+ 
+.carousel-item-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    text-align: right;
+    min-height: 100%;
+
+    h3 {
+        font-size: 3rem;
+        margin-bottom: 0;
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 0;
+    }
+}
+
+
+/* Presentation section */
+
+.presentation {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    min-height: 100vh;
+    background-color: white;
+    color: black;
+}
+
+.presentation_main_text {
+    padding-left: 2rem;
+    padding-right: 6rem;
+    font-size: 3rem;
+    margin-block-start: 10rem;
+    margin-block-end: 4rem;
+}
+
+.presentation_subtitles_wrapper {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 70% 30%;
+    padding-left: 6rem;
+    padding-bottom: 2rem;
+}
+
+.presentation_subtitles {
+    display: grid;
+    gap: 2rem;
+    grid-column: 1;
+    grid-template-columns:1fr 1fr;
+
+    h2 {
+        display: block;
+        font-size: 1.5rem;
+        margin-bottom: 0;
+    }
+}
+
+/* News section*/
+
+.news {
+    padding: 2rem;
+    color: white;
+    height: auto;
+	
+    a, a:link {
+        color: white;
+    }
+
+    a:visited, a:hover, a:active {
+        color:white;
+    }
+}
+
+
+/* Media query for smartphones */
+@media (max-width: 600px) {
+    #hero #logo {
+     width: 100px;
+     height: auto;
+     margin-top: 50px;
+     margin-left: 10px;
+   }
+}
