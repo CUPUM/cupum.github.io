@@ -39,34 +39,37 @@
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="socials">
-            <div class="blank"></div>
-            <div class="social-links">
-                <a href="{{ site.social.linkedin }}" target="_blank" class="external">LINKEDIN</a>
-                <a href="{{ site.social.facebook }}" target="_blank" class="external">FACEBOOK</a>
-                <a href="{{ site.social.instagram }}" target="_blank" class="external">INSTAGRAM</a>
-                <a href="{{ site.social.tiktok }}" target="_blank" class="external">TIK TOK</a>
-            </div>
-        </div>
-        <div class="contacts">
-            <div class="logo">
+        <div class="footer-content">
+            <div class="footer-logo">
                 <img src="{{ site.assets.logo_compact_en }}" alt="Institutional Logo">
             </div>
-            <div class="chairholder">
-                <h3><a href="{{ '/team/shin_koseki/' }}">{{ site.contact.person }}<br>{{ site.contact.role }}</a></h3>
-                <p>{{ site.contact.office }}<br><a href="mailto:{{ site.contact.email }}" target="_blank" class="email external">{{ site.contact.email }}</a>
-                    <br><a href="tel:{{ site.contact.phone }}" target="_blank" class="external">{{ site.contact.phone }}</a></p>
-            </div>
-            <div class="civic-address">
-                <h3><a href="{{ site.contact.google_maps }}" target="_blank" class="external">Civic Address</a></h3>
-                <p>{{ site.contact.civic }}</p>
-            </div>
-            <div class="mailing-address">
-                <h3>Mailing Address</h3>
-                <p>{{ site.contact.mailing }}</p>
+            <div class="footer-contact">
+                <div class="footer-media">
+                    <a href="{{ site.social.linkedin }}" target="_blank" class="external">LINKEDIN</a>
+                    <a href="{{ site.social.facebook }}" target="_blank" class="external">FACEBOOK</a>
+                    <a href="{{ site.social.instagram }}" target="_blank" class="external">INSTAGRAM</a>
+                    <a href="{{ site.social.tiktok }}" target="_blank" class="external">TIK TOK</a>
+                </div>
+                <div class="footer-addresses">
+                    <div class="chairholder">
+                        <h3><a href="{{ '/team/shin_koseki/' }}">{{ site.contact.person }}<br>{{ site.contact.role }}</a></h3>
+                        <p>{{ site.contact.office }}<br><a href="mailto:{{ site.contact.email }}" target="_blank" class="email external">{{ site.contact.email }}</a>
+                            <br><a href="tel:{{ site.contact.phone }}" target="_blank" class="external">{{ site.contact.phone }}</a></p>
+                    </div>
+                    <div class="civic-address">
+                        <h3><a href="{{ site.contact.google_maps }}" target="_blank" class="external">Civic Address</a></h3>
+                        <p>{{ site.contact.civic }}</p>
+                    </div>
+                    <div class="mailing-address">
+                        <h3>Mailing Address</h3>
+                        <p>{{ site.contact.mailing }}</p>
+                    </div>
+                </div>
             </div>
         </div>
-        <p class="credit">&#169; {{ site.title }} {{ site.year }} — Montréal | Tiohtià:ke | Mooniyang</p>
+        <div class="footer-credit">
+            <p class="credit">&#169; {{ site.title }} {{ site.year }} — Montréal | Tiohtià:ke | Mooniyang</p>
+        </div>
     </footer>
 
     <!-- JavaScript File -->

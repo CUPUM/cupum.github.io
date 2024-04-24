@@ -1,55 +1,75 @@
 /* This file defines the css for the footer*/
 
 .footer {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     grid-gap: 1rem;
     max-width: 100vw;
-    height:auto;
     color: black;
     background-color: white;
     padding: 2rem 2rem 0 2rem;
 }
 
-.socials {
+.footer-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.footer-logo {
     display: flex;
-    padding-bottom: 1rem;
+    padding-right: 2.5vw;
+    margin-block-end: 0.1rem;
+    justify-content: flex-end;
 }
 
-.blank {
-    width: 24vw;
+.footer-logo img {
+    width: 100%;
+    height: auto;
+    align-self: flex-end;
 }
 
-.social-links {
+.footer-contact {
+    display: flex;
+    flex-direction: column;
+    grid-template-rows: 1fr 1fr;
+}
+
+.footer-media {
     display: flex;
     justify-content: space-between;
     padding: 0 2rem 0 0;
     width: calc(75vw - 2rem);
     box-sizing: border-box;
     font-size: 2vw;
+    margin-block-end: 4vw;
+
+    h3 {
+        padding-bottom: 0;
+    }
 }
 
-
-.contacts {
+.footer-addresses {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 1rem;
     align-items: end;
     font-size: 1.5vw;
     padding-right: 1rem;
+
+    p {
+        margin-block-end: 0;
+    }
 
     h3 {
         font-size: 1.5vw;
     }
 }
 
-.logo img {
-    width: calc(25vw - 2rem);
-    padding-right: 1.5vw;
-    margin-bottom: 1.1em; 
+.footer-credit {
+    font-size: 1.5vw;
 }
 
-.credit {
-    font-size: 1.5vw;
-    margin-top: 1rem;
-}
+
+
+
+
