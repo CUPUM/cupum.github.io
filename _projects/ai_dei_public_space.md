@@ -1,5 +1,4 @@
 ---
-layout: project_post
 name: AI DEI Public Space
 mission: Measuring the quality<br>of public space<br>with an inclusive AI
 participants_universities: [Université de Montréal]
