@@ -14,22 +14,17 @@
 </head>
 
 <body class="container">
-    <!-- Hamburger Menu Icon -->
-    <div id="hamburger-menu" class="hidden" onclick="toggleMenu()">
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
-    </div>
-    
-    <!-- Simple Navigation (Placeholder for your hamburger menu) -->
-    <nav id="nav-menu" class="hidden">
-        <ul>
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="/about.html">About</a></li>
-    <!--        <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
-            <li><a href="{{ '/teaching/' | relative_url }}">Teaching</a></li>
-    -->
-        </ul>
+    <!-- Menu -->
+    <nav class="navbar">
+        <div class="hamburger" onclick="toggleMenu()">
+            &#10298; <!-- Hamburger Icon -->
+        </div>
+        <div class="menu">
+            <a href="/index">Home</a>
+            <a href="/about">About</a>
+            <!-- <a href="#research">Research</a>
+            <a href="#teachin">Teaching</a> -->
+        </div>
     </nav>
 
     <!-- Main Content -->

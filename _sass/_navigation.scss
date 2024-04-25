@@ -1,81 +1,60 @@
 /* This file defines the css for the header*/
 
-#hamburger-menu {
-    cursor: pointer;
-    display: none;
-    position: fixed;
-    right: 20px;
-    top: 20px;
-    z-index: 100;
-  
-    .bar {
-      display: block;
-      width: 25px;
-      height: 3px;
-      margin: 5px auto;
-      -webkit-transition: all 0.3s ease-in-out;
-      transition: all 0.3s ease-in-out;
-      background-color: #333;
-    }
-  }
-  
-#nav-menu {
-  display: flex;
-  justify-content: flex-end;
-  background: transparent;
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  width: 100%;
-  height: 10%;
+/* styles.css */
+
+.navbar {
   position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 99;
-}
-
-#nav-menu ul {
-  padding: 20px;
-  margin: 0;
-  display: flex;
-  list-style-type: none;
-}
-
-#nav-menu ul li {
-  display: inline-block; /* Displays the list items inline */
-  margin-right: 20px; /* Adds some space between the list items */
-}
-
-#nav-menu li a {
-  display: block;
+  width: 100%;
+  background-color: white;
+  overflow: hidden;
+  color: rgb(0, 0, 0);
   padding: 10px 0;
-  text-decoration: none;
-  color: black;
+  border-bottom: 1px solid;
 }
 
-.hidden {
-  display: none;
+.hamburger {
+  display: none; /* Hide hamburger icon on desktop */
 }
 
+.menu {
+  display: flex; /* Show menu inline on desktop */
+  justify-content: flex-end;
+  position: static;
+  height: auto;
+  padding-top: 0;
+  padding-right: 2rem;
+  background: none;
+}
 
+.menu a {
+  display: inline;
+  padding-left: 30px;
+}
 
-/* Media query for smartphones */
 @media (max-width: 600px) {
-    #hamburger-menu {
-      display: block; /* Show the hamburger */
-    }
-    
-    #nav-menu ul {
-      display: none; /* Hide the inline menu */
-      flex-direction: column; /* Stack vertically */
-    }
-    
-    #nav-menu ul li {
-      margin: 0; /* Remove margin between items for vertical layout */
-    }
-    
-    /* Reveal menu when hamburger is active */
-    #nav-menu.active ul {
-      display: flex;
-    }
+
+  .menu {
+    display: none; /* Hide menu initially on mobile */
+    width: 100%;
+    background-color: #ffffff;
+    height: 100vh;
+    text-align: center;
+    padding-top: 60px; /* Space from the top */
+    z-index: 1000; /* Ensure it's above other content */
   }
+
+  .menu a {
+    display: block;
+    color: white;
+    padding: 20px 0 0 60px;
+    font-size: 8vw;
+  }
+
+  .hamburger {
+    display: flex; /* Show hamburger by default */
+    justify-content: flex-end;
+    cursor: pointer;
+    padding: 0px 20px;
+    font-size: 30px;
+  }
+}
