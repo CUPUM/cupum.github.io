@@ -95,4 +95,9 @@ defaults:
       type: "team"
     values:
       layout: "members"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "projects"
   
