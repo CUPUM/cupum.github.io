@@ -5,15 +5,30 @@
 .mission {
   width: 100vw;
   min-height: 100vh;
-  background-color: white;
+  background-color: rgb(141, 122, 96);
+  color: white;
 }
 
-.axes {
-  position: relative;
-  margin: 40px;
-  padding: 0 20px 20px 0;
-  max-width:75%;
-  max-height:100%;
+.mission-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+}
+
+.mission-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.mission-approach {
+
+  font-size: 3rem;
+}
+
+.mission-axes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width:80%;
 
   h3 {
     font-size: 3.5vmin;
@@ -25,7 +40,6 @@
   }
 }
 
-
 /* Vision section */
 .vision {
   display: flex;
@@ -33,32 +47,41 @@
   justify-content: center;
   min-height: 110vh;
   padding:10%;
-  background-color: black;
+  background-color: rgb(141, 122, 96);
 }
 
-.vision-main_text {
+.vision-text {
   display: grid;
   font-size:3rem;
-  color: white;
+  color: rgb(0, 42, 255);
 }
 
 /* Question section */
 
 .questions {
-  height: 100vh;
-  background-color: rgb(255, 255, 255);
+  min-height: 100vh;
+  color: white;
+  background-color: rgb(0, 42, 255);
 }
 
-.actors {
-  position:relative;
-  margin-top: 5%;
-  margin-left: 15%;
-  padding: 0 20px 20px 0;
-  max-width:100%;
-  max-height:100%;
+.question-content {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
 
+.question-statement {
+  font-size: 5vw;
+}
+
+.question-actors {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  
   h3 {
-    font-size: 3.5vmin;
+    font-size: 2.5vw;
     margin-top: 40px;
     margin-bottom: 0;
   }
@@ -82,5 +105,61 @@
 
   a:visited, a:hover, a:active {
       color:white;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .mission {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: rgb(141, 122, 96);
+    color: white;
+  }
+  
+  .mission-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+  }
+  
+  .mission-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mission-approach {
+    font-size: 3rem;
+  }
+  
+  .mission-axes {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+  
+    h3 {
+      font-size: 2rem;
+    }
+    
+    p {
+      font-size: 1rem; 
+    }
+  }
+
+  .question-actors {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    
+    h3 {
+      font-size: 2rem;
+      margin-top: 40px;
+      margin-bottom: 0;
+    }
+    
+    p {
+      font-size: 1rem; 
+    }
   }
 }

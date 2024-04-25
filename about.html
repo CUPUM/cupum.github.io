@@ -4,31 +4,33 @@ title: About
 ---
 
 <!-- Mission Section -->
-<div class="mission">
+<section class="mission">
     <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape logo" class="sticker bottom-right">
-    <div class="flex-container column">
-        <h2 class="flex-item statement">{% include approach.md %}</h2>
-        <div class="flex-item flex-container axes">
-            <div class="flex-item"> 
-                <h3>Biodiversity</h3>
-                <p>{% include axis_biodiversity.md %}</p>
-            </div>
-            <div class="flex-item"> 
-                <h3>Social Inclusion</h3>
-                <p>{% include axis_inclusion.md %}</p>
-            </div>
-            <div class="flex-item"> 
-                <h3>Digitization</h3>
-                <p>{% include axis_digitization.md %}</p>
+    <div class="mission-wrapper">
+        <div class="mission-content">
+            <h2 class="mission-approach">{% include approach.md %}</h2>
+            <div class="mission-axes">
+                <div> 
+                    <h3>Biodiversity</h3>
+                    <p>{% include axis_biodiversity.md %}</p>
+                </div>
+                <div> 
+                    <h3>Social Inclusion</h3>
+                    <p>{% include axis_inclusion.md %}</p>
+                </div>
+                <div> 
+                    <h3>Digitization</h3>
+                    <p>{% include axis_digitization.md %}</p>
+                </div>
             </div>
         </div>
-    </div>    
-</div>
+    </div>
+</section>
 
 
 <!-- Vision Section -->
 <section class="vision">
-    <h1 class="vision-main_text">
+    <h1 class="vision-text">
         <span>We believe urban landscapes</span>
         <span>are best made together.</span>
     </h1>
@@ -38,9 +40,9 @@ title: About
 <!-- Question section -->
 
 <section class="questions">
-    <div class="flex-container column">
-        <h2 class="flex-item statement">You are...</h2>
-        <div class="flex-item flex-container column actors">
+    <div class="question-content">
+        <h2 class="question-statement">You are...</h2>
+        <div class="question-actors">
             <div class="flex-item">
                 <h3>Searching for expertise on city planning, design or governance?</h3>
                 <a href="" class="internal">We are looking forward to your questions and to work with you</a>
@@ -62,7 +64,7 @@ title: About
 </section>
 
 <!-- Team Section -->
-<div class="team-section">
+<section class="team-section">
     <div class="archive">
           {% for post in site.team %}
           <li> 
@@ -75,7 +77,7 @@ title: About
           </li>
           {% endfor %}
       </div>
-  </div>
+  </section>
 
 
 
