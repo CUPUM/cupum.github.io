@@ -40,11 +40,16 @@
 
 @media (max-width: 600px) {
 
-    .member_post-title {
+    .member_post-name {
         margin-left: 1rem;
-        margin-right:1rem;
+        margin-right: 1rem;
         font-size: 2rem;
         margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .member_post-position {
+        font-size: 1rem;
         margin-top: 0px;
     }
 
@@ -61,5 +66,13 @@
         place-items: center;
         width: auto;
         padding-bottom:100px;
+    }
+
+    .member_post-portrait {
+        width: calc(100vw - 2rem);
+        height: auto;
+        padding-top: 3rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
     }
 }
