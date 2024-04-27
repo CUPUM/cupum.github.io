@@ -36,7 +36,9 @@ title: Home
 				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt="{{ page.alt }}">
 				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="metadata">{{ post.date | date: "%b. %d, %Y"}}<br>{{ post.category }} in {{ post.location }}</p>
-				{{ post.excerpt }}
+        <div class="article-excerpt">
+          {{ post.excerpt }}
+        </div>
 			</article>
 		</li>
 		{% endfor %}
