@@ -77,6 +77,8 @@ collections:
     output: true
   team:
     output: true
+  services:
+    output: true
 
 # Assests items
 assets:

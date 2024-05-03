@@ -60,27 +60,20 @@ title: About
 
 <!-- Question section -->
 
-<section class="questions">
+    
+
+<section class="question">
+    <h2 class="question-statement">How can we help you?</h2>
     <div class="question-content">
-        <h2 class="question-statement">You are...</h2>
-        <div class="question-actors">
-            <div class="flex-item">
-                <h3>Searching for expertise on city planning, design or governance?</h3>
-                <a href="" class="internal">We are looking forward to your questions and to work with you</a>
+        {% assign sorted_posts = site.services | sort: 'order' %}
+        {% for post in sorted_posts %}
+        <button class="question-accordion">{{ post.question }}</button>
+        <detail class="question-panel">
+            <div class="question-answer">
+                {{ post.content }}
             </div>
-            <div class="flex-item">
-                <h3>Looking to collaborate over academic or industry research?</h3>
-                <a href="" class="internal">We're happy to host your project and work together</a>
-            </div>
-            <div class="flex-item">
-                <h3>Applying for a MSc or PhD program in Environmental Design?</h3>
-                <a href="" class="internal">We provide supervision and peer support</a>
-            </div>
-            <div class="flex-item">
-                <h3>Participating to the UNESCO Studio this Summer?</h3>
-                <a href="" class="internal">We provide you with the information you need</a>
-            </div>
-        </div>
+        </detail>
+        {% endfor %}
     </div>
 </section>
 

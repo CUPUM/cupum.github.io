@@ -79,56 +79,73 @@
   margin-block-end: 1rem;
 }
 
-/* Vision section */
-.vision {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  justify-content: center;
-  padding:10%;
-  background-color: rgb(141, 122, 96);
-}
+/* Question section*/
 
-.vision-text {
-  display: grid;
-  font-size: 3rem;
-  color: white;
-}
-
-/* Question section */
-
-.questions {
-  min-height: 100vh;
-  color: white;
-  background-color: rgb(141, 122, 96);
-}
-
-.question-content {
-  display: flex;
-  flex-direction: column;
+.question {
   padding: 2rem;
+  background-color: rgb(141, 122, 96);
+  color: white;
+
+  h2 {
+    font-size: 3rem;
+  }
 }
 
-.question-statement {
-  font-size: 5vw;
+/* Style the buttons that are used to open and close the accordion panel */
+.question-accordion {
+  background-color: rgb(141, 122, 96);
+  color: white;
+  cursor: pointer;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  font-size: 2rem;
 }
 
-.question-actors {
-  display: flex;
-  flex-direction: column;
-  margin-left: 2rem;
-  margin-right: 2rem;
-  
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .question-accordion:hover {
+  background-color: rgb(141, 122, 96);
+}
+
+.question-accordion:after {
+  content: '\283A';
+  font-size: 28px;
+  color: white;
+  float: right;
+}
+
+.active:after {
+  content: "\2838"; /* Unicode character for "minus" sign (-) */
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.question-panel {
+  display: none;
+  width: 60%;
+  padding: 5px;
+  background-color: rbg(141, 122, 96);
+  color: rgb(234, 182, 134);
+  overflow: hidden;
+
   h3 {
-    font-size: 2.5vw;
-    margin-top: 40px;
-    margin-bottom: 0;
+    font-size: 2rem;
+    font-weight: normal;
   }
-  
+
+  h4 {
+    font-size: 1rem;
+  }
+
   p {
-    font-size: 2.5vmin; 
+
   }
 }
+
+
 
 /* Team section */
 
@@ -152,6 +169,22 @@
   .team {
   background-color: rgb(141, 122, 96);
   }
+}
+
+/* Vision section */
+.vision {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  padding:10%;
+  background-color: rgb(141, 122, 96);
+}
+
+.vision-text {
+  display: grid;
+  font-size: 3rem;
+  color: white;
 }
 
 
@@ -239,6 +272,13 @@
   }
 
 
+  /* Team section*/
+
+  .team-section {
+    width: 100vw;
+    padding: 0 1rem;
+  }
+
   /* Vision section */
   .vision {
     padding-top: 3rem;
@@ -247,36 +287,5 @@
 
   .vision-text {
     font-size: 12vw;
-  }
-
-  /* Question seciton*/
-
-  .question-content {
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
-    padding-bottom: 3rem;
-  }
-
-  .question-actors {
-    display: flex;
-    flex-direction: column;
-    margin-left: 0rem;
-    margin-right: 0rem;
-    
-    h3 {
-      font-size: 1.5rem;
-      margin-top: 40px;
-      margin-bottom: 10px;
-    }
-    
-    p {
-      font-size: 1rem; 
-    }
-  }
-
-  .team-section {
-    width: 100vw;
-    padding: 0 1rem;
   }
 }
