@@ -91,7 +91,6 @@
   }
 }
 
-/* Style the buttons that are used to open and close the accordion panel */
 .question-accordion {
   background-color: rgb(141, 122, 96);
   color: white;
@@ -106,7 +105,6 @@
   font-size: 2rem;
 }
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .question-accordion:hover {
   background-color: rgb(141, 122, 96);
 }
@@ -119,13 +117,12 @@
 }
 
 .active:after {
-  content: "\2838"; /* Unicode character for "minus" sign (-) */
+  content: "\2838";
 }
 
-/* Style the accordion panel. Note: hidden by default */
 .question-panel {
   display: none;
-  width: 60%;
+  max-width: 40rem;
   padding: 5px;
   background-color: rbg(141, 122, 96);
   color: rgb(234, 182, 134);
@@ -271,6 +268,21 @@
     margin-block-end: 1rem;
   }
 
+  /* Questions section */
+   
+  .question {
+    padding: 1rem;
+  }
+
+  .question-panel {
+    width: 100%;
+    padding: 1rem;
+    overflow: hidden;
+
+    .a {
+      color: white;
+    }
+  }
 
   /* Team section*/
 
@@ -288,4 +300,6 @@
   .vision-text {
     font-size: 12vw;
   }
+
+  
 }
