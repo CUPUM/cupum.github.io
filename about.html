@@ -60,13 +60,12 @@ title: About
 
 <!-- Question section -->
 
-    
-
 <section class="question">
     <h2 class="question-statement">How can we help you?</h2>
     <div class="question-content">
         {% assign sorted_posts = site.services | sort: 'order' %}
         {% for post in sorted_posts %}
+        <hr>
         <button class="question-accordion">{{ post.question }}</button>
         <detail class="question-panel">
             <div class="question-answer">
@@ -74,6 +73,7 @@ title: About
             </div>
         </detail>
         {% endfor %}
+        <hr>
     </div>
 </section>
 

@@ -109,6 +109,14 @@
   background-color: rgb(141, 122, 96);
 }
 
+hr {
+  display: block;
+  border-width:0;
+  height: 1px;
+  color: white;
+  background-color: white;
+}
+
 .question-accordion:after {
   content: '\283A';
   font-size: 28px;
@@ -276,7 +284,7 @@
 
   .question-panel {
     width: 100%;
-    padding: 1rem;
+    padding: 0rem;
     overflow: hidden;
 
     .a {
