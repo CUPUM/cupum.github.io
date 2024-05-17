@@ -6,8 +6,8 @@ tags:
 location: Montreal
 participants:
 participants_companies: Université de Montréal, Sidlee Architecture
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20230526-sidlee_award.jpg
+img_credit: Faculty of Environmental Design, UdeM
 alt:
 ---
 The UNESCO Chair in Urban Landscape is pleased to announce that Ms. Chloé Henri‘s project entitled “Enraciner la transmission cul-turelle Nehirowisi“, realised as part of the Master’s programe in landscape architecture ( APA6014) and under the direction of Prof. Nicole Valois, is the recipient of the Sid Lee Architecture Master’s Award of $5,000.
