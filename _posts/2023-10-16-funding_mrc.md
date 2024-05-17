@@ -6,8 +6,8 @@ tags:
 location: Montréal
 participants: Alexandre Landry, Shin Koseki 
 participants_companies: Université de Montréal, MEIE
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20231016-funding_mrc.jpg
+img_credit: Sarah Tannir
 alt:
 ---
 The UNESCO Chair in Urban Landscape and L’ENSEMBLE receive noteworthy funding from the Ministry of Economy, Innovation and Énergie du Québec (MEIE).
