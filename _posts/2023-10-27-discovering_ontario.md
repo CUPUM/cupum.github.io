@@ -6,7 +6,7 @@ tags:
 location: Ontario
 participants: Shin Koseki, Emile Forest 
 participants_companies: Université de Montréal
-featured_img: /assets/images/
+featured_img: assets/images/posts/20241027-discovering_ontario.jpg
 img_credit:
 alt:
 ---
