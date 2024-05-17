@@ -6,8 +6,8 @@ tags:
 location: Delft
 participants: Rashid Mushkani, Shin Koseki 
 participants_companies: Université de Montréal, TU Delft
-featured_img: /assets/images/
-img_credit:
+featured_img: /assets/images/posts/20231214-rashid_conference.HEIC
+img_credit: Sarah Tannir
 alt:
 ---
 Rashid Mushkani, doctoral student at the UNESCO Chair in Urban Landscape, presented his research at the “Benchmarking Spatial Justice in Policymaking, Planning and Design” Symposium. 
