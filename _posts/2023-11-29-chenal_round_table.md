@@ -6,8 +6,8 @@ tags:
 location: Montréal
 participants: Jérôme Chenal, Léandry Jieutsa, Shin Koseki 
 participants_companies: Université de Montréal, EPFL
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20231129-chenal_round_table.jpg
+img_credit: Sarah Tannir
 alt:
 ---
 The UNESCO Chair in Urban Landscape is organizing a roundtable conference on December 6th from 12:45 p.m. to 2:45 p.m. with Jérôme Chenal, director of the “Excellence en Afrique” Center, a research unit in regional and urban planning at the Federal Polytechnic School of Lausanne (EPFL); and Prof. Shin Koseki, Director of the UNESCO Chair in Urban Landscape.
