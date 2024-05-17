@@ -7,7 +7,7 @@ location: Montréal
 participants: Léandry Jieutsa, Shin Koseki, Jérôme Chenal 
 participants_companies: Université de Montréal, Mila, Obvia, EPFL
 featured_img: assets/images/posts/20240201-insights_into_report.jpg
-img_credit:
+img_credit: Leandr Jieutsa
 alt:
 ---
 A new working report on digital governance in cities derived from the Chair’s series of online seminar *Insights Into*.
