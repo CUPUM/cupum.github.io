@@ -6,8 +6,8 @@ tags:
 location: Montréal
 participants: Léandry Jieutsa, Shin Koseki, Ruth Nelson, Pontus Westerberg
 participants_companies: Université de Montréal
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20230914-insights_into_1.jpeg
+img_credit: Sarah Tannir
 alt:
 ---
 The UNESCO Chair in Urban Landscape is organizing a series of multidisciplinary discussions on the challenges of emerging technologies in cities, entitled INSIGHTS INTO. Through the experiences and points of view of researchers, professionals and citizens, INSIGHTS INTO will address the issues of the city in the era of emerging technologies in a transversal and holistic way.
