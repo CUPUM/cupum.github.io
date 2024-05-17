@@ -6,8 +6,8 @@ tags:
 location: Montréal
 participants: 
 participants_companies:
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20240119-udem_int_support.jpg
+img_credit: Sarah Tannir
 alt:
 ---
 UdeM international funds three of the Chair's projects that push the boundaries of international research, teaching and cooperation.
