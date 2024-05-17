@@ -6,8 +6,8 @@ tags:
 location: Hanoi
 participants: Shin Koseki 
 participants_companies: Université de Montréal, Hanoi University of Civil Engineering, Hanoi Architectural University, National University of Singapore
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20230509-wat_unesco_hanoi.jpg
+img_credit: Leila Gillespie Cloutier
 alt:
 ---
 Economic flourishing, sustainability and social inclusion should always go hand in hand. This idea has driven the UNESCO Chair in Urban Landscape of the University of Montreal to organize the 13th edition of the Workshop Atelier Terrain UNESCO (WAT UNESCO) on “Designing an Inclusive and Sustainable Creative Economy in Hanoi”. The workshop will occur from 8 to 19 May 2023 in Hanoi, Viet Nam, member city of the International Coalition of Inclusive and Sustainable Cities of UNESCO (ICCAR).
