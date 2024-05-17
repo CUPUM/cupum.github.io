@@ -7,8 +7,8 @@ location: Montreal
 participants: Shin Koseki 
 participants_companies: Université de Montréal, ACSA
 featured_img: /assets/images/
-img_credit:
-alt:
+img_credit: assets/images/posts/20230707-funding_nulab.jpg
+alt: 
 ---
 The UNESCO Chair in Urban Landscape is pleased to announce that NULAB, the project for digital knowledge, has been selected by the Vice-Rectorate for Student Affairs and Studies of the University of Montreal to receive a funding worth $24,351.
 
