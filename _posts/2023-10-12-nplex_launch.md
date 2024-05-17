@@ -6,8 +6,8 @@ tags:
 location: Montreal
 participants: Shin Koseki, Emmanuel Baudry
 participants_companies: Université de Montréal
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20231012-nplex_event.jpg
+img_credit: Sarah Tannir
 alt:
 ---
 On Tuesday October 10th, the UNESCO Chair in Urban Landscape celebrated the unveiling of the Nplex web platform, an initiative of the UNESCO Chair in Urban Landscape at the University of Montreal.
