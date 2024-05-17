@@ -6,7 +6,7 @@ tags:
 location: Delft
 participants: Rashid Mushkani, Shin Koseki 
 participants_companies: Université de Montréal, TU Delft
-featured_img: /assets/images/posts/20231214-rashid_conference.HEIC
+featured_img: assets/images/posts/20231214-rashid_conference.HEIC
 img_credit: Sarah Tannir
 alt:
 ---
