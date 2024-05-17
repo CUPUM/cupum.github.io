@@ -6,8 +6,8 @@ tags:
 location: Montréal
 participants: 
 participants_companies: Université de Montréal
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20231123-signing_agreement_vietnam.jpg
+img_credit: Faculty of Environmental Design, UdeM
 alt:
 ---
 The collaboration between the UNESCO Chair in Urban Landscape and the Hanoi Architectural University has led to the signing of an agreement between the prestigious university in Vietnam and the Faculty of Environmental design of the University of Montreal.
