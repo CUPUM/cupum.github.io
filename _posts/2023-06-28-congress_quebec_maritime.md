@@ -6,8 +6,8 @@ tags:
 location: Quebec
 participants: Shin Koseki 
 participants_companies: Université de Montréal, Quebec Maritime Network
-featured_img: /assets/images/
-img_credit:
+featured_img: assets/images/posts/20230728-avenir_maritime.jpg
+img_credit: Chloé Villeneuve
 alt:
 ---
 The UNESCO Chair in Urban Landscape from the University of Montreal participated in the “Avenir Maritime” Congress organized by the Quebec Maritime Network. This event was held from June 20th to 22nd, 2023 at the Port of Quebec. This was an opportunity for Shin Koseki, the Chair’s director, and four interns to meet various actors of the maritime network and learn more about marine resources, the health of ecosystems and human communities.
