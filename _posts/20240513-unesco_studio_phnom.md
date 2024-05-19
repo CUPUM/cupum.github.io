@@ -5,8 +5,8 @@ category: Workshop organized
 tags:
 location: Phnom Penh
 participants: Shin Koseki, Delphine Duplain
-participants_companies: Université de Montréal
-featured_img: 
+participants_companies: 
+featured_img: assets/images/posts/20240515-unesco_studio_phnom.jpg
 img_credit: 
 alt:
 ---
