@@ -6,8 +6,8 @@ tags:
 location: Montréal
 participants: Shin Koseki 
 participants_companies: Université de Montréal, Mila
-featured_img: 
-img_credit: assets/images/posts/20240117-shin_mila_member.jpeg
+featured_img: assets/images/posts/20240117-shin_mila_member.jpeg
+img_credit: 
 alt: 
 ---
 The Mila Board of Directors have appointed Shin Koseki as Affiliate Member for 2023-2026. This appointment consolidates the numerous collaborations between the UNESCO Chair and the world-renowned non-profit organization on the development of responsible artificial intelligence systems (AIS) for and by cities.
