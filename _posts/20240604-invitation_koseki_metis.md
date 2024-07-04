@@ -5,7 +5,7 @@ category: Presentation given
 tags:
 location: Jardins de Métis
 participants: Shin Koseki
-participants_companies: 
+participants_companies: Jardins de Métis, Université de Montréal
 featured_img: assets/images/posts/20240604-invitation_koseki_metis.jpeg
 img_credit: 
 alt:
