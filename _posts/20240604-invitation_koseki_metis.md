@@ -6,7 +6,7 @@ tags:
 location: Jardins de Métis
 participants: Shin Koseki
 participants_companies: 
-featured_img: 
+featured_img: assets/images/posts/20240604-invitation_koseki_metis.jpeg
 img_credit: 
 alt:
 ---
