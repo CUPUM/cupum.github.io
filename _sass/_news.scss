@@ -8,7 +8,7 @@
 }
 
 .news_post-image {
-    width: calc(100% - 6rem);
+    width: calc(80% - 6rem);
     height: auto;
     margin: 3rem;
 }
@@ -19,6 +19,7 @@
     font-size: 4rem;
     margin-bottom: 0px;
     margin-top: 0px;
+    padding-top: 4rem;
 }
 
 .news_post-category {
@@ -32,7 +33,7 @@
     margin-left:auto;
     margin-right:auto;
     place-items: center;
-    width: 500px;
+    width: 800px;
     padding-bottom:100px;
 }
 
@@ -42,9 +43,19 @@
 
 .news_post-content {
     font-size: 1rem;
+
+    /* **New CSS to Constrain In-Text Images** */
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
-@media (max-width: 600px) {
+
+@media (max-width: 800px) {
 
     .news_post-image {
         width: calc(100% - 2rem);
