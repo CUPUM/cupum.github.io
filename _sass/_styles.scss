@@ -114,12 +114,12 @@ html, body {
 
 /* Hyperlinks */
 a::after {
-	content: "\28E0";
+	content: "\2192";
 	margin-left: 0px;
 }
 
 a.external::after {
-    content: "\2819";
+    content: "\2197";
     margin-left: 0px;
 }
 
@@ -128,11 +128,11 @@ a:visited::after {
 }
 
 a:hover::after {
-	color: rgb(0, 255, 195);
+	color: rgb(141, 122, 96);
 }
 
 a:visited:hover::after {
-	color: rgb(0, 255, 195);
+	color: rgb(141, 122, 96);
 }
 
 a.no-icon::after {
