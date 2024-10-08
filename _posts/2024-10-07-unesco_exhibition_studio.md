@@ -1,7 +1,7 @@
 ---
 title: Phnom Penh Against the Current 
 author: UNESCO Chair in Urban Landscape
-category: Exhibition
+category: Exhibition from October 10 to 17
 tags:
 location: Faculty of Environmental Design, University of Montreal
 participants: 
