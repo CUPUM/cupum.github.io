@@ -6,7 +6,7 @@ tags:
 location: Faculty of Environmental Design, Université de Montréal
 participants: 
 participants_companies: Université de Montréal
-featured_img: assets/images/posts/20241007-exhibition_studio_UNESCO-01.jpg
+featured_img: assets/images/posts/20241007-unesco_exhibition_studio.jpg
 img_credit: 
 alt:
 ---
