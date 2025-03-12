@@ -9,3 +9,5 @@ img_credit:
 alt:
 ---
 I am a student in the master's program in environment and sustainable development. I am also a research assistant at the UNESCO Chair in Urban Landscape.
+
+[Contact](https://www.linkedin.com/in/eddy-damaris-nono-defo-360125177/)
