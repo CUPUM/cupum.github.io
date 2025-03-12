@@ -2,7 +2,7 @@
 name: Eddy Nono
 title: 
 pronouns: he/him
-position: student
+position: Graduate researcher
 bio:
 portrait: /assets/images/people/eddy_nono.jpg
 img_credit:
