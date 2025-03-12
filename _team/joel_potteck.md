@@ -10,4 +10,4 @@ alt:
 ---
 Joël holds a Bachelor's degree in Urban Planning et is currently doing a Master's degree in Urban Design. His willinglness to help my classmates with everything related to computer softwares brought him to join de team at the nulab project, which he is now the project agent.
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%ABl-potteck-54a769269/)
+[Contact](https://www.linkedin.com/in/jo%C3%ABl-potteck-54a769269/)
