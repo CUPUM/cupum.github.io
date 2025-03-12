@@ -4,7 +4,7 @@ title:
 pronouns: she/her
 position: Research intern
 bio:
-portrait: /assets/images/people/sinem_guney.jpeg
+portrait: /assets/images/people/sinem_guney.jpg
 img_credit:
 alt:
 ---
