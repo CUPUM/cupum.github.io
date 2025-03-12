@@ -2,7 +2,7 @@
 name: Joël Potteck
 title: project agent for nulab
 pronouns: he/him
-position: Student
+position: Graduate student
 bio:
 portrait: /assets/images/people/joel_potteck (1).jpg
 img_credit:
