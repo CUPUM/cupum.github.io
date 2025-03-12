@@ -4,7 +4,7 @@ title:
 pronouns: he/him
 position: Graduate researcher
 bio:
-portrait: /assets/images/people/Trung_Vu.jpg
+portrait: /assets/images/people/Trung_VU.jpg
 img_credit:
 alt:
 ---
