@@ -2,7 +2,7 @@
 name: Trung Vu
 title:
 pronouns: he/him
-position: Master in Urban Planning
+position: Graduate researcher
 bio:
 portrait: /assets/images/people/Trung_Vu.jpg
 img_credit:
