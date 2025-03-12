@@ -4,7 +4,7 @@ title:
 pronouns: she/her
 position: Graduate researcher
 bio:
-portrait: /assets/images/people/frederique_roy.jpeg
+portrait: /assets/images/people/frederique_roy.jpg
 img_credit:
 alt:
 ---
