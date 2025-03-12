@@ -1,5 +1,5 @@
 ---
-name: Sarah Tannir
+name: Roxane Kasprzyk
 title:
 pronouns: she/her
 position: Graduate researcher
