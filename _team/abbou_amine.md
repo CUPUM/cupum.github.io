@@ -2,7 +2,7 @@
 name: Mohamed Amine Abbou
 title:
 pronouns: he/him
-position: Graduate researcher
+position: Alumna
 bio:
 portrait: /assets/images/people/abbou_amine.jpg
 img_credit:
