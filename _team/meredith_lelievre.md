@@ -2,7 +2,7 @@
 name: Meredith Nana Lelièvre
 title:
 pronouns: she/her
-position: Graduate researcher
+position: Alumna
 bio:
 portrait: /assets/images/people/meredith_lelievre.jpeg
 img_credit:
