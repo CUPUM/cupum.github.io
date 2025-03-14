@@ -4,7 +4,7 @@ title:
 pronouns: he/him
 position: Doctoral researcher
 bio:
-portrait: 
+portrait: assets/images/people/leandry_jieutsa_2.jpg
 img_credit:
 alt:
 ---
