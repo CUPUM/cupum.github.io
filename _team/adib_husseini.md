@@ -2,7 +2,7 @@
 name: Adib Husseini
 title:
 pronouns: he/him
-position: Graduate researcher
+position: Alumna
 bio:
 portrait: /assets/images/people/adib_husseini.jpeg
 img_credit:
