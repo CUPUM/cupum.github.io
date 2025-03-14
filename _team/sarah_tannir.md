@@ -2,7 +2,7 @@
 name: Sarah Tannir
 title:
 pronouns: she/her
-position: Graduate researcher
+position: Alumna
 bio:
 portrait: /assets/images/people/sarah_tannir.jpeg
 img_credit:
