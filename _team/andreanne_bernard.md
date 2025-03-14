@@ -4,7 +4,7 @@ title:
 pronouns: she/her
 position: Graduate researcher
 bio:
-portrait: 
+portrait: assets/images/people/andreanne_bernard.jpg
 img_credit:
 alt:
 ---
