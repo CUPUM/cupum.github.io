@@ -3,7 +3,7 @@ title: The resilience of ecosystems and riverine communities
 author: UNESCO Chair in Urban Landscape
 category: Workshop conducted
 tags:
-location: 
+location: Montréal
 participants: Shin Koseki
 participants_companies: 
 featured_img: assets/images/posts/20241202-fluvialities_workshop.jpg
