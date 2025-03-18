@@ -1,5 +1,5 @@
 ---
-title: MID-Space: Aligning Diverse Communities’ Needs to Inclusive Public Spaces
+title: Aligning Diverse Communities’ Needs to Inclusive Public Spaces
 author: UNESCO Chair in Urban Landscape
 category: Paper presented
 tags:
