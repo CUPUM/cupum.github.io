@@ -3,7 +3,7 @@ title: New member at the UNESCO Chair
 author: UNESCO Chair in Urban Landscape
 category: Member joined
 tags:
-location: 
+location: Université de Montréal
 participants: 
 participants_companies: Eddy Nono 
 featured_img: assets/images/posts/20241125-eddy_arrival.jpg
