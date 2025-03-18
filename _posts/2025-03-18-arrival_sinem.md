@@ -3,7 +3,7 @@ title: New intern at the UNESCO Chair
 author: UNESCO Chair in Urban Landscape
 category: Member joined
 tags:
-location: 
+location: Université de Montréal
 participants: Sinem Guney
 participants_companies: 
 featured_img: assets/images/posts/20250318-arrival_sinem.jpg
