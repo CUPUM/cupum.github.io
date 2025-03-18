@@ -3,7 +3,7 @@ title: Update on the Evadia project
 author: UNESCO Chair in Urban Landscape
 category: Meeting organized
 tags:
-location: 
+location: Mila
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20250311-evadia_meeting.jpeg
