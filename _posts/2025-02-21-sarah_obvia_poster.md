@@ -1,5 +1,5 @@
 ---
-title: Awarded research on mental health and urban AI
+title: Colloquium on health and AI
 author: UNESCO Chair in Urban Landscape
 category: Prize awarded
 tags:
