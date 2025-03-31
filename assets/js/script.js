@@ -38,13 +38,11 @@ document.addEventListener('DOMContentLoaded', function() {
 // script.js
 
 function toggleMenu() {
-  var menu = document.querySelector('.menu');
-  if (menu.style.display === 'block') {
-      menu.style.display = 'none';
-  } else {
-      menu.style.display = 'block';
-  }
+  document.querySelector('.menu').classList.toggle('open');
 }
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelector('.hamburger').addEventListener('click', toggleMenu);
+});
 
 
 var acc = document.getElementsByClassName("question-accordion");
@@ -65,3 +63,7 @@ for (i = 0; i < acc.length; i++) {
     }
   });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelector(".menu-toggle").addEventListener("click", toggleMenu);
+});

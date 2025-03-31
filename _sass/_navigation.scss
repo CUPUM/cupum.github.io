@@ -43,6 +43,11 @@
     z-index: 1000; /* Ensure it's above other content */
   }
 
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+  }
+
   .menu a {
     display: block;
     color: white;
