@@ -1,5 +1,5 @@
 ---
-title:New Publication: Responsible AI deployment in cities by Jieutsa & Koseki in Oxford Intersections: AI in Society
+title: "New Publication: Responsible AI deployment in cities by Jieutsa & Koseki in Oxford Intersections: AI in Society"
 author: UNESCO Chair in Urban Landscape
 category: Announce
 tags: 
