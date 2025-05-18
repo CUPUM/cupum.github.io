@@ -1,5 +1,5 @@
 ---
-title: Mosaic 2025 Excellence Scholarships awarded
+title: The 2025 Mosaïque Excellence Scholarship awarded
 author: UNESCO Chair in Urban Landscape
 category: Announce
 tags: Eddy Nono
