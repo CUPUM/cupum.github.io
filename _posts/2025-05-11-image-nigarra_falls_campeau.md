@@ -1,3 +1,4 @@
+---
 title: New Collaboration Over Rethinking Niagara Falls Through Photography
 author: UNESCO Chair in Urban Landscape
 category: Announce
