@@ -6,7 +6,7 @@ tags:
 location: Université de Montréal
 participants : 
 participants_companies: Observatoire Québécois des Inégalités, société logique, écologique urbaine, rues principales, IVADO, Mila Québec, Civiliti Montréal, Vivre en Ville, Organisme Respire, Scikoop and Numana.
-featured_img: https://github.com/CUPUM/cupum.github.io/blob/main/assets/images/posts/20250512-cover-evadia_partners_meeting.jpg
+featured_img: assets/images/posts/20250512-cover-evadia_partners_meeting.jpg
 img_credit: 
 alt:
 ---
