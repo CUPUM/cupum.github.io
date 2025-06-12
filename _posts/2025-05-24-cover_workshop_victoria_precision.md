@@ -6,8 +6,8 @@ tags: Evadia+
 location: Centre-Sud 
 participants : 
 participants_companies: 
-featured_img: 
-img_credit: assets/images/posts/20250524-cover_workshop_victoria_precision.jpg
+featured_img: assets/images/posts/20250524-cover_workshop_victoria_precision.jpg
+img_credit: 
 alt:
 ---
 
