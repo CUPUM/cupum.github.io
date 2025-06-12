@@ -6,8 +6,8 @@ tags: Environment, Urbanism, AI, Digital
 location: Montréal
 participants : Frédérique Roy, Eddy Damaris Nono
 participants_companies: 
-featured_img: Maxime Lapostolle 
-img_credit: assets/images/posts/20250610-announce-participation_colloque_interordre.jpg
+featured_img: assets/images/posts/20250610-announce-participation_colloque_interordre.jpg
+img_credit: Maxime Lapostolle
 alt:
 ---
 Congrats to Eddy and Fred!
