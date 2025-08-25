@@ -1,0 +1,96 @@
+---
+layout: default
+permalink: /projects/
+title: Projects
+body_class: light-bg
+---
+<!-- Projects Section -->
+
+<section class="projects-section">
+  <div class="projects-archive">
+    {%- assign partnership = site.projects | where: "type", "partnership"  -%}
+    {%- if partnership.size > 0 -%}
+      <h2>Partnerships projects</h2>
+      <ul>
+        {%- for post in partnership -%}
+          <li>
+           <article class="article">
+              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
+              {%- if post.mission -%}<p>{{ post.mission }}</p>{%- endif -%}
+            </article>
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+
+
+
+    {%- assign principal = site.projects | where: "type", "principal" -%}
+    {%- if principal.size > 0 -%}
+      <h2>Principal projects</h2>
+      <ul>
+        {%- for post in principal -%}
+          <li>
+            <article class="article">
+              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
+              {%- if post.mission -%}<p>{{ post.mission }}</p>{%- endif -%}
+            </article>
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+
+
+
+    {%- assign associated = site.projects | where: "type", "associated" -%}
+    {%- if associated.size > 0 -%}
+      <h2>Associated projects</h2>
+      <ul>
+        {%- for post in associated -%}
+          <li>
+            <article class="article">
+              {%- if post.portrait -%}<img class="image" src="{{ post.portrait }}" loading="lazy">{%- endif -%}
+              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
+              {%- if post.partners -%}<p>{{ post.partners }}</p>{%- endif -%}
+            </article>
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+    {%- assign affiliated = site.projects | where: "type", "affiliated" -%}
+    {%- if affiliated.size > 0 -%}
+      <h2>Affiliated projects</h2>
+      <ul>
+        {%- for post in affiliated -%}
+          <li>
+            <article class="article">
+              {%- if post.portrait -%}<img class="image" src="{{ post.portrait }}" loading="lazy">{%- endif -%}
+              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
+              {%- if post.direction -%}<p>{{ post.direction }}</p>{%- endif -%}
+            </article>
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+    {%- assign students = site.projects | where: "type", "students_thesis" -%}
+    {%- if students.size > 0 -%}
+      <h2>Graduate projects</h2>
+      <ul>
+        {%- for post in students -%}
+          <li>
+            <article class="article">
+              {%- if post.portrait -%}<img class="image" src="{{ post.portrait }}" loading="lazy">{%- endif -%}
+              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
+              {%- if post.partners -%}<p>{{ post.partners }}</p>{%- endif -%}
+            </article>
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+  </div>
+</section>

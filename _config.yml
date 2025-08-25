@@ -69,8 +69,11 @@ color_palette:
 
 # Collections
 collections:
+  pages:
+    output: true
   projects:
     output: true
+    permalink: /projects/:name/
   posts:
     output: true
   teachings:

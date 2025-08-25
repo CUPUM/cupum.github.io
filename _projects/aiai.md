@@ -1,14 +1,41 @@
 ---
 name: AI Alignment for Inclusion
-mission: Generating inclusive<br>AI representations<br>of public spaces
-participants_universities: [Université de Montréal, Mila - Quebec AI Institute]
-participants_ngos: []
-partners: [Enclume, Sid Lee Architecture, Dark Matter Labs, IVADO, Canadian Commission for UNESCO]
+mission: Generating inclusive AI representations of public spaces
+layout: projects
+category: research
+type: principal
+axes:
+    - social inclusion
+    - digitization
+start_date: 2024-03-01
+end_date: Ongoing
+direction: 
+    - Shin Koseki
+lead:
+    - Rashid Mushanki
+communities:
+partners: 
+    - Université de Montréal
+    - Mila
+    - Enclume
+    - Sid Lee Architecture
+    - Dark Matter Labs
+    - IVADO
+    - Canadian Commission for UNESCO
+partner_funding:
+    - Mitacs
+collaborators:
+    - Hugo Bérard
+    - Allison Cohen
+    - Hadrien Bertrand
+    - Shravan Nayak
+advisory_committee:
 featured_img: /assets/images/aiai_stable_diffusion_xl_20240228.jpg
-img_credit: 
 img_link: 
 alt:
+img_credit:
 video_path: /assets/videos/pixabay-video-prokrov_ukraine.mp4
+
 ---
 The AI Alignment for Inclusion (AIAI) project leverages artificial intelligence (AI) to envision public spaces in Montreal that cater to the needs of its diverse population. This initiative is structured to reflect a broad spectrum of perspectives, including those from underrepresented groups. The process begins with the gathering of expert insights to formulate AI prompts. These prompts are then used to generate visual concepts of accessible public areas. The project progresses through phases that incorporate feedback from the community to refine these visuals, ensuring they align with the values of inclusivity. 
   

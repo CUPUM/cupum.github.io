@@ -1,15 +1,46 @@
 ---
 name: AI DEI Public Space
-mission: Measuring the quality<br>of public space<br>with an inclusive AI
-participants_universities: [Université de Montréal]
-participants_ngos: [Mila, IVADO, Canadian Coalition of Inclusive Municipalities, UNESCO]
-partners: [Enclume, Sid Lee Architecture, Dark Matter Lab]
+mission: Measuring the social inclusion of public space using AI
+layout: projects
+category: research
+type: principal
+axes:
+    - social inclusion
+    - digitization
+start_date: 2022-09-01
+end_date: 2024-05-31
+direction: 
+    - Shin Koseki
+communities:
+partners: 
+    - Université de Montréal
+    - Mila
+    - IVADO
+    - UNESCO Social and Human Sciences Sector
+    - Canadian Commission for UNESCO
+    - Canadian Coalition of Inclusive Municipalities
+    - Enclume
+    - Sid Lee Architecture
+    - Dark Matter Lab
+partner_funding:
+    - New Frontiers in Research Funds
+collaborators:
+    - Gauthier Gidel
+    - Toumadher Ammar
+    - Hugo Berard
+    - Cassandre Chatonnier
+    - Amel Gherbi
+    - Rahshid Mushkani
+    - Sarah Tannir
+    - Emmanuel Beaudry-Marchand
+advisory_committee: []
 featured_img: /assets/images/cordat-photo-montreal_street.jpeg
 img_link: 
 alt:
 img_credit:
 video_path: /assets/videos/pixabay-video-plaza_park_bergen_norway.mp4
 ---
+
 The COVID-19 pandemic has highlighted the necessity to create more inclusive public space in cities. Research shows that public space plays a central role in the quality of public life and in the economic vitality of urban spaces. Moreover, creating new public spaces and improving existing ones has a significant positive impact on neighboring stores. 
 
 The progressive lift of lock down measures launched a global repositioning of cities, urban planners and designers on how to make public space more inclusive and welcoming to all. This follows an ongoing trend in Northern countries to question the (missing) place of women, children, elders, individuals living with disabilities, and people identifying with ethnic, cultural, religious, gender and sexual minority groups. Hence, many individuals that belong to culturally dominated or structurally marginalized populations face challenges in their access and enjoyment of public spaces. 

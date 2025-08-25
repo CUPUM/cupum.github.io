@@ -1,13 +1,39 @@
 ---
 name: Nplex
-mission: Promoting exemplary<br>modest design<br>projects in Montreal
-participants_universities: [Université de Montréal]
-participants_ngos: []
-partners: [City of Montreal]
-featured_img: /assets/images/
-img_credit: 
-img_link: 
+mission: Promoting exemplary modest design projects in Montreal
+layout: projects
+category: research
+type: principal
+axes:
+    - social inclusion
+    - digitization
+start_date: 2022-09-01
+end_date: Ongoing
+direction:
+    - Shin Koseki
+lead:
+    - Emmanuel Beaudry-Marchand
+communities:
+    - Architecture offices in Montreal
+partners:
+    - Université de Montréal
+    - City of Montréal
+partner_funding:
+    - City of Montréal
+    - Fonds Sid Lee Architecture
+    - Québec ministry of Superior education
+collaborators:
+    - Sarah Tannir
+    - Frédérique Roy
+    - Julie Colombe
+advisory_committee:
+    - Jeanne Leblanc-Trudeau
+    - Elise Lacoursière-Bouget
+    - Julien Rozon
+featured_img:
+img_link:
 alt:
+img_credit:
 video_path: /assets/videos/shuraev-video-library.mp4
 ---
 

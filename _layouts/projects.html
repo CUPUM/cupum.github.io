@@ -7,10 +7,38 @@ layout: default
     <h2 class="news_post-category">{{ page.mission }}</h2>
 <!-- Muting featured image until layout defined 
     <img class="news_post-image" src="{{ page.featured_img }}" loading="lazy" alt="{{ page.alt }}">
--->
+-->   
+    <div class="news_post-meta-block">
+        {% assign meta_pairs = "Direction:direction|Lead:lead|Communities:communities|Partners:partners|Funding:partner_funding|Collaborators:collaborators|Advisory committee:advisory_committee|Thanking:thanks" | split: "|" %}
+        {% for pair in meta_pairs %}
+        {% assign label = pair | split: ":" | first %}
+        {% assign key   = pair | split: ":" | last %}
+        {% assign items = page[key] %}
+        {% if items and items != empty %}
+            <h3 class="news_post-meta">{{ label }}</h3>
+            <p class="news_post-meta-items">{{ items | join: ", " }}</p>
+        {% endif %}
+        {% endfor %}
+    </div> 
+    
     <div class="news_post-container">
         <div class="news_post-content">
             {{ content }}
         </div>
     </div>
+
+    <div class="news_post-meta-block">
+        {% assign meta_pairs = "Category:category|Type:type|Axe:axes|Started on:start_date|Completed on:end_date" | split: "|" %}
+        {% for pair in meta_pairs %}
+        {% assign label = pair | split: ":" | first %}
+        {% assign key   = pair | split: ":" | last %}
+        {% assign items = page[key] %}
+        {% if items and items != empty %}
+            <h3 class="news_post-meta">{{ label }}</h3>
+            <p class="news_post-meta-items">{{ items | join: ", " }}</p>
+        {% endif %}
+        {% endfor %}
+    </div> 
+
 </div>
+

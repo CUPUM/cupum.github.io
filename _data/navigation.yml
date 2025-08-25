@@ -2,11 +2,15 @@ main:
   - title: Updates
     url: /
   - title: About
-    url: /about.html
+    url: /_pages/about.html
   - title: Projects
-    url: /projects.html
+    url: /_pages/projects.html
   - title: Teaching
-    url: /teachings.html
+    url: /_pages/teachings.html
+  - title: Publications
+    url: /_pages/publications.html
+  - title: Events
+    url: /_pages/events.html
 
 footer: 
   - title: Instagram

@@ -1,16 +1,34 @@
 ---
-name: Fluvialities
-mission: Fostering sustainability<br>& social inclusion along<br>continental rivers
-participants_universities: [Université de Montréal]
-participants_ngos: []
-partners: []
-featured_img: /assets/images/
-img_credit: 
-img_link: 
+name: Rivers in Commons
+mission: Fostering biodiversity & social inclusion along continental rivers
+layout: projects
+category: research
+type: partnership
+axes:
+    - social inclusion
+    - biodiversity
+start_date: 2021-09-01
+end_date: Ongoing
+direction:
+    - Shin Koseki
+    - Evelyne de Leeuw
+    - Jean-François Lapierre
+lead:
+    - Delphine Duplain
+communities:
+partners:
+    - Université de Montréal
+partner_funding:
+collaborators:
+advisory_committee:
+featured_img:
+img_link:
 alt:
+img_credit:
 video_path: /assets/videos/pixabay-video-rhine_germany.mp4
 ---
-Fluvialités rethinks how humanity manages and occupies river regions globally, starting with the Saint Lawrence River watershed. The project generates new knowledge to face climate change, protect biodiversity, sustainable and inclusive urban development, diversity of cultural expressions, and economic development of countries.
+
+Rivers in Commons rethinks how humanity manages and occupies river regions globally, starting with the Saint Lawrence River watershed. The project generates new knowledge to face climate change, protect biodiversity, sustainable and inclusive urban development, diversity of cultural expressions, and economic development of countries.
 
 The project unfolds in four stages. The first stage involves the creation of a global observatory network on river urbanization that brings together researchers, businesses, non-governmental organizations, and citizens. Secondly, a system is being developed for collecting and analyzing multimodal data based on artificial intelligence to accelerate research in the field and engage citizens. Thirdly, a citizen assembly is being established for the Saint Lawrence River, serving as a prototype for interactive democracy processes on river issues. Finally, based on the proposals made in the citizen assembly, an action plan and coordinated policies are being developed for managing the Saint Lawrence River, the Great Lakes, and the Gulf in concert with various stakeholders and the government. 
 

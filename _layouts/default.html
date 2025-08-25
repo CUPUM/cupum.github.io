@@ -12,7 +12,7 @@
    
 </head>
 
-<body class="container">
+<body class="{{ page.body_class }}">
     <!-- Menu -->
     <nav class="navbar">
         <div class="hamburger" onclick="toggleMenu()">
@@ -21,11 +21,16 @@
         <div class="menu">
             <a href="/index">Home</a>
             <a href="/about">About</a>
-            <!--<a href="/projects">Projects</a>-->
-           <!-- <a href="/teachin">Teaching</a> -->
+            <a href="/projects">Projects</a>
+           <!-- <a href="/teaching">Teaching</a> -->
+            <!-- <a href="/network">Network</a> -->
         </div>
     </nav>
 
+    <nav class="lang-switcher" style="text-align: right; margin: 10px;">
+      <a href="/" {% raw %}{% if page.lang == "en" %}style="font-weight: bold;"{% endif %}{% endraw %}>English</a> |
+      <a href="/fr/" {% raw %}{% if page.lang == "fr" %}style="font-weight: bold;"{% endif %}{% endraw %}>Français</a>
+    </nav>
     <!-- Main Content -->
     <main>
         {{ content }}

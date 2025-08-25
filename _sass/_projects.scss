@@ -1,0 +1,68 @@
+/* This file defines the css for the projects page */
+
+.projects-section {
+  background: #fff;
+  padding-bottom: 4rem;
+}
+
+.projects-archive {
+  max-width: 800px;
+  padding: 2rem;
+}
+
+/* section headings for each type */
+.projects-archive h2 {
+  margin-right: 3rem;
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+/* list reset */
+.projects-archive ul { list-style: none; padding: 0; margin: 0; }
+.projects-archive li { margin-bottom: 1.5rem; }
+
+/* project card */
+.projects-archive .article {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* thumbnail */
+.projects-archive .image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+
+/* project title link */
+.projects-archive h3 { 
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.projects-archive a,
+.projects-archive a:visited,
+.projects-archive a:hover,
+.projects-archive a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* partners line */
+.projects-archive p {
+  font-size: 0.9rem;
+  margin: 0.2rem 0 0;
+  color: #444;
+}
+
+/* responsive tweaks */
+@media (max-width: 800px) {
+  .projects-archive { padding: 1rem; }
+  .projects-archive h2 { font-size: 1.2rem; }
+  .projects-archive h3 { font-size: 1rem; }
+}
