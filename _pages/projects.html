@@ -6,11 +6,37 @@ body_class: light-bg
 ---
 <!-- Projects Section -->
 
+
 <section class="projects-section">
+
+  <div class="projects-intro">
+    <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape logo" class="sticker bottom-right">
+    <div class="mission-wrapper">
+        <div class="projects-content">
+            <h2 class="mission-approach">{% include projects.md %}</h2>
+            <div class="mission-axes">
+                <div> 
+                    <h3>Community-focused</h3>
+                    <p>{% include pillard_community.md %}</p>
+                </div>
+                <div> 
+                    <h3>Intersectoral</h3>
+                    <p>{% include pillard_intersectoral.md %}</p>
+                </div>
+                <div> 
+                    <h3>Creative</h3>
+                    <p>{% include pillard_creative.md %}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  
   <div class="projects-archive">
     {%- assign partnership = site.projects | where: "type", "partnership"  -%}
     {%- if partnership.size > 0 -%}
       <h2>Partnerships projects</h2>
+      <p>{% include partnerships.md %}</p>
       <ul>
         {%- for post in partnership -%}
           <li>
@@ -23,12 +49,12 @@ body_class: light-bg
       </ul>
     {%- endif -%}
 
-
-
+    
 
     {%- assign principal = site.projects | where: "type", "principal" -%}
     {%- if principal.size > 0 -%}
       <h2>Principal projects</h2>
+      <p>{% include principal.md %}</p>
       <ul>
         {%- for post in principal -%}
           <li>
@@ -47,6 +73,7 @@ body_class: light-bg
     {%- assign associated = site.projects | where: "type", "associated" -%}
     {%- if associated.size > 0 -%}
       <h2>Associated projects</h2>
+      <p>{% include associated.md %}</p>
       <ul>
         {%- for post in associated -%}
           <li>
@@ -60,9 +87,11 @@ body_class: light-bg
       </ul>
     {%- endif -%}
 
+
     {%- assign affiliated = site.projects | where: "type", "affiliated" -%}
     {%- if affiliated.size > 0 -%}
       <h2>Affiliated projects</h2>
+      <p>{% include affiliated.md %}</p>
       <ul>
         {%- for post in affiliated -%}
           <li>
@@ -76,9 +105,11 @@ body_class: light-bg
       </ul>
     {%- endif -%}
 
+
     {%- assign students = site.projects | where: "type", "students_thesis" -%}
     {%- if students.size > 0 -%}
       <h2>Graduate projects</h2>
+      <p>{% include graduate.md %}</p>
       <ul>
         {%- for post in students -%}
           <li>

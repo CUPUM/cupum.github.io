@@ -6,8 +6,8 @@
 }
 
 .projects-archive {
-  max-width: 800px;
-  padding: 2rem;
+  margin-left: 2rem;
+  max-width:70%;
 }
 
 /* section headings for each type */
@@ -16,8 +16,11 @@
   font-size: 1.6rem;
   margin-top: 3rem;
   margin-bottom: 1rem;
-  border-bottom: 1px solid #ddd;
   padding-bottom: 0.3rem;
+}
+
+.projects-archive h2 + p {
+  margin-bottom: 2rem; // increase distance
 }
 
 /* list reset */
@@ -42,7 +45,7 @@
 /* project title link */
 .projects-archive h3 { 
   font-size: 1.2rem;
-  margin: 0;
+  margin-top: 0.5rem;
 }
 
 .projects-archive a,
@@ -56,8 +59,8 @@
 /* partners line */
 .projects-archive p {
   font-size: 0.9rem;
-  margin: 0.2rem 0 0;
-  color: #444;
+  margin: 0rem 0 0;
+  color: #000000;
 }
 
 /* responsive tweaks */
