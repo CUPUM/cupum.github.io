@@ -160,6 +160,7 @@ hr {
   color: white;
   height: auto;
   background-color: rgb(0, 0, 0);
+  margin: 0;
 
   a, a:link {
       color: white;
@@ -184,6 +185,11 @@ hr {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+}
+
+.team-list > li {
+  margin: 0;
+  padding: 0;
 }
 
 .team-list-item {
@@ -285,6 +291,10 @@ hr {
   .team-list {
     padding: 1.5rem 1rem 2rem;
     gap: 0.75rem;
+  }
+
+  .team-list-link {
+    padding: 0.6rem 0;
   }
 
   .team-list-item {
