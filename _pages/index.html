@@ -32,7 +32,7 @@ title: Home
 <!-- Recent News Section -->
 <section class="news">
   <div class="archive">
-		{% for post in site.posts limit:15 %}
+		{% for post in site.posts limit:30 %}
 		<li> 
 			<article class="article">
 				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt="{{ page.alt }}">

@@ -1,7 +1,7 @@
 ---
 title: Eddy Nono receives the IVADO IAR 3 Research Scholarship
 author: UNESCO Chair in Urban Landscape
-category: announce
+category: Funding
 tags: ResponsibleAI, IVADO, Regroupement5, UrbanMobility
 location: Montréal
 participants : Eddy Nono

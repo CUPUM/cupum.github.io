@@ -170,10 +170,57 @@ hr {
   }
 }
 
-.archive {
-  .team {
-  background-color: rgb(190, 190, 190);
-  }
+.team-section-title {
+  font-size: 3rem;
+  margin: 0;
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
+}
+
+.team-list {
+  list-style: none;
+  margin: 0;
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.team-list-item {
+  font-size: 1rem;
+  border-bottom: 1px solid #ffffff;
+}
+
+.team-list-item:last-child {
+  border-bottom: none;
+}
+
+.team-list-link {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.75rem 0;
+  text-decoration: none;
+  color: inherit;
+  align-items: baseline;
+}
+
+.team-list-link:hover,
+.team-list-link:focus {
+  opacity: 0.8;
+}
+
+.team-member-name {
+  font-weight: 600;
+}
+
+.team-member-pronouns {
+  font-weight: 400;
+}
+
+.team-member-position {
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 /* Vision section */
@@ -233,8 +280,21 @@ hr {
     
     p {
       font-size: 1rem; 
-    }
   }
+
+  .team-list {
+    padding: 1.5rem 1rem 2rem;
+    gap: 0.75rem;
+  }
+
+  .team-list-item {
+    font-size: 0.95rem;
+  }
+
+  .team-member-position {
+    font-size: 0.85rem;
+  }
+}
 
 
   /* Numbers section */

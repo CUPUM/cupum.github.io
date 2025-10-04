@@ -1,7 +1,7 @@
 ---
 title: Participation at the OBVIA community science day
 author: UNESCO Chair in Urban Landscape
-category: announce
+category: Presentation
 tags: Mobility, AI, Obvia, Environnement
 location: 
 participants : Eddy Damaris

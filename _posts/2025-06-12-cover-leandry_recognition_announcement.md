@@ -1,9 +1,9 @@
 ---
 title:  Leandry Jieutsa Honored
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: Honor
 tags: UrbanAI, InnovationEcosystems, AIandCities, AI, Governance
-location: 
+location: Miami
 participants : Leandry Jieutsa
 participants_companies: 
 featured_img: assets/images/posts/20250612-cover-leandry_recognition_announcement.jpg

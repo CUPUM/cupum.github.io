@@ -80,18 +80,19 @@ title: About
 
 <!-- Team Section -->
 <section class="team-section">
-    <div class="archive team">
-          {% for post in site.team %}
-          <li> 
-              <article class="article">
-                  <img class="image" src="{{ post.portrait }}" loading="lazy">
-                  <h2><a href="{{ post.url }}">{{ post.name }} ({{ post.pronouns }})</a></h2>
-                  <p>{{ post.position }}</p>
-              </article>
-          </li>
-          {% endfor %}
-      </div>
-  </section>
+    <h2 class="team-section-title">UNESCO Chair collaborators</h2>
+    <ul class="team-list">
+        {% for post in site.team %}
+        <li class="team-list-item">
+            <a class="team-list-link" href="{{ post.url }}">
+                <span class="team-member-name">{{ post.name }}</span>
+                {% if post.pronouns %}<span class="team-member-pronouns">({{ post.pronouns }})</span>{% endif %}
+                {% if post.position %}<span class="team-member-position">{{ post.position }}</span>{% endif %}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
 
   <!-- Vision Section -->
 <section class="vision">

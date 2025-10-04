@@ -1,7 +1,7 @@
 ---
 title: Congrats to Rashid !
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: Award
 tags: SpeedScience, Mila AI,nResearch, AI Design
 location: Montréal
 participants : Rashid Mushkani
@@ -9,8 +9,6 @@ participants_companies:
 featured_img: assets/images/posts/20250712-cover-concours_vulgarisation_mila.png
 img_credit:
 ---
-Congrats to Rashid !
-
 Rashid Mushkani, PhD student at the UNESCO Chair in Urban Landscape, won the third prize for his presentation "Locked Out by Design" during the grand finale of Mila's Speed Science contest on June 5, 2025.
 
 On June 5, Mila held the finals of the second edition of Speed Science, its science communication competition.

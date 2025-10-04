@@ -8,22 +8,28 @@
   background-color: white;
   overflow: hidden;
   color: rgb(0, 0, 0);
-  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 10px 2rem;
   border-bottom: 1px solid;
 }
 
 .hamburger {
   display: none; /* Hide hamburger icon on desktop */
+  order: 2;
 }
 
 .menu {
   display: flex; /* Show menu inline on desktop */
   justify-content: flex-end;
+  align-items: center;
   position: static;
   height: auto;
   padding-top: 0;
-  padding-right: 2rem;
+  padding-right: 0;
   background: none;
+  margin-left: auto;
 }
 
 .menu a {
@@ -31,7 +37,70 @@
   padding-left: 30px;
 }
 
+#google_translate_element {
+  order: -1;
+  margin-right: auto;
+  flex-shrink: 0;
+}
+
+#google_translate_element .goog-te-gadget {
+  font-family: inherit !important;
+  font-size: inherit !important;
+}
+
+#google_translate_element .goog-te-gadget-simple {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 0.25rem;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+#google_translate_element .goog-te-gadget img {
+  display: none !important;
+}
+
+#google_translate_element .goog-te-menu-value {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 0.25rem;
+  color: inherit !important;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+  font-weight: 400 !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  white-space: nowrap;
+}
+
+#google_translate_element .goog-te-menu-value span,
+#google_translate_element .goog-te-menu-value b {
+  display: none !important;
+}
+
+#google_translate_element .goog-te-menu-value::before {
+  content: "Language";
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 400;
+  color: inherit;
+}
+
+#google_translate_element .goog-te-menu-value::after {
+  content: "\2192";
+  margin-left: 0.25rem;
+  color: inherit;
+}
+
 @media (max-width: 600px) {
+
+  .navbar {
+    flex-wrap: wrap;
+    padding: 10px 1rem;
+  }
 
   .menu {
     display: none; /* Hide menu initially on mobile */
@@ -41,6 +110,13 @@
     text-align: center;
     padding-top: 60px; /* Space from the top */
     z-index: 1000; /* Ensure it's above other content */
+    margin-left: 0;
+  }
+
+  #google_translate_element {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 0.75rem;
   }
 
   .menu-toggle {

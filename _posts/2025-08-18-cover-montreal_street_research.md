@@ -1,7 +1,7 @@
 ---
 title: Different Eyes, Different Streets, How Montréal Residents See Public Space
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: Publication
 tags: UrbanPerceptions, InclusiveCities, PublicSpace, Montréal
 location: Montréal
 participants : Rashid Mushkani, Hugo Bérard, Shin Koseki, Toumadher Ammar
@@ -9,8 +9,6 @@ participants_companies:
 featured_img: assets/images/posts/20250818-cover-montreal_street_research.jpg
 img_credit: Roxane Kasprzyk
 ---
-
-New Publication!
 
 We are pleased to share our latest study, “Public perceptions of Montréal's streets: Implications for inclusive public space making and management”, published in the Journal of Urban Management and co-authored by Rashid Mushkani, Hugo Bérard, Shin Koseki (Université de Montréal, Mila – Quebec AI Institute) and Toumadher Ammar (Université de Montréal).
 

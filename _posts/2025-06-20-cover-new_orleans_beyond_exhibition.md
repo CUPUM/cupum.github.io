@@ -1,7 +1,7 @@
 ---
 title: Looking back at the 'New Orleans Beyond' exhibition
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: Exhibition
 tags: MississippiRiver, Exhibition, New-Orleans, design
 location: New Orleans
 participants : 
@@ -11,6 +11,6 @@ img_credit:
 ---
 Developed through immersive, sensory research and dialogue with residents, the proposals present small-scale, low-tech interventions aimed at renewing connections to the river and enhancing the quality of life for all who call its banks home.
 
-👉🏻The exhibition featured the work of 23 graduate students in architecture, landscape architecture, urban planning, and design from Tulane University, Louisiana State University, McGill University, Université Laval, and the Université de Montréal.
+The exhibition featured the work of 23 graduate students in architecture, landscape architecture, urban planning, and design from Tulane University, Louisiana State University, McGill University, Université Laval, and the Université de Montréal.
 
 A heartfelt thank you to the Albert and Tina Small Center for Collaborative Design for making this exhibition possible!

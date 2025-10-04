@@ -1,9 +1,9 @@
 ---
 title: Shin Koseki presents Montreal at the XVIII UCCN Conference in Paris
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: Presentation
 tags: creative cities, unesco, ai and cities, artificial intelligence
-location: 
+location: UNESCO
 participants : 
 participants_companies:
 featured_img: assets/images/20250625-cover-XVII_UCCN_conference.jpg

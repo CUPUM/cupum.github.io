@@ -1,7 +1,7 @@
 ---
 title: Shin Koseki appointed IVADO Researcher
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: Appointment
 tags: AI, artificialintelligence, researchmontreal, IVADO
 location: Montréal
 participants : Shin Koseki

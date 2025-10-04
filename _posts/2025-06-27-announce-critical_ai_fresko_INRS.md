@@ -1,15 +1,14 @@
 ---
 title: Fresque critique de l'IA
 author: UNESCO Chair in Urban Landscape
-category: announce
+category: Activity
 tags: 
-location: INRS, Montréal
+location: Montréal
 participants : 
 participants_companies:
 featured_img: assets/images/posts/20250627-announce-critical_ai_fresko_inrs.jpg
 img_credit:
 ---
-
 Joignez-vous à nous le 7 juillet prochain pour la première Fresque critique de l'IA ouverte au public!
 
 L'atelier sera animé par Hugo Berard, chercheur postdoctoral à la Chaire UNESCO en paysage urbain, Frédérique Roy, étudiante à la maîtrise à la Chaire UNESCO en paysage urbain et Émile Pronovost, étudiant à la maîtrise à l'Institut national de la recherche scientifique. 

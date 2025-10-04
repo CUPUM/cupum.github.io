@@ -1,7 +1,7 @@
 ---
 title: Survey Imagine the future of the Victoria Precision site!
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: Research
 tags: Participation, AI, Sainte-Marie, Montreal, Survey
 location: Montréal
 participants : 
@@ -21,6 +21,6 @@ You can respond online via this link: consultation.victoria-precision.com
 
 Have questions? Contact us at hugo.berard@umontreal.ca
 
-Join us in building a neighbourhood that’s more inclusive, more equitable, and more responsive to its residents. Feel free to share with your networks!
+Join us in building a neighbourhood that’s more inclusive, more equitable, and more responsive to its residents.Feel free to share with your networks!
 
 Thank you for your valuable contribution
