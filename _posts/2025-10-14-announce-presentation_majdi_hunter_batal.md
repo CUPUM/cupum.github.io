@@ -1,9 +1,9 @@
 ---
-title: Presentation – Majdi Hunter-Batal
+title: Majdi Hunter-Batal’s presentation
 author: UNESCO Chair in Urban Landscape
 category: New member
 tags: Urban Planning, Tactical Urbanism, Rivers In Common, Urban Rivers
-location: 
+location: UNESCO Chair in Urban Landscape
 participants : Majdi Hunter-Batal
 participants_companies: 
 featured_img: assets/images/posts/20251014-announce-presentation_majdi_hunter_batal.jpg
