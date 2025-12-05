@@ -6,7 +6,7 @@ tags: Research Podcast, Urban Planning, AI Ethique, Citizen Participation
 location: Montréal
 participants : Leandry Jieutsa, Roxane Kasprzyk
 participants_companies: 
-featured_img: https://github.com/CUPUM/cupum.github.io/blob/main/assets/images/posts/20251128-cover-podcast_presentation.jpg
+featured_img: assets/images/posts/20251128-cover-podcast_presentation.jpg
 img_credit: 
 ---
 The UNESCO Chair in Urban Landscape is launching its podcast series!
