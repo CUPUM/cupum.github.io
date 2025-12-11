@@ -6,7 +6,7 @@ tags: Artificial Intelligence, Urban Planning, Participatory AI, Data Sovereignt
 location: SOUR
 participants : Rashid Mushkani
 participants_companies: 
-featured_img: assets/images/posts/20251111-couver-podcast_sour.png
+featured_img: assets/images/posts/20251111-cover-podcast_sour.png
 img_credit: 
 ---
 On October 22, 2025, the SOUR Podcast featured Rashid Mushkani (Lecturer, Université de Montréal; Researcher, Mila—Québec AI Institute) for a deep dive into co‑produced and public AI for cities. The conversation explores participatory datasets, pluralistic alignment, and governance grounded in data rights and data sovereignty—concrete ways to ensure AI reflects the values of the people it affects, rather than overwriting local knowledge.
