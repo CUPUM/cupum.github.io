@@ -10,8 +10,6 @@ featured_img: assets/images/posts/20251205-announce-podcast_episode1.jpg
 img_credit: 
 ---
 
-Episode 1 is online!
-
 We invite you to discover Episode 1: “AI: Between Science and Imagination”, featuring Hugo Bérard, postdoctoral researcher at the UNESCO Chair in Urban Landscape. He explores the tools of artificial intelligence in planning… but not only!
 
 Find the podcast on your favorite platforms: 
