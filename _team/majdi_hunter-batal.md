@@ -5,12 +5,12 @@ pronouns: he/him
 position: Graduate researcher
 affiliation: associate
 collaboration: core
-publication: no
+publication: yes
 status: active
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/majdi-hunter-batal-0b5568269/
   website:
 bio:
 portrait:
