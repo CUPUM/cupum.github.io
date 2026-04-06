@@ -48,15 +48,19 @@
 }
 
 
-/* Hide Google Translate top banner to prevent navbar conflict */
-.goog-te-banner-frame,
-#goog-gt-tt,
-.goog-te-balloon-frame {
-  display: none !important;
-}
-
+/* Google Translate bar compensation */
 body {
   top: 0 !important;
+}
+
+html.translated-ltr .navbar,
+html.translated-rtl .navbar {
+  top: 39px !important;
+}
+
+html.translated-ltr main,
+html.translated-rtl main {
+  padding-top: 39px;
 }
 
 /* Translate wrapper: our label is visible, Google's widget overlays it invisibly */
