@@ -1,7 +1,7 @@
 ---
-title: Reception at the Canadian Embassy in Hanoi
+title: UNESCO Studio students meet Canadian Ambassador in Hanoi to discuss Red River development
 author: UNESCO Chair in Urban Landscape
-category: Reception attended 
+category: event
 tags: 
 location: Hanoi
 participants: Shin Koseki, Shawn Steil

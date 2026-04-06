@@ -1,9 +1,9 @@
 ---
-title:  Doctoral stuedent presents his research on AI governance
+title: Leandry Jieutsa lectures on AI governance in cities for Hamburg's Cityscience Lab digital lecture series
 author: UNESCO Chair in Urban Landscape
-category: Recorded lecture
+category: lecture
 tags:
-location: online
+location: Online
 participants: Leandry Jieutsa
 participants_companies: Cityscience Lab Hamburg
 featured_img: assets/images/posts/20240815-presentation_leandry_citysciencelab.png

@@ -1,7 +1,7 @@
 ---
-title: Research chairs unite in diplomacy
+title: Shin Koseki joins Quebec's Chief Scientist for launch of scientific diplomacy chairs ecosystem
 author: UNESCO Chair in Urban Landscape
-category: Meeting
+category: event
 tags: scientific diplomacy, FRQ, UNESCO, International
 location: Montréal
 participants : Shin Koseki, FRQ, SSHRC, NSERC, UNESCO

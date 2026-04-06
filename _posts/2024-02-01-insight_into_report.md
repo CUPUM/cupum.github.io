@@ -1,7 +1,7 @@
 ---
-title: Get insight into emerging technologies in cities
+title: UNESCO Chair publishes working report on digital governance in cities, drawn from "Insights Into" webinar series
 author: UNESCO Chair in Urban Landscape
-category: Report published
+category: publication
 tags:
 location: Montréal
 participants: Léandry Jieutsa, Shin Koseki, Jérôme Chenal 

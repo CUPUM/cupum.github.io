@@ -1,7 +1,7 @@
 ---
-title: Survey Imagine the future of the Victoria Precision site!
+title: EVADIA+ launches public survey on the future of Montreal's Victoria-Précision site in Sainte-Marie
 author: UNESCO Chair in Urban Landscape
-category: Research
+category: update
 tags: Participation, AI, Sainte-Marie, Montreal, Survey
 location: Montréal
 participants : 

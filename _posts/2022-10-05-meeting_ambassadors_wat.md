@@ -1,7 +1,7 @@
 ---
-title: Building international bridges
+title: Shin Koseki meets Vietnamese and Cambodian ambassadors in Paris to advance river cities research
 author: UNESCO Chair in Urban Landscape
-category: Meeting attended
+category: event
 tags: 
 location: Paris
 participants: Shin Koseki 

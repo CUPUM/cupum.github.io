@@ -1,9 +1,9 @@
 ---
-title: Update on the Evadia project
+title: EVADIA+ partners meet at Mila to close framing phase and begin development of inclusive AI tool
 author: UNESCO Chair in Urban Landscape
-category: Meeting organized
+category: event
 tags:
-location: Mila
+location: Montréal
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20250311-evadia_meeting.jpeg

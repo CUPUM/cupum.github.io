@@ -33,12 +33,12 @@ title: About
     <h1 class="numbers-title">Overview</h1>
     <div class="numbers-table">
         <div class="numbers-number">
-            <p class="numbers-stat">20</p>
+            <p class="numbers-stat">23</p>
             <h2 class="numbers-label">Years<br>active</h2>
         </div>
         <div class="numbers-number">
-            <p class="numbers-stat">14</p>
-            <h2 class="numbers-label">UNESCO<br>Studios</h2>
+            <p class="numbers-stat">15</p>
+            <h2 class="numbers-label">International<br>design studios</h2>
         </div>
         <div class="numbers-number">
             <p class="numbers-stat">3</p>
@@ -49,11 +49,11 @@ title: About
             <h2 class="numbers-label">Network<br>partners</h2>
         </div>
         <div class="numbers-number">
-            <p class="numbers-stat">17</p>
-            <h2 class="numbers-label">Team<br>members</h2>
+            <p class="numbers-stat">77</p>
+            <h2 class="numbers-label">Team<br>collaborators</h2>
         </div>
         <div class="numbers-number">
-            <p class="numbers-stat">8</p>
+            <p class="numbers-stat">12</p>
             <h2 class="numbers-label">Nationalities<br>present</h2>
         </div>
     </div>
@@ -68,30 +68,47 @@ title: About
         {% for post in sorted_posts %}
         <hr>
         <button class="question-accordion">{{ post.question }}</button>
-        <detail class="question-panel">
+        <div class="question-panel">
             <div class="question-answer">
                 {{ post.content | markdownify }}
             </div>
-        </detail>
+        </div>
         {% endfor %}
         <hr>
     </div>
 </section>
 
-<!-- Team Section -->
-<section class="team-section">
-    <h2 class="team-section-title">UNESCO Chair collaborators</h2>
-    <ul class="team-list">
-        {% for post in site.team %}
-        <li class="team-list-item">
-            <a class="team-list-link" href="{{ post.url }}">
-                <span class="team-member-name">{{ post.name }}</span>
-                {% if post.pronouns %}<span class="team-member-pronouns">({{ post.pronouns }})</span>{% endif %}
-                {% if post.position %}<span class="team-member-position">{{ post.position }}</span>{% endif %}
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
+<!-- Partners Section -->
+<section class="partners-section">
+    <h2 class="partners-section-title">Partners</h2>
+
+    {% assign all_partners = site.partners | where_exp: "p", "p.name != nil and p.name != ''" | sort: "name" %}
+
+    {% assign categories = "foundational,supporting,core,associate,affiliate,community,institutional,organizational" | split: "," %}
+
+    {% for cat in categories %}
+        {% assign group = all_partners | where: "category", cat %}
+        {% if group.size > 0 %}
+        <div class="partners-group{% if cat == 'foundational' %} partners-group--foundational{% endif %}{% if cat == 'supporting' %} partners-group--supporting{% endif %}{% if cat == 'core' %} partners-group--core{% endif %}">
+            <h3 class="partners-group-title">{{ cat | capitalize }}</h3>
+            <ul class="partners-list">
+                {% for partner in group %}
+                <li class="partners-card">
+                    <a href="{{ partner.url }}">
+                        {% if partner.logo %}
+                        <img class="partners-card-logo" src="{{ partner.logo }}" alt="{{ partner.name }}" loading="lazy">
+                        {% elsif cat != 'institutional' and cat != 'organizational' %}
+                        <div class="partners-card-logo partners-card-logo--placeholder"></div>
+                        {% endif %}
+                        <span class="partners-card-name">{{ partner.name }}</span>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    {% endfor %}
+
 </section>
 
   <!-- Vision Section -->

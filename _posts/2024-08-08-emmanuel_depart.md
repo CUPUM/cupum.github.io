@@ -1,9 +1,9 @@
 ---
-title:  Emmanuel's final week
+title: Emmanuel Beaudry Marchand departs the UNESCO Chair after four years developing the Nplex platform
 author: UNESCO Chair in Urban Landscape
-category: Departure
+category: appointment
 tags:
-location: UNESCO Chair in Urban Landscape
+location: Montréal
 participants: Emmanuel Baudry Marchand
 participants_companies: 
 featured_img: assets/images/posts/20240808-emmanuel_depart.jpg

@@ -1,7 +1,7 @@
 ---
-title: Urban Planning in the Digital Age, Views of the Contributions of Research in Planning
+title: Jérôme Chenal and Shin Koseki host roundtable on AI and digital transformation in urban planning
 author: UNESCO Chair in Urban Landscape
-category: Round table organized
+category: event
 tags: 
 location: Montréal
 participants: Jérôme Chenal, Léandry Jieutsa, Shin Koseki 

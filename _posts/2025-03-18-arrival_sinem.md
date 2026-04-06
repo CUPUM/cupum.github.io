@@ -1,9 +1,9 @@
 ---
-title: New intern at the UNESCO Chair
+title: Sinem Guney joins the UNESCO Chair for a three-month internship on AI-assisted public space design
 author: UNESCO Chair in Urban Landscape
-category: Member joined
+category: appointment
 tags:
-location: Université de Montréal
+location: Montréal
 participants: Sinem Guney
 participants_companies: 
 featured_img: assets/images/posts/20250318-arrival_sinem.jpg

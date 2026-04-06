@@ -1,9 +1,9 @@
 ---
-title: Participation at the Colloque Perspective 360°
+title: Frédérique Roy and Sarah Tannir win prizes at Colloque Perspective 360° for research on AI and urban surveillance
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags: Frédérique Roy, Sarah Tannir, Eddy Nono
-location: Université de Montréal
+location: Montréal
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20250427-announce-acsa_colloque_groupe.jpg

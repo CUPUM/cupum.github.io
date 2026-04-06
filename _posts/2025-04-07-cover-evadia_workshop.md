@@ -1,9 +1,9 @@
 ---
-title: Update on the EVADIA+ project
+title: EVADIA+ partners workshop examines AI bias risks and the balance between automation and human creativity in urban planning
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: outreach
 tags:
-location: Université de Montréal
+location: Montréal
 participants: 
 participants_companies: Observatoire québécois des inégalités, Société Logique, Numana, Scikoop, Organisme Respire, Centre d’Écologie Urbaine, Rues principales, IVADO, Mila - Quebec Artificial Intelligence Institute, civiliti, Vivre en Ville.
 featured_img: assets/images/posts/20250407-cover-evadia_worshop.jpg

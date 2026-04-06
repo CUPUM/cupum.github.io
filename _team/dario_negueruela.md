@@ -1,8 +1,17 @@
 ---
 name: Dario Negueruela del Castillo
-title: Dr.
+title: PhD
 pronouns: he/him
 position: Visiting researcher
+affiliation: external
+collaboration: affiliate
+publication: false
+status: active
+institution: University of Zurich
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/dario_negueruela.jpg
 img_credit:

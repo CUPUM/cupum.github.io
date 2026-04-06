@@ -1,21 +1,27 @@
 main:
-  - title: Updates
+  - title: Home
     url: /
+  - title: News
+    url: /news/
   - title: About
-    url: /_pages/about.html
+    url: /about/
   - title: Projects
-    url: /_pages/projects.html
-  - title: Teaching
-    url: /_pages/teachings.html
-  - title: Publications
-    url: /_pages/publications.html
-  - title: Events
-    url: /_pages/events.html
+    url: /projects/
+  - title: Output
+    url: /output/
+  - title: People
+    url: /people/
+  # - title: Teaching
+  #   url: /teaching/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Events
+  #   url: /events/
 
-footer: 
+footer:
   - title: Instagram
     url: https://www.instagram.com/unesco.studio/
   - title: LinkedIn
-    url: https://ca.linkedin.com/company/unesco.studio
+    url: https://www.linkedin.com/company/unesco.studio/
   - title: Facebook
-    url: https://m.facebook.com/unesco.studio/
+    url: https://www.facebook.com/unesco.studio

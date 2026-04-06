@@ -1,9 +1,9 @@
 ---
-title: Looking Back on the EVADIA+ and CAIAG Closing Conference
+title: EVADIA+ and CAIAG closing conference wraps up two years of research on AI, public space and citizen participation
 author: UNESCO Chair in Urban Landscape
-category: Looking back on the conference
+category: outreach
 tags: AI, Citizen Participation, Collaborative Research, Innovation
-location: Faculty of Environmental Design, Université de Montréal
+location: Montréal
 participants : 
 participants_companies: IVADO, Mila, and OBVIA
 featured_img: assets/images/posts/20260116-announce-closing_evadia.jpg

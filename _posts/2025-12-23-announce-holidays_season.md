@@ -1,7 +1,7 @@
 ---
-title: The UNESCO Chair in Urban Landscape wishes you a wonderful holiday season!
+title: UNESCO Chair closes a year rich in research and exchanges, looks ahead to 2026
 author: UNESCO Chair in Urban Landscape
-category: News
+category: outreach
 tags: Happy Holidays, Urban Studies, UNESCO Chair, 2025 to 2026
 location: Montréal
 participants : 

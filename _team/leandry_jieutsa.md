@@ -1,10 +1,19 @@
 ---
 name: Leandry Jieutsa
-title:
+title: MSc
 pronouns: he/him
 position: Doctoral researcher
+affiliation: internal
+collaboration: core
+publication: true
+status: active
+institution: Université de Montréal
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/leandry-jieutsa-b4533b11b/
+  website:
 bio:
-portrait: assets/images/people/leandry_jieutsa.jpg
+portrait: /assets/images/people/leandry_jieutsa.jpg
 img_credit:
 alt:
 ---

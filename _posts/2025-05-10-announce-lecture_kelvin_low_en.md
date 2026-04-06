@@ -1,9 +1,9 @@
 ---
-title: Online Lecture – Sensory Approaches to Cities
+title: Kelvin E.Y. Low delivers online lecture on sensory approaches to urban heritage and social memory
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags:  Kelvin E.Y. Low
-location: Université de Montréal
+location: Montréal
 participants:  Kelvin E.Y. Low
 participants_companies: 
 featured_img: assets/images/posts/20250510-announce-lecture_kelvin_low_en.jpeg

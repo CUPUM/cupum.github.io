@@ -1,9 +1,9 @@
 ---
-title: The Right to the River at Métis-sur-Mer
+title: Shin Koseki lectures on the "Right to the River" at the International Garden Festival of Métis-sur-Mer
 author: UNESCO Chair in Urban Landscape
-category: Presentation given
+category: lecture
 tags:
-location: Jardins de Métis
+location: Métis-sur-Mer
 participants: Shin Koseki
 participants_companies: Jardins de Métis, Université de Montréal
 featured_img: assets/images/posts/20240604-invitation_koseki_metis.jpeg

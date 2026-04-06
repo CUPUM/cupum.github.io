@@ -1,7 +1,7 @@
 ---
 title: Episode 1 – AI, Between Science and Imagination with Hugo Bérard
 author: UNESCO Chair in Urban Landscape
-category: Podcast 
+category: podcast
 tags: AI, Science And Society, Digital Imaginaries, Podcast
 location: Montréal
 participants : Leandry Jieutsa, Hugo Berard

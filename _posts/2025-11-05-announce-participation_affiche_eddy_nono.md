@@ -1,9 +1,9 @@
 ---
-title: 5th Edition of IVADO Digital Futures
+title: Eddy Nono presents poster on AI and urban mobility governance at IVADO Digital Futures 2025
 author: UNESCO Chair in Urban Landscape
-category: Presentation 
+category: lecture
 tags: Digital Futures, AI, Urban Mobility, Research
-location: IVADO, Montréal
+location: Montréal
 participants : Eddy Nono
 participants_companies: 
 featured_img: assets/images/posts/20251105-announce-participation_ivado_eddy_nono.jpg

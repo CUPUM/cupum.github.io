@@ -1,8 +1,17 @@
 ---
 name: Trung Vu
-title:
+title: MSc
 pronouns: he/him
 position: Graduate researcher
+affiliation: associate
+collaboration: core
+publication: true
+status: active
+institution: Université de Montréal
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/trung-vu-tuan-71b112b8/
+  website:
 bio:
 portrait: /assets/images/people/Trung_VU.jpg
 img_credit:

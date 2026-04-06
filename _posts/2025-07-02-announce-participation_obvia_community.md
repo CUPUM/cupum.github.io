@@ -1,9 +1,9 @@
 ---
-title: Participation at the OBVIA community science day
+title: Eddy Nono presents research on AI and urban mobility governance at OBVIA scientific day
 author: UNESCO Chair in Urban Landscape
-category: Presentation
+category: lecture
 tags: Mobility, AI, Obvia, Environnement
-location: 
+location: Montréal
 participants : Eddy Damaris
 participants_companies:
 featured_img: assets/images/posts/20250702-annonce-participation_obvia_community.jpg

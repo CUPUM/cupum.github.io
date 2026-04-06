@@ -1,9 +1,9 @@
 ---
-title: We’re excited to join the 15th edition of the UNESCO Studio, taking place in New Orleans (USA) from May 19 to 31!
+title: 15th UNESCO Studio opens in New Orleans, bringing together students from five universities to study the Mississippi
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags:  
-location: Université de Montréal
+location: Montréal
 participants : Tulane University, Louisiana State University
 participants_companies: 
 featured_img: assets/images/posts/20250517-annonce-debut_unesco_studio_nola.jpeg

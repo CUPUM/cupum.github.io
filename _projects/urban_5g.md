@@ -3,7 +3,7 @@ name: Urban 5G
 mission: Mitigating the visual impact of 60 000 5G antennas in Montréal
 layout: projects
 category: research
-type: principal
+type: core
 axes:
     - digitization
     - social inclusion
@@ -33,6 +33,18 @@ img_link:
 alt:
 img_credit:
 video_path: /assets/videos/pixabay-video-montreal_canada.mp4
+status: completed
+featured: false
+summary: Research and design guidelines to mitigate the visual impact of 60,000 5G antenna installations on Montréal's urban landscape, in partnership with city and telecom stakeholders.
+outcomes:
+  - Design guidelines for 5G antenna integration into Montréal's urban landscape
+  - Policy recommendations delivered to Ville de Montréal
+publications:
+related_people:
+  - shin_koseki
+  - leandry_jieutsa
+  - adib_husseini
+external_url:
 ---
 
 This project aims to define inclusive design options and guidelines for the visual identity of 5G antennas in the urban environment in Montreal. Seen as the key to the future of telecommunications, the implementation of the 5G network will involve the deployment of thousands of antennas to ensure uninterrupted connectivity to users. The harmonious integration of these antennas into the urban landscape requires careful consideration given their significant visual impact.

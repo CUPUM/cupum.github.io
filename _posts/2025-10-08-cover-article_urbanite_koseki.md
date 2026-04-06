@@ -1,9 +1,9 @@
 ---
 title: What Urban Planning Can Do About AI
 author: UNESCO Chair in Urban Landscape
-category: New publication
+category: publication
 tags: urbanplanning, ai, airisks, smartcities
-location: 
+location: Montréal
 participants : Shin Koseki
 participants_companies: 
 featured_img: assets/images/posts/20251008-cover-article_urbanite_koseki.jpg

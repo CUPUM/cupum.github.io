@@ -1,7 +1,7 @@
 ---
 title: Episode 3 – Rethinking the City Through Universal Design with Pierre-Étienne Gendron-Landry
 author: UNESCO Chair in Urban Landscape
-category: Podcast 
+category: podcast
 tags: Podcast, Inclusive City, Universal Design, VideoPodcast
 location: Montréal
 participants : Leandry Jieutsa, Roxane Kasprzyk, Pierre-Étienne Gendron-Landry

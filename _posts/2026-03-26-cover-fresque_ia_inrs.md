@@ -1,7 +1,7 @@
 ---
-title: Eddy and Fred presented the Critical AI Fresk
+title: Eddy Nono and Frédérique Roy lead Critical AI Fresk workshop at RQEDI equity and inclusion pre-forum
 author: UNESCO Chair in Urban Landscape
-category: Workshop
+category: event
 tags: Réseau québécois pour l'équité, la diversité et l'inclusion (RQEDI), INRS, Ecogames, HEC Montréal, and the Institut EDS de ULaval
 location: Montréal
 participants : Frédérique Roy, Eddy Nono Damaris

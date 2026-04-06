@@ -1,9 +1,9 @@
 ---
-title: Architecture, AI and Inclusion - The UNESCO Chair Adds Its Voice to the Global Debate
+title: Mostovaja and Koseki publish chapter on AI bias in architectural visualizations in Danish Architectural Press anthology
 author: UNESCO Chair in Urban Landscape
-category: New publication
+category: publication
 tags: buildingdiversity, socialinclusion, ai, architecture
-location: 
+location: Copenhagen
 participants : Shin Koseki, Aleksandra Mostovaja
 participants_companies: 
 featured_img: assets/images/posts/20250929-cover-chapitre_koseki_mostovaja.jpeg

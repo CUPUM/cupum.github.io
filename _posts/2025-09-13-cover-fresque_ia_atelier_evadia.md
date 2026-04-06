@@ -1,7 +1,7 @@
 ---
-title: The AI Fresk at the Heart of the Evadia+ Project
+title: EVADIA+ team runs AI Fresk workshop to reflect on AI's role and impacts in urban planning
 author: UNESCO Chair in Urban Landscape
-category: Activity
+category: activity
 tags: AI, UrbanPlanning, CollaborativeWorkshop, AIFresk
 location: Montréal
 participants : 

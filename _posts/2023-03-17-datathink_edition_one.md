@@ -1,7 +1,7 @@
 ---
-title: Datathink “Issues and digital tools in planning”
+title: Datathink seminar in Rome explores digital data and AI in architecture and urban planning
 author: UNESCO Chair in Urban Landscape
-category: Workshop organized
+category: teaching
 tags: 
 location: Rome
 participants: Shin Koseki 

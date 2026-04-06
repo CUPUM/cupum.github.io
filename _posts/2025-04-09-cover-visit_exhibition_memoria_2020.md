@@ -1,9 +1,9 @@
 ---
-title: Visit of exhibition Memoria 2020
+title: UNESCO Studio team visits "Memoria 2020" exhibition on New Orleans Mardi Gras Indians at UdeM Gallery
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: outreach
 tags: Diva Muanza
-location: Galerie Université de Montréal
+location: Montréal
 participants: Diva Muanza
 participants_companies: 
 featured_img: assets/images/posts/20250409-cover-visit_exhibition_memoria_2020.jpg

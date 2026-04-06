@@ -1,15 +1,15 @@
 ---
-title: Majdi Hunter-Batal’s presentation
+title: Majdi Hunter-Batal joins the UNESCO Chair to study tactical urbanism as a tool for riverbank redevelopment
 author: UNESCO Chair in Urban Landscape
-category: New member
+category: appointment
 tags: Urban Planning, Tactical Urbanism, Rivers In Common, Urban Rivers
-location: UNESCO Chair in Urban Landscape
+location: Montréal
 participants : Majdi Hunter-Batal
 participants_companies: 
 featured_img: assets/images/posts/20251014-announce-presentation_majdi_hunter_batal.jpg
 img_credit: 
 ---
-New member of the UNESCO Chair in Urban Landscape!
+New collaborator at the UNESCO Chair in Urban Landscape!
 
 Majdi Hunter-Batal, a master’s student in urban planning, is interested in tactical urbanism as a tool for redeveloping urban riverbanks. As part of his research, he explores how rapid, temporary, and low-cost interventions can sustainably transform our cities' waterfront spaces.
 

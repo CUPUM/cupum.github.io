@@ -3,6 +3,15 @@ name: Roxane Kasprzyk
 title:
 pronouns: she/her
 position: Graduate researcher
+affiliation: internal
+collaboration: core
+publication: true
+status: active
+institution:
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/roxane-kasprzyk-5b725923a/
+  website:
 bio:
 portrait: /assets/images/people/roxane_kasprzyk.jpg
 img_credit:

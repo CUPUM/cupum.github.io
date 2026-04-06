@@ -1,9 +1,9 @@
 ---
-title: Presentation by Rashid Mushkani on AI Pluralism
+title: Rashid Mushkani presents AI Pluralism Index at UQAM, linking AI governance to democratic accountability
 author: UNESCO Chair in Urban Landscape
-category: Presentation
+category: lecture
 tags: AI Pluralism, AI Governance, AI Research, Ethical AI
-location: UQUAM
+location: Montréal
 participants : Rashid Mushkani
 participants_companies: 
 featured_img: assets/images/posts/20260210-cover-presentation_ai_mushkani.jpg

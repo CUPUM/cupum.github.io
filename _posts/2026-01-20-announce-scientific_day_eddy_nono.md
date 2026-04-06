@@ -1,9 +1,9 @@
 ---
-title: Eddy Nono at the Scientific Exchange Day
+title: Eddy Nono presents AI and citizen mobility governance research at LAGORA Scientific Exchange Day in Chicoutimi
 author: UNESCO Chair in Urban Landscape
-category: Looking back on the conference
+category: outreach
 tags: Scientific Exchange Day, Governance, Citizen Participation, UQC
-location: Université du Québec at Chicoutimi
+location: Montréal
 participants : Eddy Damaris Nono
 participants_companies: 
 featured_img: assets/images/posts/20260120-announce-scientific_day_eddy_nono.jpg

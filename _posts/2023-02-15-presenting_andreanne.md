@@ -1,7 +1,7 @@
 ---
-title: Andréanne Bernard, student at the UNESCO Chair in Urban Landscape
+title: Andréanne Bernard joins the UNESCO Chair to study women's solitude and inclusion in public spaces
 author: UNESCO Chair in Urban Landscape
-category: Research presented
+category: lecture
 tags: 
 location: Montréal
 participants: Andréanne Bernard

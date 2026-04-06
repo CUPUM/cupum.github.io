@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /news/
+title: News
+---
+
+<section class="news-section">
+  <div class="news-header">
+    <h1 class="news-title">News</h1>
+    <p class="news-subtitle">Follow us on <a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a>, <a href="{{ site.social.instagram }}" target="_blank">Instagram</a> , <a href="{{ site.social.facebook }}" target="_blank">Facebook</a> and <a href="{{ site.social.tiktok }}" target="_blank">TikTok</a> for live updates about the UNESCO Chair's activities.</p>
+  </div>
+  <ul class="news-list">
+    {% for post in site.posts %}
+    <li class="news-list-item">
+      <a class="news-list-link" href="{{ post.url }}">
+        <span class="news-list-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <span class="news-list-location">{{ post.location }}</span>
+        <span class="news-list-title">{{ post.title }}</span>
+        {% if post.category %}<span class="news-list-category">{{ post.category }}</span>{% endif %}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

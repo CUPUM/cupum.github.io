@@ -1,9 +1,9 @@
 ---
-title: Following the urban traces at Terre-Neuve
+title: UNESCO Chair students survey Newfoundland coastal villages as part of Fluvialities river research
 author: UNESCO Chair in Urban Landscape
-category: Trip organized
+category: activity
 tags: 
-location: Terre-neuve
+location: Corner Brook
 participants: Shin Koseki, Emile Forest
 participants_companies: Université de Montréal
 featured_img: /assets/images/

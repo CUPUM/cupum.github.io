@@ -1,9 +1,9 @@
 ---
 title: "New Publication: Responsible AI deployment in cities by Jieutsa & Koseki in Oxford Intersections: AI in Society"
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags: 
-location: Université de Montréal
+location: Montréal
 participants: Shin Koseki & Leandry Jieusta
 participants_companies: 
 featured_img: assets/images/posts/20250414-announce-publication_jieusta_koseki.jpg

@@ -1,7 +1,7 @@
 ---
-title: Rashid Mushkani, recipient of the 3rd edition of the Faculty “Jeunes chercheurs, jeunes chercheuses - votre voix dans l'espace public.” competition.
+title: Rashid Mushkani wins $10,000 faculty young researchers prize to share AI and public space research with policymakers
 author: UNESCO Chair in Urban Landscape
-category: Award
+category: award
 tags: Science Communication, Ethical AI, Public Engagement, Inclusion
 location: Montréal
 participants : Rashid Mushkani

@@ -1,7 +1,7 @@
 ---
-title: G3 funding
+title: Montreal, Geneva and Brussels universities launch G3 seminar on governing the digital and ecological transition
 author: UNESCO Chair in Urban Landscape
-category: Fudning Received
+category: funding
 tags:
 location: Brussels
 participants: 

@@ -1,9 +1,9 @@
 ---
 title: Street Review - A participatory framework for inclusive streets
 author: UNESCO Chair in Urban Landscape
-category: Publication
+category: publication
 tags: InclusiveCities, ParticipatoryResearch, UrbanStudies, Montrealresearch
-location: the World
+location: The World
 participants : Shin Koseki, Rashid Mushkani
 participants_companies: 
 featured_img: assets/images/posts/20250903-cover-street_review.jpg

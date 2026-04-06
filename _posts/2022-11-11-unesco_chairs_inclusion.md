@@ -1,7 +1,7 @@
 ---
-title: Conference of the UNESCO Chairs in Paris
+title: UNESCO Chairs convene in Paris for 30th anniversary, pledge international think tank on urban inclusion
 author: UNESCO Chair in Urban Landscape
-category: Event organized
+category: event
 tags: 
 location: Paris
 participants: Shin Koseki 

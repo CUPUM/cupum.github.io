@@ -1,8 +1,17 @@
 ---
 name: Adib Husseini
-title:
+title: MSc
 pronouns: he/him
-position: Alumna
+position: Graduate researcher
+affiliation: internal
+collaboration: core
+publication: false
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/adib_husseini.jpeg
 img_credit:

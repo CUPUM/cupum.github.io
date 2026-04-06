@@ -1,9 +1,9 @@
 ---
 title: Cassandre Chatonnier joins the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
-category: Staff joined
+category: appointment
 tags: 
-location: Montreal
+location: Montréal
 participants: Cassandre Chatonnier
 participants_companies: Université de Montréal
 featured_img: /assets/images/

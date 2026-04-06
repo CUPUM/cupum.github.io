@@ -1,8 +1,17 @@
 ---
 name: Eddy Nono
-title: 
+title: MSc
 pronouns: he/him
 position: Graduate researcher
+affiliation: internal
+collaboration: core
+publication: true
+status: active
+institution: Université de Montréal
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/eddy-damaris-nono-defo-360125177/
+  website:
 bio:
 portrait: /assets/images/people/eddy_nono.jpg
 img_credit:

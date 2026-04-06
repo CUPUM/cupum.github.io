@@ -1,9 +1,9 @@
 ---
-title: Learning about the river environment
+title: Shin Koseki presents Fluvialities project at UQTR river ecology seminar
 author: UNESCO Chair in Urban Landscape
-category: Seminar attended
+category: event
 tags: 
-location: Quebec
+location: Québec
 participants: Shin Koseki 
 participants_companies: Université de Montréal, the University of Quebec at Trois-Rivières
 featured_img: /assets/images/

@@ -1,7 +1,7 @@
 ---
-title: Sirine Sellami, new collaborator at the UNESCO Chair in Urban Landscape
+title: Sirine Sellami joins the UNESCO Chair for a three-month internship on flâneur experience in Mediterranean coastal cities
 author: UNESCO Chair in Urban Landscape
-category: New collaborator
+category: appointment
 tags: PhD, Mediterranean, International Mobility, Urban Research
 location: Montréal
 participants : Sirine Sellami

@@ -1,7 +1,7 @@
 ---
 title: Five UNESCO Chairs pledge to making cities more inclusive
 author: UNESCO Chair in Urban Landscape
-category: Pledge made
+category: update
 tags: 
 location: Venice
 participants: Shin Koseki 

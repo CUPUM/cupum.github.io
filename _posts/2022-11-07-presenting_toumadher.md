@@ -1,9 +1,9 @@
 ---
 title: Dr. Toumadher Ammar joins the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
-category: Staff joined
+category: appointment
 tags: 
-location: Montreal
+location: Montréal
 participants: Toumadher Ammar
 participants_companies: Université de Montréal
 featured_img: /assets/images/

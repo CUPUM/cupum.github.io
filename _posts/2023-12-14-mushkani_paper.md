@@ -1,7 +1,7 @@
 ---
 title: Assessing inclusion in public space using image-based methods
 author: UNESCO Chair in Urban Landscape
-category: Paper presented
+category: publication
 tags: 
 location: Delft
 participants: Rashid Mushkani, Shin Koseki 

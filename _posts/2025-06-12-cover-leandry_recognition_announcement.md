@@ -1,7 +1,7 @@
 ---
-title:  Leandry Jieutsa Honored
+title: Leandry Jieutsa receives honourable mention at AI and Cities Forum for research on urban AI governance
 author: UNESCO Chair in Urban Landscape
-category: Honor
+category: award
 tags: UrbanAI, InnovationEcosystems, AIandCities, AI, Governance
 location: Miami
 participants : Leandry Jieutsa

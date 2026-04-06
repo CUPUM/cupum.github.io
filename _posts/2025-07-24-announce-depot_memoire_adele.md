@@ -1,7 +1,7 @@
 ---
-title: Congratulations to Adele ! 
+title: Adèle Kremer completes distinguished thesis on homeless women's experiences in Montreal's public spaces
 author: UNESCO Chair in Urban Landscape
-category: Celebration
+category: event
 tags: ResearchPaper, WomenHomelessness, SocialInclusion, UrbanPlanning
 location: Montréal
 participants : Adele Kremer

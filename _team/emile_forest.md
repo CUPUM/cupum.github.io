@@ -3,6 +3,15 @@ name: Emile Forest
 title: Guest professor
 pronouns: he/him
 position: Associate researcher
+affiliation: internal
+collaboration: core
+publication: false
+status: alumni
+institution: Dark Matter Labs / Nouveaux Voisins
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/emile_forest.jpeg
 img_credit:

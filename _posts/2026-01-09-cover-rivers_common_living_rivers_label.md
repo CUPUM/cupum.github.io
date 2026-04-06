@@ -1,9 +1,9 @@
 ---
 title: A Global Label for Rivers in Commons
 author: UNESCO Chair in Urban Landscape
-category: New label
+category: update
 tags: living with rivers, rivers in commons, sustainability, st lawrence river
-location: 
+location: Paris
 participants : 
 participants_companies: the International Association of Continental Rivers
 featured_img: assets/images/posts/20260109-cover-river_commons_livinf_rivers_label.jpeg

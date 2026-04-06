@@ -1,9 +1,9 @@
 ---
-title: Sid Lee Architecture Master’s Award
+title: Chloé Henri wins $5,000 Sid Lee Architecture Master’s Award for Indigenous cultural landscape design
 author: UNESCO Chair in Urban Landscape
-category: Student awarded
+category: scholarship
 tags: 
-location: Montreal
+location: Montréal
 participants:
 participants_companies: Université de Montréal, Sidlee Architecture
 featured_img: assets/images/posts/20230526-sidlee_award.jpg

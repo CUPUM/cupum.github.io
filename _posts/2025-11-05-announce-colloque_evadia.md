@@ -1,9 +1,9 @@
 ---
 title: Closing Conference - AI, Public Space and Citizen Participation
 author: UNESCO Chair in Urban Landscape
-category: Conference 
+category: event
 tags: Artificial Intelligence, Citizen Participation, Urban Research, Montreal Conference
-location: Faculté de l'aménagement, Université de Montréal
+location: Montréal
 participants : 
 participants_companies: 
 featured_img: assets/images/posts/20251105-announce-colloque_evadia.png

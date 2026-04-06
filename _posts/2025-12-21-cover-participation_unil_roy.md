@@ -1,9 +1,9 @@
 ---
-title: Frédérique Roy is participating in the 2025 IDES Annual Conference
+title: Frédérique Roy presents research on digital surveillance of environmental activists at IDES Conference in Lausanne
 author: UNESCO Chair in Urban Landscape
-category: Participation
+category: event
 tags: Digital Surveillance, Climate Justice, Environmental Justice, Insurgent Planning
-location: University of Lausanne
+location: Lausanne
 participants : Frédérique Roy
 participants_companies: 
 featured_img: assets/images/posts/20251221-cover-participation_unil_roy.jpg

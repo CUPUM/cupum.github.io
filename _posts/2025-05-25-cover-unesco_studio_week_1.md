@@ -1,9 +1,9 @@
 ---
-title: It’s a wrap for week 1 of the UNESCO Studio!
+title: UNESCO Studio New Orleans completes first week of sensory fieldwork along the Mississippi River
 author: UNESCO Chair in Urban Landscape
-category: Cover
+category: outreach
 tags:  
-location: Université de Montréal
+location: Montréal
 participants : Tulane University, Louisiana State University
 participants_companies: 
 featured_img: assets/images/posts/20250525-cover-unesco_studio_first_week_1.jpg

@@ -1,7 +1,7 @@
 ---
 title: Shin Koseki becomes Mila Affiliate Member
 author: UNESCO Chair in Urban Landscape
-category: Institutional nomination
+category: appointment
 tags: 
 location: Montréal
 participants: Shin Koseki 

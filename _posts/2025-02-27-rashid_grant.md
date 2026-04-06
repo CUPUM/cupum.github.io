@@ -1,9 +1,9 @@
 ---
-title: Doctoral student receives a prestigious AI grant
+title: Rashid Mushkani receives $10,000 AI scholarship from Université de Montréal for inclusive public space research
 author: UNESCO Chair in Urban Landscape
-category: Grant awarded
+category: funding
 tags:
-location: Université de Montréal
+location: Montréal
 participants: 
 participants_companies: Rashid Muskani
 featured_img: assets/images/posts/20250227-rashid_grant.jpg

@@ -2,7 +2,16 @@
 name: Sarah Tannir
 title:
 pronouns: she/her
-position: Alumna
+position: Research assistant
+affiliation: internal
+collaboration: core
+publication: true
+status: active
+institution:
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/sarahtannir/
+  website:
 bio:
 portrait: /assets/images/people/sarah_tannir.jpeg
 img_credit:

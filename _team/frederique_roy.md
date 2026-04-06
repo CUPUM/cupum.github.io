@@ -1,8 +1,17 @@
 ---
 name: Frédérique Roy
-title:
+title: MSc
 pronouns: she/her
 position: Graduate researcher
+affiliation: internal
+collaboration: core
+publication: false
+status: active
+institution: Université de Montréal
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/fr%C3%A9d%C3%A9rique-roy-9a893517b/
+  website:
 bio:
 portrait: /assets/images/people/frederique_roy.jpg
 img_credit:

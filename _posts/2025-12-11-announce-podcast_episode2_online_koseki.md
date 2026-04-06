@@ -1,7 +1,7 @@
 ---
 title: Episode 2 – Designing the City - Between Social and Digital with Shin Koseki
 author: UNESCO Chair in Urban Landscape
-category: Podcast 
+category: podcast
 tags: Smart City, Social Urbanism, Responsible AI, Podcast Episode 
 location: Montréal
 participants : Leandry Jieutsa, Shin Koseki

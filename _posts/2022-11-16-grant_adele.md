@@ -1,9 +1,9 @@
 ---
-title: A student receives a 5,000$ discovery scholarship
+title: Adèle Kremer receives $5,000 master's discovery scholarship to study homeless women in urban space
 author: UNESCO Chair in Urban Landscape
-category: Student awarded
+category: scholarship
 tags: 
-location: Montreal
+location: Montréal
 participants: Adèle Kremer
 participants_companies: Université de Montréal
 featured_img: /assets/images/

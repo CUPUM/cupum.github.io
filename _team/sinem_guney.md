@@ -3,6 +3,15 @@ name: Sinem Guney
 title:
 pronouns: she/her
 position: Research intern
+affiliation: internal
+collaboration: intern
+publication: false
+status: alumni
+institution: Polytechnic Faculty of Mons
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/sinem-guney-28a0b7254/
+  website:
 bio:
 portrait: /assets/images/people/sinem_guney.jpg
 img_credit:

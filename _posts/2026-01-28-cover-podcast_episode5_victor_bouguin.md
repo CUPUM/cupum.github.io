@@ -1,9 +1,9 @@
 ---
 title: Episode 5 – Living Winter, Smart and Inclusive Spaces with Victor Bouguin
 author: UNESCO Chair in Urban Landscape
-category: Podcast
+category: podcast
 tags: Podcast, Winter City Design, public space, Inclusive Cities
-location: Université de montréal
+location: Montréal
 participants : Victor Bouguin, Léandry Jieutsa, Roxane Kasprzyk
 participants_companies: 
 featured_img: assets/images/posts/20260128-cover-podcast_episode5_victor_bouguin.jpg

@@ -4,9 +4,11 @@
 
 .navbar {
   position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
-  background-color: white;
-  overflow: hidden;
+  background: #ffffff;
+  z-index: 1000;
   color: rgb(0, 0, 0);
   display: flex;
   align-items: center;
@@ -37,62 +39,62 @@
   padding-left: 30px;
 }
 
-#google_translate_element {
+.menu a.active {
+  text-decoration: underline;
+
+  &::after {
+    content: none;
+  }
+}
+
+
+/* Translate wrapper: our label is visible, Google's widget overlays it invisibly */
+.translate-wrapper {
   order: -1;
   margin-right: auto;
-  flex-shrink: 0;
-}
-
-#google_translate_element .goog-te-gadget {
-  font-family: inherit !important;
-  font-size: inherit !important;
-}
-
-#google_translate_element .goog-te-gadget-simple {
-  display: inline-flex !important;
+  position: relative;
+  display: inline-flex;
   align-items: center;
-  gap: 0.25rem;
-  background: none !important;
-  border: none !important;
-  padding: 0 !important;
+  cursor: pointer;
 }
 
-#google_translate_element .goog-te-gadget img {
-  display: none !important;
-}
-
-#google_translate_element .goog-te-menu-value {
-  display: inline-flex !important;
-  align-items: center;
-  gap: 0.25rem;
-  color: inherit !important;
-  background: none !important;
-  border: none !important;
-  padding: 0 !important;
-  text-decoration: none !important;
-  font-weight: 400 !important;
-  font-family: inherit !important;
-  font-size: inherit !important;
+.translate-label {
+  pointer-events: none;
   white-space: nowrap;
-}
-
-#google_translate_element .goog-te-menu-value span,
-#google_translate_element .goog-te-menu-value b {
-  display: none !important;
-}
-
-#google_translate_element .goog-te-menu-value::before {
-  content: "Language";
   font-family: inherit;
   font-size: inherit;
   font-weight: 400;
-  color: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
 }
 
-#google_translate_element .goog-te-menu-value::after {
-  content: "\2192";
-  margin-left: 0.25rem;
-  color: inherit;
+.translate-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+#google_translate_element {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  opacity: 0;
+  cursor: pointer;
+}
+
+#google_translate_element .goog-te-gadget,
+#google_translate_element .goog-te-gadget-simple {
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+  cursor: pointer !important;
+  border: none !important;
+  background: none !important;
 }
 
 @media (max-width: 600px) {
@@ -113,7 +115,7 @@
     margin-left: 0;
   }
 
-  #google_translate_element {
+  .translate-wrapper {
     width: 100%;
     margin-right: 0;
     margin-bottom: 0.75rem;

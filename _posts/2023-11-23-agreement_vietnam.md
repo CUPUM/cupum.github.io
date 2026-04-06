@@ -1,7 +1,7 @@
 ---
-title: Signing of an agreement with Vietnam
+title: Université de Montréal and Hanoi Architectural University sign five-year academic partnership
 author: UNESCO Chair in Urban Landscape
-category: Agreement signed
+category: update
 tags: 
 location: Montréal
 participants: 

@@ -1,7 +1,7 @@
 ---
-title: Presentation on the governance and responsible development of AI in cities
+title: Shin Koseki delivers keynote on responsible AI governance for Quebec urban planning organizations
 author: UNESCO Chair in Urban Landscape
-category: Research presented 
+category: lecture
 tags:
 location: Québec
 participants: 

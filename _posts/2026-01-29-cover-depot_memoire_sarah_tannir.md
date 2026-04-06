@@ -1,9 +1,9 @@
 ---
-title: Meet Sarah Tannir, alumni of the UNESCO Chair in Urban Landscape! 
+title: Sarah Tannir completes thesis on AI's impact on urban residents' mental health after three years at the UNESCO Chair
 author: UNESCO Chair in Urban Landscape
-category: Leaving
+category: appointment
 tags: Academic Research, AI Societal Impact, Social Impacts, Mental Health 
-location: Université de montréal
+location: Montréal
 participants : Sarah Tannir
 participants_companies: 
 featured_img: assets/images/posts/20260129-cover-depot_memoire_sarah_tannir.jpg

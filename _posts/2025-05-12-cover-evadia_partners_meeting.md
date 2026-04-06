@@ -1,9 +1,9 @@
 ---
-title: Recap of the Fourth Meeting of the EVADIA+ Project Partners
+title: EVADIA+ partners advance AI-assisted public consultation tool for Montreal's Victoria Précision housing site
 author: UNESCO Chair in Urban Landscape
-category: Cover
+category: outreach
 tags:  
-location: Université de Montréal
+location: Montréal
 participants : 
 participants_companies: Observatoire Québécois des Inégalités, société logique, écologique urbaine, rues principales, IVADO, Mila Québec, Civiliti Montréal, Vivre en Ville, Organisme Respire, Scikoop and Numana.
 featured_img: assets/images/posts/20250512-cover-evadia_partners_meeting.jpg

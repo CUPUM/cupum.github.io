@@ -1,9 +1,9 @@
 ---
-title: The UNESCO Studio team was just in New Orleans, gearing up for its next edition!
+title: UNESCO Studio team scouts New Orleans ahead of May workshop on the Mississippi waterfront
 author: UNESCO Chair in Urban Landscape
-category: Look back
+category: outreach
 tags:
-location: New-Orleans
+location: New Orleans
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20250401-trip_new_orleans.jpg

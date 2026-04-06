@@ -1,7 +1,7 @@
 ---
-title:  Vers une densité douce, laboratory focused on combining densification and housing
+title: L'Ensemble densification lab presents first housing projects in Brome-Missisquoi to Sutton city council
 author: UNESCO Chair in Urban Landscape
-category: presentation of the project progress
+category: lecture
 tags:
 location: Sutton
 participants: Alexandre Landry

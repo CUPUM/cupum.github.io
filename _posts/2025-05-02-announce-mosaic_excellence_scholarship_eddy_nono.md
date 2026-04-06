@@ -1,9 +1,9 @@
 ---
-title: The 2025 Mosaïque Excellence Scholarship awarded
+title: Eddy Nono receives 2025 Mosaïque Excellence Scholarship for leadership in equity and inclusion
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags: Eddy Nono
-location: Université de Montréal
+location: Montréal
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20250502-announce-mosaic_excellence_scholarship_eddy_nono.jpg

@@ -1,9 +1,9 @@
 ---
-title: The UNESCO Chair in Urban Landscape’s double award to a graduate student
+title: Edgard Schnepp wins two student prizes at the Colloque 360° for research on digital technology and immigrant suburbanization
 author: UNESCO Chair in Urban Landscape
-category: Cover
+category: outreach
 tags: Edgar Shnepp
-location: Université de Montréal
+location: Montréal
 participants: ACSA Edgar Shnepp
 participants_companies: 
 featured_img: assets/images/posts/20250416-cover-double_awards_edgar_schnepp.jpg

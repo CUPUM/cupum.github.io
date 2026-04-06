@@ -1,8 +1,17 @@
 ---
 name: Dieynaba Diallo
-title:
+title: BSc
 pronouns: she/her
 position: Undergraduate researcher
+affiliation: internal
+collaboration: auxiliary
+publication: false
+status: alumni
+institution: Polytechnique Montréal
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/dieynaba_diallo.jpeg
 img_credit:
