@@ -6,7 +6,7 @@ position: Research assistant
 affiliation: internal
 collaboration: core
 publication: true
-status: active
+status: alumni
 institution:
 projects:
 links:

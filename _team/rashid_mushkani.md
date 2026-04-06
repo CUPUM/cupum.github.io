@@ -5,7 +5,7 @@ pronouns: he/him
 position: Doctoral researcher
 affiliation: internal
 collaboration: core
-publication: false
+publication: true
 status: active
 institution:
 projects:
