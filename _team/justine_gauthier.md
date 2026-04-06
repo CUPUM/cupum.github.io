@@ -5,7 +5,7 @@ pronouns: she/her
 position: Graduate researcher
 affiliation: internal
 collaboration: auxiliary
-publication: false
+publication: no
 status: alumni
 institution: Université de Montréal
 projects:

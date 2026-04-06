@@ -5,7 +5,7 @@ pronouns: he/him
 position: Assistant professor, CIFAR Chair
 affiliation: external
 collaboration: associate
-publication: false
+publication: no
 status: active
 institution: Université de Montréal, MILA
 projects:

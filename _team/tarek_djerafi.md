@@ -5,7 +5,7 @@ pronouns:
 position: Associate Professor
 affiliation: external
 collaboration: associate
-publication: false
+publication: no
 status: active
 institution: INRS
 projects:

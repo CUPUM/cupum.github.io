@@ -5,7 +5,7 @@ pronouns: she/her
 position: Undergraduate researcher
 affiliation: internal
 collaboration: auxiliary
-publication: false
+publication: no
 status: alumni
 institution: Polytechnique Montréal
 projects:

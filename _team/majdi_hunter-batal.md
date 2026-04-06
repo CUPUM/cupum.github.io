@@ -5,7 +5,7 @@ pronouns: he/him
 position: Graduate researcher
 affiliation: associate
 collaboration: core
-publication: false
+publication: no
 status: active
 institution: Université de Montréal
 projects:

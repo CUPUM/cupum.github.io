@@ -5,7 +5,7 @@ pronouns: he/him
 position: Associate researcher
 affiliation: internal
 collaboration: core
-publication: false
+publication: no
 status: alumni
 institution: Dark Matter Labs / Nouveaux Voisins
 projects:

@@ -5,7 +5,7 @@ pronouns: he/him
 position: Undergraduate research intern
 affiliation: internal
 collaboration: intern
-publication: false
+publication: no
 status: alumni
 institution: CESI
 projects:

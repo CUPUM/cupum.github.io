@@ -5,7 +5,7 @@ pronouns: she/her
 position: Research professional
 affiliation: internal
 collaboration: core
-publication: false
+publication: no
 status: alumni
 institution: Université de Montréal
 projects:

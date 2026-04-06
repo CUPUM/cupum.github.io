@@ -5,7 +5,7 @@ pronouns: he/him
 position: Chairholder, Assitant professor
 affiliation: internal
 collaboration: chairholder
-publication: true
+publication: yes
 status: active
 institution: Université de Montréal School of Urban Planning and Landscape Architecture
 projects:

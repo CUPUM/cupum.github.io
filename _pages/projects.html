@@ -33,7 +33,7 @@ body_class: light-bg
   </div>
   
   <div class="projects-archive">
-    {% assign all_projects = site.projects | where_exp: "p", "p.name != nil and p.name != ''" %}
+    {% assign all_projects = site.projects | where_exp: "p", "p.name != nil" | where_exp: "p", "p.name != ''" %}
 
     {% assign partnership_projects = all_projects | where: "type", "partnership" %}
     {% assign core_projects        = all_projects | where: "type", "core" %}

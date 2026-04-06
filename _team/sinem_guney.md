@@ -5,7 +5,7 @@ pronouns: she/her
 position: Research intern
 affiliation: internal
 collaboration: intern
-publication: false
+publication: no
 status: alumni
 institution: Polytechnic Faculty of Mons
 projects:

@@ -5,7 +5,7 @@ pronouns: he/him
 position: Associate Professor
 affiliation: external
 collaboration: associate
-publication: false
+publication: no
 status: active
 institution: University of Geneva
 projects:

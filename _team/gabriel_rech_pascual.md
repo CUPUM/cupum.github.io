@@ -5,7 +5,7 @@ pronouns: he/him
 position: International research intern
 affiliation: internal
 collaboration: intern
-publication: false
+publication: no
 status: alumni
 institution: École des ingénieurs de la ville de Paris
 projects:

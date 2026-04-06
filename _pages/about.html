@@ -82,7 +82,7 @@ title: About
 <section class="partners-section">
     <h2 class="partners-section-title">Partners</h2>
 
-    {% assign all_partners = site.partners | where_exp: "p", "p.name != nil and p.name != ''" | sort: "name" %}
+    {% assign all_partners = site.partners | where_exp: "p", "p.name != nil" | where_exp: "p", "p.name != ''" | sort: "name" %}
 
     {% assign categories = "foundational,supporting,core,associate,affiliate,community,institutional,organizational" | split: "," %}
 

@@ -5,7 +5,7 @@ pronouns: she/her
 position: Honorary collaborator
 affiliation: internal
 collaboration: core
-publication: false
+publication: no
 status: alumni
 institution:
 projects:

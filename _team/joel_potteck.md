@@ -5,7 +5,7 @@ pronouns: he/him
 position: Graduate student
 affiliation: internal
 collaboration: auxiliary
-publication: false
+publication: no
 status: alumni
 institution:
 projects:

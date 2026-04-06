@@ -5,7 +5,7 @@ pronouns:
 position:
 affiliation: external
 collaboration: associate
-publication: false
+publication: no
 status: alumni
 institution:
 projects:

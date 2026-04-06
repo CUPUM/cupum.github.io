@@ -5,7 +5,7 @@ pronouns: she/her
 position: Research assistant
 affiliation: internal
 collaboration: core
-publication: true
+publication: yes
 status: alumni
 institution:
 projects:

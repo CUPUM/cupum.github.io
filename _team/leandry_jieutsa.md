@@ -5,7 +5,7 @@ pronouns: he/him
 position: Doctoral researcher
 affiliation: internal
 collaboration: core
-publication: true
+publication: yes
 status: active
 institution: Université de Montréal
 projects:

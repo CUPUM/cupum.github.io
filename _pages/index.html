@@ -8,7 +8,7 @@ title: Home
 <!-- Hero Video Section -->
 <section class="hero">
   <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape sticker" class="sticker top-left">
-  {% assign featured_projects = site.projects | where: "featured", true | where_exp: "p", "p.video_path != nil and p.video_path != ''" %}
+  {% assign featured_projects = site.projects | where: "featured", true | where_exp: "p", "p.video_path != nil" | where_exp: "p", "p.video_path != ''" %}
   {% if featured_projects.size > 0 %}
     {% for post in featured_projects %}
         <div class="carousel-item">
@@ -22,7 +22,7 @@ title: Home
         </div>
     {% endfor %}
   {% else %}
-    {% assign projects_with_video = site.projects | where_exp: "p", "p.video_path != nil and p.video_path != '' and p.name != nil and p.name != ''" %}
+    {% assign projects_with_video = site.projects | where_exp: "p", "p.video_path != nil" | where_exp: "p", "p.video_path != ''" | where_exp: "p", "p.name != nil" | where_exp: "p", "p.name != ''" %}
     {% for post in projects_with_video limit: 5 %}
         <div class="carousel-item">
           <video class="carousel-video" autoplay muted loop playsinline>

@@ -5,7 +5,7 @@ pronouns: he/his
 position: Undergraduate research intern
 affiliation: internal
 collaboration: intern
-publication: false
+publication: no
 status: alumni
 institution: International Institute of Information Technology Bangalore
 projects:
