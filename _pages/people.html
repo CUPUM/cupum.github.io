@@ -10,18 +10,18 @@ title: People
         <h1 class="people-title">People</h1>
     </div>
 
-    {% assign chairholder    = site.team | where: "publication", "yes" | where: "collaboration", "chairholder" | where: "status", "active" | sort: "name" %}
-    {% assign advisors       = site.team | where: "publication", "yes" | where: "collaboration", "advisor"     | where: "status", "active" | sort: "name" %}
-    {% assign active_core    = site.team | where: "publication", "yes" | where: "collaboration", "core"        | where: "status", "active" | sort: "name" %}
-    {% assign active_assoc   = site.team | where: "publication", "yes" | where: "collaboration", "associate"   | where: "status", "active" | sort: "name" %}
-    {% assign active_affil   = site.team | where: "publication", "yes" | where: "collaboration", "affiliate"   | where: "status", "active" | sort: "name" %}
-    {% assign active_aux     = site.team | where: "publication", "yes" | where: "collaboration", "auxiliary"   | where: "status", "active" | sort: "name" %}
-    {% assign active_intern  = site.team | where: "publication", "yes" | where: "collaboration", "intern"      | where: "status", "active" | sort: "name" %}
-    {% assign alumni_core    = site.team | where: "publication", "yes" | where: "collaboration", "core"        | where: "status", "alumni" | sort: "name" %}
-    {% assign alumni_assoc   = site.team | where: "publication", "yes" | where: "collaboration", "associate"   | where: "status", "alumni" | sort: "name" %}
-    {% assign alumni_affil   = site.team | where: "publication", "yes" | where: "collaboration", "affiliate"   | where: "status", "alumni" | sort: "name" %}
-    {% assign alumni_aux     = site.team | where: "publication", "yes" | where: "collaboration", "auxiliary"   | where: "status", "alumni" | sort: "name" %}
-    {% assign alumni_intern  = site.team | where: "publication", "yes" | where: "collaboration", "intern"      | where: "status", "alumni" | sort: "name" %}
+    {% assign chairholder    = site.team | where_exp: "p", "p.publication" | where: "collaboration", "chairholder" | where: "status", "active" | sort: "name" %}
+    {% assign advisors       = site.team | where_exp: "p", "p.publication" | where: "collaboration", "advisor"     | where: "status", "active" | sort: "name" %}
+    {% assign active_core    = site.team | where_exp: "p", "p.publication" | where: "collaboration", "core"        | where: "status", "active" | sort: "name" %}
+    {% assign active_assoc   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "associate"   | where: "status", "active" | sort: "name" %}
+    {% assign active_affil   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "affiliate"   | where: "status", "active" | sort: "name" %}
+    {% assign active_aux     = site.team | where_exp: "p", "p.publication" | where: "collaboration", "auxiliary"   | where: "status", "active" | sort: "name" %}
+    {% assign active_intern  = site.team | where_exp: "p", "p.publication" | where: "collaboration", "intern"      | where: "status", "active" | sort: "name" %}
+    {% assign alumni_core    = site.team | where_exp: "p", "p.publication" | where: "collaboration", "core"        | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_assoc   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "associate"   | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_affil   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "affiliate"   | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_aux     = site.team | where_exp: "p", "p.publication" | where: "collaboration", "auxiliary"   | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_intern  = site.team | where_exp: "p", "p.publication" | where: "collaboration", "intern"      | where: "status", "alumni" | sort: "name" %}
 
     {% comment %}— Chairholder —{% endcomment %}
     {% if chairholder.size > 0 %}
