@@ -10,7 +10,7 @@ status: active
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/rashid-mushkani
   website:
 bio:
 portrait: /assets/images/people/rashid_mushkani.jpg
