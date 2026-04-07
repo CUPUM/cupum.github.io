@@ -5,12 +5,12 @@ pronouns:
 position:
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 status: alumni
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/philippe-carrier-9850b4313/
   website:
 bio:
 portrait:

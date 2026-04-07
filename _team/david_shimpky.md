@@ -5,7 +5,7 @@ pronouns: he/him
 position: Director
 affiliation: external
 collaboration: advisor
-publication: no
+publication: yes
 status: active
 institution: Frontenac Arch Biosphere
 projects:

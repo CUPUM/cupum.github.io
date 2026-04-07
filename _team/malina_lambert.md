@@ -5,12 +5,12 @@ pronouns:
 position:
 affiliation: internal
 collaboration: intern
-publication: no
+publication: yes
 status: alumni
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/malina-lambert/
   website:
 bio:
 portrait:
