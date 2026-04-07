@@ -5,7 +5,7 @@ pronouns: she/her
 position: Director
 affiliation: external
 collaboration: advisor
-publication: no
+publication: yes
 status: active
 institution: Université de Montréal Vice-rectorate for Community and International
 projects:

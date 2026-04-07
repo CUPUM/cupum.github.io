@@ -1,11 +1,11 @@
 ---
 name: Linda Tinio
-title:
-pronouns:
+title: 
+pronouns: she/her
 position: Programme Manager
 affiliation: external
 collaboration: advisor
-publication: no
+publication: yes
 status: active
 institution: UNESCO
 projects:
@@ -13,7 +13,7 @@ links:
   linkedin:
   website:
 bio:
-portrait:
+portrait: /assets/images/people/linda_tinio.jpg
 img_credit:
-alt:
+alt: Linda Tinio
 ---
