@@ -195,9 +195,10 @@ html.translated-rtl main {
   .menu-contact {
     display: block;
     grid-column: 1 / -1;
-    padding: 0.5rem 8px 1rem;
-    border-bottom: 1px solid #d1d3d4;
-    margin-bottom: 0.5rem;
+    padding: 1rem;
+    margin: -1rem -1rem 0.5rem;
+    background-color: black;
+    color: white;
     font-size: 3.5vw;
     line-height: 1.5;
 
@@ -211,9 +212,24 @@ html.translated-rtl main {
 
     a {
       display: inline;
-      color: black;
+      color: white;
       padding: 0;
       font-size: inherit;
+      text-decoration: none;
+    }
+  }
+
+  .menu-contact-social {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    flex-wrap: wrap;
+
+    a {
+      display: inline;
+      color: white;
+      padding: 0;
+      font-size: 3.5vw;
       text-decoration: none;
     }
   }

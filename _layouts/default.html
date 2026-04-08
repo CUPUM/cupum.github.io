@@ -34,6 +34,12 @@
                 <p class="menu-contact-name">{{ site.title }}<br><a href="{{ '/team/shin_koseki/' | relative_url }}">{{ site.contact.person }}, {{ site.contact.role }}</a></p>
                 <p><a href="mailto:{{ site.contact.email }}" class="external">{{ site.contact.email }}</a><br><a href="tel:{{ site.contact.phone }}" class="external">{{ site.contact.phone }}</a></p>
                 <p><a href="{{ site.contact.google_maps }}" target="_blank" class="external">2940, Côte-Ste-Catherine Rd.<br>Offices 4112–4133<br>Montréal (Qc.) Canada</a></p>
+                <div class="menu-contact-social">
+                    <a href="{{ site.social.linkedin }}" target="_blank" class="external">LinkedIn</a>
+                    <a href="{{ site.social.facebook }}" target="_blank" class="external">Facebook</a>
+                    <a href="{{ site.social.instagram }}" target="_blank" class="external">Instagram</a>
+                    <a href="{{ site.social.tiktok }}" target="_blank" class="external">TikTok</a>
+                </div>
             </div>
             {% for item in site.data.navigation.main %}
             <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
