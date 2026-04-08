@@ -22,6 +22,10 @@
   order: 2;
 }
 
+.menu-contact {
+  display: none;
+}
+
 .menu {
   display: flex; /* Show menu inline on desktop */
   justify-content: flex-end;
@@ -186,5 +190,31 @@ html.translated-rtl main {
     padding: 16px 8px;
     font-size: 4vw;
     text-align: left;
+  }
+
+  .menu-contact {
+    display: block;
+    grid-column: 1 / -1;
+    padding: 0.5rem 8px 1rem;
+    border-bottom: 1px solid #d1d3d4;
+    margin-bottom: 0.5rem;
+    font-size: 3.5vw;
+    line-height: 1.5;
+
+    p {
+      margin: 0 0 0.5rem;
+    }
+
+    .menu-contact-name {
+      font-weight: 600;
+    }
+
+    a {
+      display: inline;
+      color: black;
+      padding: 0;
+      font-size: inherit;
+      text-decoration: none;
+    }
   }
 }

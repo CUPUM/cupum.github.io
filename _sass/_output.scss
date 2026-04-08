@@ -1,7 +1,13 @@
 /* Output page */
 
 .output-section {
-  padding: 2rem 2rem 4rem;
+  padding-bottom: 4rem;
+}
+
+.output-header,
+.output-group {
+  margin-left: 2rem;
+  max-width: 70%;
 }
 
 .output-header {
@@ -22,6 +28,15 @@
   margin-bottom: 20px;
   border-bottom: 1px solid #d1d3d4;
   padding-bottom: 8px;
+}
+
+@media (max-width: 900px) {
+  .output-header,
+  .output-group {
+    margin-left: 0;
+    max-width: 100%;
+    padding: 0 1rem;
+  }
 }
 
 @media (max-width: 600px) {

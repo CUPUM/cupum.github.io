@@ -76,7 +76,8 @@
   .news-title { font-size: 2rem; }
 
   .news-list-link {
-    grid-template-columns: 8rem 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 0.2rem;
     padding: 0.75rem 0;
   }
