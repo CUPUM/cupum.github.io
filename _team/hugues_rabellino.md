@@ -5,12 +5,12 @@ pronouns: he/him
 position: Graduate researcher
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 status: alumni
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/hugues-rabellino
   website:
 bio:
 portrait:
