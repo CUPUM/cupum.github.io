@@ -68,6 +68,18 @@ html.translated-rtl main {
   html.translated-rtl main {
     padding-top: 0;
   }
+
+  html.translated-ltr body,
+  html.translated-rtl body {
+    top: 0 !important;
+    margin-top: 39px;
+  }
+
+  html.translated-ltr .navbar,
+  html.translated-rtl .navbar {
+    top: auto !important;
+    bottom: 0;
+  }
 }
 
 /* Translate wrapper: our label is visible, Google's widget overlays it invisibly */
