@@ -5,7 +5,7 @@ pronouns: she/her
 position: Full professor, UNESCO Chair in Sustainable Communities
 affiliation: external
 collaboration: advisor
-publication: no
+publication: yes
 status: active
 institution: Brock University
 projects:
