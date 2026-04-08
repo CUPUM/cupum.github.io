@@ -17,25 +17,39 @@
   }
   
 .carousel-item {
-    padding: 2rem;
+    position: relative;
     width: 100%;
     height: 100%;
-    background-size: cover;
-    background-position: center;
+    overflow: hidden;
     display: none;
 }
-  
+
 .carousel-item.active {
-    display: block; /* Only show the active item */
+    display: block;
+}
+
+.carousel-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
 }
  
 .carousel-item-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
     display: flex;
     flex-direction: column;
-    justify-content: end;
-    align-items: end;
-    text-align: right;
-    min-height: 100%;
+    justify-content: flex-end;
+    align-items: flex-start;
+    text-align: left;
+    padding: 2rem;
 
     h3 {
         font-size: 3rem;
@@ -54,8 +68,8 @@
 .presentation {
     display: flex;
     flex-direction: column;
-    justify-content: start;
-    align-items: start;
+    justify-content: flex-start;
+    align-items: flex-start;
     min-height: 100vh;
     background-color: white;
     color: black;
@@ -114,34 +128,30 @@
         width: 100vw;
         height: 100vh;
         color: white;
+        padding-bottom: 50px; /* compensate for bottom navbar */
     }
-      
+
     .carousel-item {
-        padding: 1rem;
         width: 100%;
         height: 100%;
         background-size: cover;
         background-position: center;
         display: none;
     }
-      
+
     .carousel-item.active {
-        display: block; /* Only show the active item */
+        display: block;
     }
-     
+
     .carousel-item-text {
-        justify-content: end;
-        align-items: start;
-        text-align: left;
-        min-height: 100%;
-        max-width: 100%;
-        padding-right: 1rem;
-    
+        padding: 1rem;
+        bottom: 50px; /* keep text above bottom navbar */
+
         h3 {
             font-size: 12vw;
             margin-bottom: 0;
         }
-    
+
         h2 {
             font-size: 8vw;
             margin-bottom: 0;
@@ -153,7 +163,7 @@
         display: flex;
         flex-direction: column;
         justify-content: start;
-        align-items: start;
+        align-items: flex-start;
         min-height: 100vh;
         background-color: white;
         color: black;

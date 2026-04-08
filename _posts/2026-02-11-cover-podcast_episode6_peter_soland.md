@@ -1,7 +1,7 @@
 ---
 title: Episode 6 – Urban Narratives, Crossing Perspectives with Peter Soland
 author: UNESCO Chair in Urban Landscape
-category: Podcast
+category: podcast
 tags: Urban Narratives, Video Podcast, Design Process, public space 
 location: Montréal
 participants : Peter Soland, Léandry Jieutsa, Roxane Kasprzyk

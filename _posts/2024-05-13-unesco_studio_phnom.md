@@ -1,7 +1,7 @@
 ---
-title: Sensing the Mekong riversides 
+title: UNESCO Studio convenes in Phnom Penh to study the city's relationship with the Mekong River
 author: UNESCO Chair in Urban Landscape
-category: Workshop organized
+category: teaching
 tags:
 location: Phnom Penh
 participants: Shin Koseki, Delphine Duplain

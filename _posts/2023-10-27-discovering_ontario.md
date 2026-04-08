@@ -1,9 +1,9 @@
 ---
-title: Discovering the riverine landscapes of northern Ontario
+title: UNESCO Chair students travel 1,400 km through Ontario's Great Lakes region to study riverine landscapes
 author: UNESCO Chair in Urban Landscape
-category: Trip organized
+category: activity
 tags: 
-location: Ontario
+location: Thunder Bay
 participants: Shin Koseki, Emile Forest 
 participants_companies: Université de Montréal
 featured_img: assets/images/posts/20241027-discovering_ontario.jpg

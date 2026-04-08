@@ -1,9 +1,9 @@
 ---
-title: Participation of the UNESCO Chair in Urban Landscape in the “Avenir Maritime” Congress
+title: UNESCO Chair joins Quebec Maritime Network's “Avenir Maritime” congress to advance St. Lawrence research
 author: UNESCO Chair in Urban Landscape
-category: Event attended
+category: event
 tags: 
-location: Quebec
+location: Québec
 participants: Shin Koseki 
 participants_companies: Université de Montréal, Quebec Maritime Network
 featured_img: assets/images/posts/20230728-avenir_maritime.jpg

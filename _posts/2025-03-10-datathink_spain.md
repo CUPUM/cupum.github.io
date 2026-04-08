@@ -1,7 +1,7 @@
 ---
-title: New year, New Datathink!
+title: Datathink seminar in Barcelona explores AI governance, impacts and opportunities for cities
 author: UNESCO Chair in Urban Landscape
-category: Seminar conducted
+category: teaching
 tags:
 location: Barcelona
 participants: Shin Koseki

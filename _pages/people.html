@@ -1,0 +1,298 @@
+---
+layout: default
+permalink: /people/
+title: People
+---
+
+<section class="people-section">
+    <div class="people-intro">
+        <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape logo" class="sticker bottom-right">
+        <h1 class="people-title">People</h1>
+    </div>
+
+    {% assign chairholder    = site.team | where_exp: "p", "p.publication" | where: "collaboration", "chairholder" | where: "status", "active" | sort: "name" %}
+    {% assign advisors       = site.team | where_exp: "p", "p.publication" | where: "collaboration", "advisor"     | where: "status", "active" | sort: "name" %}
+    {% assign active_core    = site.team | where_exp: "p", "p.publication" | where: "collaboration", "core"        | where: "status", "active" | sort: "name" %}
+    {% assign active_assoc   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "associate"   | where: "status", "active" | sort: "name" %}
+    {% assign active_affil   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "affiliate"   | where: "status", "active" | sort: "name" %}
+    {% assign active_aux     = site.team | where_exp: "p", "p.publication" | where: "collaboration", "auxiliary"   | where: "status", "active" | sort: "name" %}
+    {% assign active_intern  = site.team | where_exp: "p", "p.publication" | where: "collaboration", "intern"      | where: "status", "active" | sort: "name" %}
+    {% assign alumni_core    = site.team | where_exp: "p", "p.publication" | where: "collaboration", "core"        | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_assoc   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "associate"   | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_affil   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "affiliate"   | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_aux     = site.team | where_exp: "p", "p.publication" | where: "collaboration", "auxiliary"   | where: "status", "alumni" | sort: "name" %}
+    {% assign alumni_intern  = site.team | where_exp: "p", "p.publication" | where: "collaboration", "intern"      | where: "status", "alumni" | sort: "name" %}
+
+    {% comment %}— Chairholder —{% endcomment %}
+    {% if chairholder.size > 0 %}
+    <div class="people-group">
+        <h2 class="people-group-title">Chairholder</h2>
+        <ul class="people-list">
+            {% for person in chairholder %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% comment %}— Advisors —{% endcomment %}
+    {% if advisors.size > 0 %}
+    <div class="people-group">
+        <h2 class="people-group-title">Advisors</h2>
+        <ul class="people-list">
+            {% for person in advisors %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                        {% if person.institution %}<span class="people-card-institution">{{ person.institution }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% comment %}— Active Collaborators —{% endcomment %}
+    {% assign has_active = false %}
+    {% if active_core.size > 0 or active_assoc.size > 0 or active_affil.size > 0 or active_aux.size > 0 or active_intern.size > 0 %}
+        {% assign has_active = true %}
+    {% endif %}
+    {% if has_active %}
+    <div class="people-section-heading">
+        <h2 class="people-section-title">Collaborators</h2>
+    </div>
+
+    {% if active_core.size > 0 %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Core</h3>
+        <ul class="people-list">
+            {% for person in active_core %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if active_assoc.size > 0 %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Associate</h3>
+        <ul class="people-list">
+            {% for person in active_assoc %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                        {% if person.institution %}<span class="people-card-institution">{{ person.institution }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if active_affil.size > 0 %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Affiliate</h3>
+        <ul class="people-list">
+            {% for person in active_affil %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                        {% if person.institution %}<span class="people-card-institution">{{ person.institution }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if active_aux.size > 0 %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Auxiliary</h3>
+        <ul class="people-list">
+            {% for person in active_aux %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                        {% if person.institution %}<span class="people-card-institution">{{ person.institution }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if active_intern.size > 0 %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Intern</h3>
+        <ul class="people-list">
+            {% for person in active_intern %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    {% endif %}
+
+    {% comment %}— Alumni —{% endcomment %}
+    {% if alumni_core.size > 0 or alumni_assoc.size > 0 or alumni_affil.size > 0 or alumni_aux.size > 0 or alumni_intern.size > 0 %}
+    <div class="people-section-heading people-section-heading--alumni">
+        <h2 class="people-section-title people-section-title--alumni">Alumni</h2>
+    </div>
+
+    {% if alumni_core.size > 0 %}
+    <div class="people-group people-group--sub people-group--alumni">
+        <h3 class="people-group-title people-group-title--sub people-group-title--alumni">Core</h3>
+        <ul class="people-list people-list--alumni">
+            {% for person in alumni_core %}
+            <li class="people-card people-card--alumni">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if alumni_assoc.size > 0 %}
+    <div class="people-group people-group--sub people-group--alumni">
+        <h3 class="people-group-title people-group-title--sub people-group-title--alumni">Associate</h3>
+        <ul class="people-list people-list--alumni">
+            {% for person in alumni_assoc %}
+            <li class="people-card people-card--alumni">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if alumni_affil.size > 0 %}
+    <div class="people-group people-group--sub people-group--alumni">
+        <h3 class="people-group-title people-group-title--sub people-group-title--alumni">Affiliate</h3>
+        <ul class="people-list people-list--alumni">
+            {% for person in alumni_affil %}
+            <li class="people-card people-card--alumni">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if alumni_aux.size > 0 %}
+    <div class="people-group people-group--sub people-group--alumni">
+        <h3 class="people-group-title people-group-title--sub people-group-title--alumni">Auxiliary</h3>
+        <ul class="people-list people-list--alumni">
+            {% for person in alumni_aux %}
+            <li class="people-card people-card--alumni">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if alumni_intern.size > 0 %}
+    <div class="people-group people-group--sub people-group--alumni">
+        <h3 class="people-group-title people-group-title--sub people-group-title--alumni">Intern</h3>
+        <ul class="people-list people-list--alumni">
+            {% for person in alumni_intern %}
+            <li class="people-card people-card--alumni">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% endif %}
+
+</section>

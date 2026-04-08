@@ -1,9 +1,9 @@
 ---
-title: Phnom Penh Against the Current 
+title: "\"Phnom Penh Against the Current\" exhibition opens at Université de Montréal after Cambodian premiere"
 author: UNESCO Chair in Urban Landscape
-category: Exhibition from October 10 to 17
+category: event
 tags:
-location: Faculty of Environmental Design, University of Montreal
+location: Montréal
 participants: 
 participants_companies: Université de Montréal
 featured_img: assets/images/posts/20241007-unesco_exhibition_studio.jpg

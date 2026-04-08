@@ -1,7 +1,7 @@
 ---
-title:  Participation at the Colloque Interordre
+title: Eddy Nono and Frédérique Roy present master's research at Colloque Interordre at UQAM
 author: UNESCO Chair in Urban Landscape
-category: Presentation
+category: lecture
 tags: Environment, Urbanism, AI, Digital
 location: Montréal
 participants : Frédérique Roy, Eddy Damaris Nono

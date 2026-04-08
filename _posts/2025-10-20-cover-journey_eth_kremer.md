@@ -1,9 +1,9 @@
 ---
-title: A New Journey for Adèle Kremer at ETH
+title: Adèle Kremer joins ETH/EPFL joint master's program in urban and territorial design
 author: UNESCO Chair in Urban Landscape
-category: Feedback
+category: outreach
 tags: urban design, alumni, territorial design, eth
-location: ETH Zurich 
+location: Zurich
 participants : Adèle Kremer
 participants_companies: 
 featured_img: assets/images/posts/20251020-cover-journey_eth_kremer.jpg

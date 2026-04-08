@@ -1,10 +1,19 @@
 ---
 name: Andréanne Bernard
-title:
+title: MSc
 pronouns: she/her
 position: Graduate researcher
+affiliation: internal
+collaboration: core
+publication: yes
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/andréanne-bernard-031851128
+  website:
 bio:
-portrait: assets/images/people/andreanne_bernard.jpg
+portrait: /assets/images/people/andreanne_bernard.jpg
 img_credit:
 alt:
 ---

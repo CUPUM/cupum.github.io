@@ -1,7 +1,7 @@
 ---
 title: Nearly $300,000 for new inclusive and sustainable real estate models in the Brome-Missisquoi MRC
 author: UNESCO Chair in Urban Landscape
-category: Funding received
+category: funding
 tags: 
 location: Montréal
 participants: Alexandre Landry, Shin Koseki 

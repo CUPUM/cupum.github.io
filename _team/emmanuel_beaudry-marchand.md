@@ -3,6 +3,15 @@ name: Emmanuel Beaudry-Marchand
 title:
 pronouns: he/him
 position: Research professional
+affiliation: internal
+collaboration: core
+publication: no
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/emmanuel_beaudry-marchand.jpg
 img_credit:

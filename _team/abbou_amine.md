@@ -1,8 +1,17 @@
 ---
 name: Mohamed Amine Abbou
-title:
+title: MSc
 pronouns: he/him
-position: Alumna
+position: Graduate researcher
+affiliation: internal
+collaboration: core
+publication: no
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/abbou_amine.jpg
 img_credit:

@@ -1,9 +1,9 @@
 ---
-title: UN habitat & MILA publish a guide to bring attention on AI in cities
+title: UN-Habitat and Mila publish joint guide on the risks and governance of AI in cities
 author: UNESCO Chair in Urban Landscape
-category: Report published
+category: publication
 tags: 
-location: 
+location: The World
 participants: Shin Koseki 
 participants_companies: Université de Montréal, Mila, UN Habitat
 featured_img: /assets/images/

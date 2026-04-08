@@ -1,9 +1,9 @@
 ---
 title: Meetings with the UN Under-Secretary General responsible for UN Habitat
 author: UNESCO Chair in Urban Landscape
-category: Event attended
+category: event
 tags: 
-location: Montreal
+location: Montréal
 participants: Maimunah Mohd Sharif, Shin Koseki
 participants_companies: Université de Montréal, United Nations
 featured_img: /assets/images/

@@ -1,7 +1,7 @@
 ---
-title: Aligning Diverse Communities’ Needs to Inclusive Public Spaces
+title: Rashid Mushkani presents MID-Space AI dataset at NeurIPS 2024 in Vancouver
 author: UNESCO Chair in Urban Landscape
-category: Paper presented
+category: publication
 tags:
 location: Vancouver
 participants: 

@@ -1,7 +1,7 @@
 ---
-title: Academic Year Opening of the UNESCO Chair in Urban Landscape at the Faculty of Environmental Design
+title: UNESCO Chair begins a new academic year with upcoming events at the Faculty of Environmental Design
 author: UNESCO Chair in Urban Landscape
-category: Daily life
+category: update
 tags: 
 location: Montréal
 participants : 

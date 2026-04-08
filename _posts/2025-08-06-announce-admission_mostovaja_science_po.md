@@ -1,7 +1,7 @@
 ---
-title: Admission of Aleksandra Mostovaja to the Urban School of Sciences Po Paris 
+title: Aleksandra Mostovaja admitted to Sciences Po Paris Urban School to study large-scale metropolitan governance
 author: UNESCO Chair in Urban Landscape
-category: Update
+category: update
 tags: SciencesPo, UrbanPlanning, Architecture, CityAndTerritory
 location: Paris
 participants : Aleksandra Mostovaja

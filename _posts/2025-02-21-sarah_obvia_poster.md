@@ -1,9 +1,9 @@
 ---
-title: Colloquium on health and AI
+title: Sarah Tannir wins second prize at OBVIA health and AI colloquium for poster on urban AI and mental health
 author: UNESCO Chair in Urban Landscape
-category: Prize awarded
+category: award
 tags:
-location: HEC
+location: Montréal
 participants: Sarah Tannir
 participants_companies: OBVIA
 featured_img: assets/images/posts/20250221-sarah_obvia_poster.jpg

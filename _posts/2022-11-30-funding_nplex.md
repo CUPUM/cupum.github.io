@@ -1,8 +1,8 @@
 ---
-title: Support from the Ministry of Higher Education for the Nplex platform
-category: Funding obtained
+title: Quebec's Ministry of Higher Education funds Nplex, a platform showcasing excellence in residential design
+category: funding
 tags: 
-location: Montreal
+location: Montréal
 participants: Emmanuel Baudry Marchand
 participants_companies: Université de Montréal, City of Montreal
 featured_img: /assets/images/

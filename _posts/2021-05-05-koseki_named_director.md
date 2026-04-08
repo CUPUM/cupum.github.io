@@ -1,7 +1,7 @@
 ---
-title: Shin Koseki nommé directeur titulaire de la Chaire UNESCO en paysage urbain
+title: Shin Koseki named director of the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
-category: Staff hired
+category: appointment
 tags:
 location: Montréal
 participants: Shin Koseki

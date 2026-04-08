@@ -1,9 +1,9 @@
 ---
-title: New Collaboration Over Rethinking Niagara Falls Through Photography
+title: UNESCO Chair collaborates with photographer Alexandre Campeau-Vallée on Niagara Falls museum exhibition opening in 2026
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags: Alexandre Campeau-Vallée 
-location: niagara falls museums
+location: Niagara Falls
 participants: Alexandre Campeau-Vallée 
 participants_companies: 
 featured_img: assets/images/posts/20250511-announce-collaboration_niagara_falls_campeau.jpg

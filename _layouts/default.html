@@ -26,24 +26,32 @@
 <body class="{{ page.body_class }}">
     <!-- Menu -->
     <nav class="navbar">
-        <div class="hamburger" onclick="toggleMenu()">
-            &#10298;
+        <div class="hamburger">
+            &#9776;
         </div>
         <div class="menu">
-            <a href="/index">Home</a>
-            <a href="/about">About</a>
-            <a href="/projects">Projects</a>
-           <!-- <a href="/teaching">Teaching</a> -->
-            <!-- <a href="/network">Network</a> -->
+            <div class="menu-contact">
+                <p class="menu-contact-name">{{ site.title }}<br><a href="{{ '/team/shin_koseki/' | relative_url }}">{{ site.contact.person }}, {{ site.contact.role }}</a></p>
+                <p><a href="mailto:{{ site.contact.email }}" class="external">{{ site.contact.email }}</a><br><a href="tel:{{ site.contact.phone }}" class="external">{{ site.contact.phone }}</a></p>
+                <p><a href="{{ site.contact.google_maps }}" target="_blank" class="external">2940, Côte-Ste-Catherine Rd.<br>Offices 4112–4133<br>Montréal (Qc.) Canada</a></p>
+                <div class="menu-contact-social">
+                    <a href="{{ site.social.linkedin }}" target="_blank" class="external">LinkedIn</a>
+                    <a href="{{ site.social.facebook }}" target="_blank" class="external">Facebook</a>
+                    <a href="{{ site.social.instagram }}" target="_blank" class="external">Instagram</a>
+                    <a href="{{ site.social.tiktok }}" target="_blank" class="external">TikTok</a>
+                </div>
+            </div>
+            {% for item in site.data.navigation.main %}
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+            {% endfor %}
         </div>
-        <div id="google_translate_element"></div>
+        <div class="translate-wrapper">
+            <span class="translate-label" aria-hidden="true"><svg class="translate-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span>
+            <div id="google_translate_element"></div>
+        </div>
     </nav>
 
-    <nav class="lang-switcher" style="text-align: right; margin: 10px;">
-      <a href="/" {% raw %}{% if page.lang == "en" %}style="font-weight: bold;"{% endif %}{% endraw %}>English</a> |
-      <a href="/fr/" {% raw %}{% if page.lang == "fr" %}style="font-weight: bold;"{% endif %}{% endraw %}>Français</a>
-    </nav>
-    <!-- Main Content -->
+<!-- Main Content -->
     <main>
         {{ content }}
     </main>
@@ -63,7 +71,7 @@
                 </div>
                 <div class="footer-addresses">
                     <div class="chairholder">
-                        <h3><a href="{{ '/team/shin_koseki.html' }}">{{ site.contact.person }}<br>{{ site.contact.role }}</a></h3>
+                        <h3><a href="{{ '/team/shin_koseki/' | relative_url }}">{{ site.contact.person }}<br>{{ site.contact.role }}</a></h3>
                         <p>{{ site.contact.office }}<br><a href="mailto:{{ site.contact.email }}" target="_blank" class="email external">{{ site.contact.email }}</a>
                             <br><a href="tel:{{ site.contact.phone }}" target="_blank" class="external">{{ site.contact.phone }}</a></p>
                     </div>

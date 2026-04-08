@@ -1,9 +1,9 @@
 ---
-title: The UNESCO Chair in Urban Landscape receives funding for its NULAB project
+title: UNESCO Chair receives $24,000 to launch NULAB, a digital knowledge-sharing hub for planning students
 author: UNESCO Chair in Urban Landscape
-category: Funding received
+category: funding
 tags: 
-location: Montreal
+location: Montréal
 participants: Shin Koseki 
 participants_companies: Université de Montréal, ACSA
 featured_img: assets/images/posts/20230707-funding_nulab.jpeg

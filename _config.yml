@@ -82,6 +82,9 @@ collections:
     output: true
   services:
     output: true
+  partners:
+    output: true
+    permalink: /partners/:name/
 
 # Assests items
 assets:
@@ -105,4 +108,9 @@ defaults:
       type: "projects"
     values:
       layout: "projects"
+  - scope:
+      path: ""
+      type: "partners"
+    values:
+      layout: "partner"
   

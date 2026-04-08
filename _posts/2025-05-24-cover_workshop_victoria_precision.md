@@ -1,9 +1,9 @@
 ---
-title: Participatory Planning with EVADIA+
+title: EVADIA+ tests AI participation tools with Centre-Sud residents at Victoria Précision planning workshop
 author: UNESCO Chair in Urban Landscape
-category: Cover
+category: outreach
 tags: Evadia+  
-location: Centre-Sud 
+location: Montréal
 participants : 
 participants_companies: 
 featured_img: assets/images/posts/20250524-cover_workshop_victoria_precision.jpg

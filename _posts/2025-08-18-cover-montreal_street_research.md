@@ -1,7 +1,7 @@
 ---
 title: Different Eyes, Different Streets, How Montréal Residents See Public Space
 author: UNESCO Chair in Urban Landscape
-category: Publication
+category: publication
 tags: UrbanPerceptions, InclusiveCities, PublicSpace, Montréal
 location: Montréal
 participants : Rashid Mushkani, Hugo Bérard, Shin Koseki, Toumadher Ammar

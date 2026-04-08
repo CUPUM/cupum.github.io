@@ -3,7 +3,7 @@ name: Nplex
 mission: Promoting exemplary modest design projects in Montreal
 layout: projects
 category: research
-type: principal
+type: core
 axes:
     - social inclusion
     - digitization
@@ -35,6 +35,17 @@ img_link:
 alt:
 img_credit:
 video_path: /assets/videos/shuraev-video-library.mp4
+status: ongoing
+featured: false
+summary: A web application showcasing exemplary modest design projects across Montreal to promote sustainable and inclusive urban design practices.
+outcomes:
+publications:
+related_people:
+  - shin_koseki
+  - emmanuel_beaudry-marchand
+  - sarah_tannir
+  - frederique_roy
+external_url: https://nplex.design
 ---
 
 Nplex is a web-application promoting the exemplarity of design and architecture around Montreal. It showcases design excellence through the works of local designers and artisans of affordable and responsible _modest_ projects. It aims to fulfill various complementary missions, ranging from educating citizens about best design practices in their area to providing a channel for architects, designers, and planners who want to expose their work and making it easier to find useful local resources and competent individuals in the field of design.

@@ -1,8 +1,17 @@
 ---
 name: Delphine Duplain
-title:
+title: MSc
 pronouns: she/her
 position: Research professional
+affiliation: internal
+collaboration: core
+publication: yes
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/delphineduplain/
+  website:
 bio:
 portrait: /assets/images/people/delphine_duplain.jpg
 img_credit:

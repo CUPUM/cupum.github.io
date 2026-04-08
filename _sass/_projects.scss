@@ -63,9 +63,229 @@
   color: #000000;
 }
 
+/* project status badges */
+.project-status {
+  display: inline-block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 7px;
+  border-radius: 2px;
+  font-weight: 700;
+  vertical-align: middle;
+
+  &--ongoing {
+    background-color: #c0dfae;
+    color: #2a4a1a;
+  }
+  &--completed {
+    background-color: #c7cde8;
+    color: #1a1a4a;
+  }
+  &--paused {
+    background-color: #fff9ae;
+    color: #5a4a00;
+  }
+}
+
+/* project listing card header */
+.article-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.article-title {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.article-summary {
+  font-size: 0.9rem;
+  margin: 4px 0 0;
+  color: #333;
+}
+
+.projects-group-title {
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #d1d3d4;
+}
+
+.projects-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* project detail page */
+.project {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px 100px;
+}
+
+.project-header {
+  margin-bottom: 32px;
+}
+
+.project-title {
+  font-size: 3rem;
+  margin-bottom: 8px;
+}
+
+.project-mission {
+  font-size: 1.5rem;
+  color: #737373;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.project-meta-block {
+  margin: 24px 0;
+  border-top: 1px solid #d1d3d4;
+  padding-top: 16px;
+}
+
+.project-meta-block--footer {
+  border-top: 1px solid #d1d3d4;
+  margin-top: 40px;
+}
+
+.project-meta-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #737373;
+  margin: 16px 0 4px;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.project-meta-items {
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.project-content {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.project-people {
+  margin-top: 40px;
+}
+
+.project-people-title,
+.project-outcomes-title,
+.project-publications-title {
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #d1d3d4;
+  padding-bottom: 6px;
+}
+
+.project-people-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 32px;
+}
+
+.project-people-item {
+  a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    width: 100px;
+    text-align: center;
+
+    &:hover span {
+      color: #0d56fb;
+    }
+  }
+}
+
+.project-people-portrait {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 6px;
+}
+
+.project-people-portrait--placeholder {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 6px;
+}
+
+.project-people-item:nth-child(5n+1) .project-people-portrait--placeholder { background-color: #c7cde8; }
+.project-people-item:nth-child(5n+2) .project-people-portrait--placeholder { background-color: #cdb9a3; }
+.project-people-item:nth-child(5n+3) .project-people-portrait--placeholder { background-color: #c0dfae; }
+.project-people-item:nth-child(5n+4) .project-people-portrait--placeholder { background-color: #fff9ae; }
+.project-people-item:nth-child(5n+5) .project-people-portrait--placeholder { background-color: #f9a3be; }
+
+.project-people-position {
+  font-size: 0.75rem;
+  color: #737373;
+}
+
+.project-outcomes,
+.project-publications {
+  margin-top: 32px;
+}
+
+.project-outcomes-list,
+.project-publications-list {
+  padding-left: 1.5rem;
+
+  li {
+    margin-bottom: 8px;
+    font-size: 0.95rem;
+  }
+}
+
+.project-pub-year {
+  color: #737373;
+  font-size: 0.85rem;
+}
+
 /* responsive tweaks */
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   .projects-archive { padding: 1rem; }
   .projects-archive h2 { font-size: 1.2rem; }
-  .projects-archive h3 { font-size: 1rem; }
+  .article-title { font-size: 1rem; }
+}
+
+@media (max-width: 600px) {
+  .projects-archive {
+    margin-left: 0;
+    max-width: 100%;
+  }
+
+  .project {
+    padding: 20px 1rem 60px;
+  }
+
+  .project-title {
+    font-size: 2rem;
+  }
+
+  .project-mission {
+    font-size: 1.1rem;
+  }
 }

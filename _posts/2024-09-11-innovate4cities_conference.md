@@ -1,9 +1,9 @@
 ---
 title:  Montreal Call to Action Unveiled at Innovate4Cities 2024
 author: UNESCO Chair in Urban Landscape
-category: Call to action
+category: outreach
 tags:
-location: Montreal
+location: Montréal
 participants: 
 participants_companies: Innovate4cities, UN-Habitat, Global Covenant of Mayors
 featured_img: assets/images/posts/20240911-innovate4cities_conference.jpg

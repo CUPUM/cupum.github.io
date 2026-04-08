@@ -1,44 +1,97 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
-<div class="news_post">
-    <h1 class="news_post-title">{{ page.name }}</h1>
-    <h2 class="news_post-category">{{ page.mission }}</h2>
-<!-- Muting featured image until layout defined 
-    <img class="news_post-image" src="{{ page.featured_img }}" loading="lazy" alt="{{ page.alt }}">
--->   
-    <div class="news_post-meta-block">
-        {% assign meta_pairs = "Direction:direction|Lead:lead|Communities:communities|Partners:partners|Funding:partner_funding|Collaborators:collaborators|Advisory committee:advisory_committee|Thanking:thanks" | split: "|" %}
+<div class="project">
+    <div class="project-header">
+        <h1 class="project-title">{{ page.name }}</h1>
+        <p class="project-mission">{{ page.mission }}</p>
+        {% if page.status %}
+        <span class="project-status project-status--{{ page.status }}">{{ page.status }}</span>
+        {% endif %}
+    </div>
+
+    <div class="project-meta-block">
+        {% assign meta_pairs = "Direction:direction|Lead:lead|Communities:communities|Partners:partners|Funding:partner_funding|Advisory committee:advisory_committee|Thanking:thanks" | split: "|" %}
         {% for pair in meta_pairs %}
         {% assign label = pair | split: ":" | first %}
         {% assign key   = pair | split: ":" | last %}
         {% assign items = page[key] %}
         {% if items and items != empty %}
-            <h3 class="news_post-meta">{{ label }}</h3>
-            <p class="news_post-meta-items">{{ items | join: ", " }}</p>
+            <h3 class="project-meta-label">{{ label }}</h3>
+            <p class="project-meta-items">{{ items | join: ", " }}</p>
         {% endif %}
         {% endfor %}
-    </div> 
-    
-    <div class="news_post-container">
-        <div class="news_post-content">
+    </div>
+
+    <div class="project-container">
+        <div class="project-content">
             {{ content }}
         </div>
     </div>
 
-    <div class="news_post-meta-block">
-        {% assign meta_pairs = "Category:category|Type:type|Axe:axes|Started on:start_date|Completed on:end_date" | split: "|" %}
+    {% if page.related_people and page.related_people != empty %}
+    <div class="project-people">
+        <h3 class="project-people-title">Collaborators</h3>
+        <ul class="project-people-list">
+        {% for member in site.team %}
+            {% assign member_slug = member.path | split: "/" | last | split: "." | first %}
+            {% if page.related_people contains member_slug %}
+            <li class="project-people-item">
+                <a href="{{ member.url }}">
+                    {% if member.portrait %}
+                    <img src="{{ member.portrait }}" alt="{{ member.name }}" loading="lazy" class="project-people-portrait">
+                    {% else %}
+                    <div class="project-people-portrait project-people-portrait--placeholder"></div>
+                    {% endif %}
+                    <span>{{ member.name }}</span>
+                    {% if member.position %}<span class="project-people-position">{{ member.position }}</span>{% endif %}
+                </a>
+            </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if page.outcomes and page.outcomes != empty %}
+    <div class="project-outcomes">
+        <h3 class="project-outcomes-title">Outcomes</h3>
+        <ul class="project-outcomes-list">
+        {% for outcome in page.outcomes %}
+            <li>{{ outcome }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if page.publications and page.publications != empty %}
+    <div class="project-publications">
+        <h3 class="project-publications-title">Publications</h3>
+        <ul class="project-publications-list">
+        {% for pub in page.publications %}
+            <li>
+                {% if pub.url %}<a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}
+                {% if pub.year %}<span class="project-pub-year">({{ pub.year }})</span>{% endif %}
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    <div class="project-meta-block project-meta-block--footer">
+        {% assign meta_pairs = "Category:category|Type:type|Research axes:axes|Started:start_date|Completed:end_date" | split: "|" %}
         {% for pair in meta_pairs %}
         {% assign label = pair | split: ":" | first %}
         {% assign key   = pair | split: ":" | last %}
         {% assign items = page[key] %}
         {% if items and items != empty %}
-            <h3 class="news_post-meta">{{ label }}</h3>
-            <p class="news_post-meta-items">{{ items | join: ", " }}</p>
+            <h3 class="project-meta-label">{{ label }}</h3>
+            <p class="project-meta-items">{{ items | join: ", " }}</p>
         {% endif %}
         {% endfor %}
-    </div> 
-
+        {% if page.external_url %}
+        <h3 class="project-meta-label">Website</h3>
+        <p class="project-meta-items"><a href="{{ page.external_url }}" target="_blank" rel="noopener">{{ page.external_url }}</a></p>
+        {% endif %}
+    </div>
 </div>
-

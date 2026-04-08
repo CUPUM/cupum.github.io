@@ -1,8 +1,17 @@
 ---
 name: Amel Gherbi-Rahal
-title:
+title: PhD
 pronouns: she/her
 position: Postdoctoral researcher
+affiliation: internal
+collaboration: core
+publication: no
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/amel_gherbi-rahal.jpeg
 img_credit:

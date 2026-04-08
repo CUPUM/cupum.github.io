@@ -1,9 +1,9 @@
 ---
 title: Emile Forest leads the Jardins de Métis summer workshop
 author: UNESCO Chair in Urban Landscape
-category: Course organized
+category: teaching
 tags: 
-location: Quebec
+location: Québec
 participants: Emile Forest
 participants_companies: Université de Montréal, Jardins de Métis
 featured_img: /assets/images/

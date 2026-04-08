@@ -1,7 +1,7 @@
 ---
 title: Eddy Nono receives the Maison des aires publiques et internationales Scholarship 
 author: UNESCO Chair in Urban Landscape
-category: Award
+category: award
 tags: Udem, FAS, Public Affairs, AI
 location: Montréal
 participants : Eddy Nono

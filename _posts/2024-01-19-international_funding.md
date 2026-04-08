@@ -1,7 +1,7 @@
 ---
-title: Three international project find support from the University of Montreal
+title: Université de Montréal funds three UNESCO Chair international projects on AI governance and river urbanism
 author: UNESCO Chair in Urban Landscape
-category: Funding received
+category: funding
 tags:
 location: Montréal
 participants: 

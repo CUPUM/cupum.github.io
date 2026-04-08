@@ -1,7 +1,7 @@
 ---
-title: Awareness Workshop on the Ethical Challenges of AI and Data Management
+title: Eddy Nono leads workshop on AI ethics and data management at UdeM's Millénium Québecor entrepreneurship bootcamp
 author: UNESCO Chair in Urban Landscape
-category: Presentation
+category: lecture
 tags: Entrepreneurship, Awareness, SDGs, bootcamp
 location: Montréal
 participants : Eddy Nono

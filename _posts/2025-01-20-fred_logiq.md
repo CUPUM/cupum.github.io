@@ -1,9 +1,9 @@
 ---
-title: Fred is heading to RightsCon
+title: Frédérique Roy receives LOJIQ travel grant to attend RightsCon human rights and technology conference in Taipei
 author: UNESCO Chair in Urban Landscape
-category: Grant awarded
+category: funding
 tags:
-location: 
+location: Québec
 participants: 
 participants_companies: Frédérique Roy
 featured_img: assets/images/posts/20250120-fred_logiq.jpg

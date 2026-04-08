@@ -1,7 +1,7 @@
 ---
-title: Looking back at the 'New Orleans Beyond' exhibition
+title: "\"New Orleans Beyond\" exhibition showcases 23 students' design proposals for the Mississippi riverfront"
 author: UNESCO Chair in Urban Landscape
-category: Exhibition
+category: event
 tags: MississippiRiver, Exhibition, New-Orleans, design
 location: New Orleans
 participants : 

@@ -1,7 +1,7 @@
 ---
-title: Workshop on creativity and AI
+title: Hugo Bérard co-organizes Workshop on Creativity and Generative AI at NeurIPS 2024 in Vancouver
 author: UNESCO Chair in Urban Landscape
-category: Workshop conducted
+category: teaching
 tags:
 location: Vancouver
 participants: 

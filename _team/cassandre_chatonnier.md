@@ -1,8 +1,17 @@
 ---
 name: Cassandre Chatonnier
-title: Dr.
+title: PhD
 pronouns: she/her
 position: Postdoctoral researcher
+affiliation: internal
+collaboration: core
+publication: no
+status: alumni
+institution: Université de Montréal
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/cassandre_chatonnier.jpeg
 img_credit:

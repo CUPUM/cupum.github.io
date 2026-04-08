@@ -1,7 +1,7 @@
 ---
-title: The resilience of ecosystems and riverine communities
+title: Shin Koseki leads co-creation workshop on the future of the St. Lawrence River at UdeM's "Une seule santé urbaine"
 author: UNESCO Chair in Urban Landscape
-category: Workshop conducted
+category: teaching
 tags:
 location: Montréal
 participants: Shin Koseki

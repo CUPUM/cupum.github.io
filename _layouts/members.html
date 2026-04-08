@@ -1,14 +1,48 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
-<div class="member_post">
-    <div class="member_post-container">
-        <img class="member_post-portrait" src="{{ page.portrait }}" loading="lazy" alt="{{ page.alt }}">
-        <h1 class="member_post-name">{{ page.name }}</h1>
-        <h2 class="member_post-position">{{ page.position }}</h2>
-        <div class="member_post-content">
+<div class="collaborator">
+    <div class="collaborator-container">
+        {% if page.portrait %}
+        <img class="collaborator-portrait" src="{{ page.portrait }}" loading="lazy" alt="{{ page.alt }}">
+        {% else %}
+        <div class="collaborator-portrait collaborator-portrait--placeholder"></div>
+        {% endif %}
+
+        <div class="collaborator-header">
+            <h1 class="collaborator-name">{{ page.name }}{% if page.pronouns %} <span class="collaborator-pronouns">({{ page.pronouns }})</span>{% endif %}</h1>
+            {% if page.title %}<p class="collaborator-title">{{ page.title }}</p>{% endif %}
+            <p class="collaborator-position">{{ page.position }}{% if page.institution %} — {{ page.institution }}{% endif %}</p>
+            <span class="collaborator-status collaborator-status--{{ page.status }}">{{ page.status }}</span>
+        </div>
+
+        <div class="collaborator-content">
             {{ content }}
         </div>
+
+        {% if page.projects %}
+        <div class="collaborator-projects">
+            <h3>Projects</h3>
+            <ul>
+            {% for slug in page.projects %}
+                {% assign proj = site.projects | where: "slug", slug | first %}
+                {% if proj %}
+                <li><a href="{{ proj.url }}">{{ proj.name }}</a></li>
+                {% else %}
+                <li><a href="{{ '/projects/' | append: slug | append: '/' | relative_url }}">{{ slug | replace: '_', ' ' | capitalize }}</a></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        {% assign has_links = false %}
+        {% if page.links.linkedin or page.links.website %}{% assign has_links = true %}{% endif %}
+        {% if has_links %}
+        <div class="collaborator-links">
+            {% if page.links.linkedin %}<a class="collaborator-link" href="{{ page.links.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+            {% if page.links.website %}<a class="collaborator-link" href="{{ page.links.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
+        </div>
+        {% endif %}
     </div>
 </div>

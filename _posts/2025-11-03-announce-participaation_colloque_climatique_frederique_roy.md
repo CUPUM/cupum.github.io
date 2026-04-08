@@ -1,9 +1,9 @@
 ---
-title: Participation at the international conference "Action climatique et transitions - regards croisés Québec-France"
+title: Frédérique Roy presents research on digital surveillance of climate justice activists at Quebec-France conference
 author: UNESCO Chair in Urban Landscape
-category: Looking back at the International Conference 
+category: outreach
 tags: Digital Surveillance, Climate Justice, Environmental Justice, Insurgent Planning
-location: Université Laval, Québec
+location: Québec
 participants : Frédérique Roy
 participants_companies: 
 featured_img: assets/images/posts/20251103-announce-participation_colloque_frederique_roy.jpg

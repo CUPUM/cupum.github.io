@@ -1,7 +1,7 @@
 ---
-title: The FRQ awards $40,000 to an urban planning student for her research on anonymity and urban technologies
+title: Frédérique Roy receives $40,000 FRQ scholarship for her research on anonymity and urban technologies
 author: UNESCO Chair in Urban Landscape
-category: Student awarded 
+category: scholarship
 tags: 
 location: Montréal
 participants: Fred Roy

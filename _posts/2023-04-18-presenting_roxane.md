@@ -1,7 +1,7 @@
 ---
-title: Roxane Kasprzyk, student at the UNESCO Chair in Urban Landscape
+title: Roxane Kasprzyk joins the UNESCO Chair to study intimacy and sociability in waterfront public spaces
 author: UNESCO Chair in Urban Landscape
-category: Research highlighted
+category: outreach
 tags: 
 location: Montréal
 participants: Roxane Kasprzyk

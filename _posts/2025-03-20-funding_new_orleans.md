@@ -1,9 +1,9 @@
 ---
-title: The School of Urban Planning and Landscape Architecture to Support the Next Edition of the UNESCO Studio in New Orleans
+title: UdeM's School of Urban Planning funds the 15th UNESCO Studio, set to take place in New Orleans
 author: UNESCO Chair in Urban Landscape
-category: Funding granted
+category: funding
 tags:
-location: Université de Montréal
+location: Montréal
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20250320-funding_new_orleans.jpg

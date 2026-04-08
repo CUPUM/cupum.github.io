@@ -3,6 +3,15 @@ name: Toumadher Ammar
 title: Dr.
 pronouns: she/her
 position: Postdoctoral researcher
+affiliation: internal
+collaboration: core
+publication: yes
+status: alumni
+institution:
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/toumadher-ammar-25006717b/
+  website:
 bio:
 portrait: /assets/images/people/toumadher_ammar.jpg
 img_credit:

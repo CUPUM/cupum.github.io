@@ -1,7 +1,7 @@
 ---
-title: Women’s Positive Solitude in Public Spaces, A Care Ethics Perspective, Research Thesis by Andréanne Bernard
+title: Andréanne Bernard submits thesis on women’s positive solitude in Montreal’s urban parks through an ethics of care lens
 author: UNESCO Chair in Urban Landscape
-category: cover
+category: outreach
 tags: womensolitude, ethicofcare, parks, positivesolitude
 location: Montréal
 participants : Andréanne Bernard

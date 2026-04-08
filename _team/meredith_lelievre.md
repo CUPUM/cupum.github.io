@@ -2,7 +2,16 @@
 name: Meredith Nana Lelièvre
 title:
 pronouns: she/her
-position: Alumna
+position: Honorary collaborator
+affiliation: internal
+collaboration: core
+publication: no
+status: alumni
+institution:
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/meredith_lelievre.jpeg
 img_credit:

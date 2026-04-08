@@ -1,9 +1,9 @@
 ---
-title:  Jardins-outils for a World in Transition
+title: Jardins de Métis summer workshop tests regenerative landscape approaches with 16 planning students
 author: UNESCO Chair in Urban Landscape
-category: Summer Workshop  
+category: teaching
 tags:
-location: Jardins de Métis
+location: Métis-sur-Mer
 participants: Emile Forest
 participants_companies: 
 featured_img: assets/images/posts/20241001-workshop_metis.jpg

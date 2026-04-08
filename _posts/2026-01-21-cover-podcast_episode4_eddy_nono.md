@@ -1,9 +1,9 @@
 ---
 title: Episode 4 – Urban Mobility, AI in Motion with Eddy Nono
 author: UNESCO Chair in Urban Landscape
-category: Podcast
+category: podcast
 tags: Podcast, Urban Mobility, urban podcast, City Planning
-location: Université de montréal
+location: Montréal
 participants : Eddy Damaris Nono
 participants_companies: 
 featured_img: assets/images/posts/20260121-cover-podcast_episode4_eddy_nono.jpg

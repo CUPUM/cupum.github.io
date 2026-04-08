@@ -1,7 +1,7 @@
 ---
-title: Doctoral student gets awarded for his research on AI and inclusion
+title: Rashid Mushkani receives $83,000 FRQSC doctoral scholarship for AI-based streetscape inclusion research
 author: UNESCO Chair in Urban Landscape
-category: Student awarded
+category: scholarship
 tags:
 location: Montréal
 participants: Rashid Mushkani 

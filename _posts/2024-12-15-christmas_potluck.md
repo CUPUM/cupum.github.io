@@ -1,9 +1,9 @@
 ---
 title: Happy holidays from the UNESCO Chair
 author: UNESCO Chair in Urban Landscape
-category: Holiday celebrated
+category: event
 tags:
-location: 
+location: Montréal
 participants: 
 participants_companies: 
 featured_img: assets/images/posts/20241215-potluck_christmas.jpg

@@ -1,7 +1,7 @@
 ---
 title: Research day on inclusive knowledge “indigeneity, public space and artificial intelligence”
 author: UNESCO Chair in Urban Landscape
-category: Conference organized
+category: event
 tags: 
 location: Montréal
 participants: Cassandre Chatonnier, Toumadher Ammar, Shin Koseki

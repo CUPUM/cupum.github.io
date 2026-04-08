@@ -1,9 +1,9 @@
 ---
-title: Sid Lee’s Coup de Coeur Architecture award Fund
+title: UNESCO Chair awards four Sid Lee Architecture prizes to outstanding student design projects
 author: UNESCO Chair in Urban Landscape
-category: Students awarded
+category: scholarship
 tags: 
-location: Montreal
+location: Montréal
 participants:  
 participants_companies: Université de Montréal, Sid Lee Architecture
 featured_img: /assets/images/

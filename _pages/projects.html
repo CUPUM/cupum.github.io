@@ -33,90 +33,104 @@ body_class: light-bg
   </div>
   
   <div class="projects-archive">
-    {%- assign partnership = site.projects | where: "type", "partnership"  -%}
-    {%- if partnership.size > 0 -%}
-      <h2>Partnerships projects</h2>
-      <p>{% include partnerships.md %}</p>
-      <ul>
-        {%- for post in partnership -%}
+    {% assign all_projects = site.projects | where_exp: "p", "p.name != nil" | where_exp: "p", "p.name != ''" %}
+
+    {% assign partnership_projects = all_projects | where: "type", "partnership" %}
+    {% assign core_projects        = all_projects | where: "type", "core" %}
+    {% assign associated_projects  = all_projects | where: "type", "associated" %}
+    {% assign affiliated_projects  = all_projects | where: "type", "affiliated" %}
+    {% assign training_projects    = all_projects | where: "type", "training" %}
+    {% assign phd_projects = training_projects | where: "level", "phd" %}
+    {% assign msc_projects = training_projects | where: "level", "msc" %}
+
+    {%- if partnership_projects.size > 0 -%}
+      <h2 class="projects-group-title">Partnership projects</h2>
+      <ul class="projects-list">
+        {%- for post in partnership_projects -%}
           <li>
-           <article class="article">
-              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
-              {%- if post.mission -%}<p>{{ post.mission }}</p>{%- endif -%}
+            <article class="article">
+              <div class="article-header">
+                <h3 class="article-title"><a href="{{ post.url }}">{{ post.name }}</a></h3>
+              </div>
+              {%- if post.summary -%}<p class="article-summary">{{ post.summary }}</p>
+              {%- elsif post.mission -%}<p class="article-summary">{{ post.mission }}</p>{%- endif -%}
             </article>
           </li>
         {%- endfor -%}
       </ul>
     {%- endif -%}
 
-    
-
-    {%- assign principal = site.projects | where: "type", "principal" -%}
-    {%- if principal.size > 0 -%}
-      <h2>Principal projects</h2>
-      <p>{% include principal.md %}</p>
-      <ul>
-        {%- for post in principal -%}
+    {%- if core_projects.size > 0 -%}
+      <h2 class="projects-group-title">Core projects</h2>
+      <ul class="projects-list">
+        {%- for post in core_projects -%}
           <li>
             <article class="article">
-              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
-              {%- if post.mission -%}<p>{{ post.mission }}</p>{%- endif -%}
+              <div class="article-header">
+                <h3 class="article-title"><a href="{{ post.url }}">{{ post.name }}</a></h3>
+              </div>
+              {%- if post.summary -%}<p class="article-summary">{{ post.summary }}</p>
+              {%- elsif post.mission -%}<p class="article-summary">{{ post.mission }}</p>{%- endif -%}
             </article>
           </li>
         {%- endfor -%}
       </ul>
     {%- endif -%}
 
-
-
-
-    {%- assign associated = site.projects | where: "type", "associated" -%}
-    {%- if associated.size > 0 -%}
-      <h2>Associated projects</h2>
-      <p>{% include associated.md %}</p>
-      <ul>
-        {%- for post in associated -%}
+    {%- if associated_projects.size > 0 -%}
+      <h2 class="projects-group-title">Associate projects</h2>
+      <ul class="projects-list">
+        {%- for post in associated_projects -%}
           <li>
             <article class="article">
-              {%- if post.portrait -%}<img class="image" src="{{ post.portrait }}" loading="lazy">{%- endif -%}
-              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
-              {%- if post.partners -%}<p>{{ post.partners }}</p>{%- endif -%}
+              <div class="article-header">
+                <h3 class="article-title"><a href="{{ post.url }}">{{ post.name }}</a></h3>
+              </div>
+              {%- if post.summary -%}<p class="article-summary">{{ post.summary }}</p>
+              {%- elsif post.mission -%}<p class="article-summary">{{ post.mission }}</p>{%- endif -%}
             </article>
           </li>
         {%- endfor -%}
       </ul>
     {%- endif -%}
 
-
-    {%- assign affiliated = site.projects | where: "type", "affiliated" -%}
-    {%- if affiliated.size > 0 -%}
-      <h2>Affiliated projects</h2>
-      <p>{% include affiliated.md %}</p>
-      <ul>
-        {%- for post in affiliated -%}
+    {%- if affiliated_projects.size > 0 -%}
+      <h2 class="projects-group-title">Affiliate projects</h2>
+      <ul class="projects-list">
+        {%- for post in affiliated_projects -%}
           <li>
             <article class="article">
-              {%- if post.portrait -%}<img class="image" src="{{ post.portrait }}" loading="lazy">{%- endif -%}
-              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
-              {%- if post.direction -%}<p>{{ post.direction }}</p>{%- endif -%}
+              <div class="article-header">
+                <h3 class="article-title"><a href="{{ post.url }}">{{ post.name }}</a></h3>
+              </div>
+              {%- if post.summary -%}<p class="article-summary">{{ post.summary }}</p>
+              {%- elsif post.mission -%}<p class="article-summary">{{ post.mission }}</p>{%- endif -%}
             </article>
           </li>
         {%- endfor -%}
       </ul>
     {%- endif -%}
 
-
-    {%- assign students = site.projects | where: "type", "students_thesis" -%}
-    {%- if students.size > 0 -%}
-      <h2>Graduate projects</h2>
-      <p>{% include graduate.md %}</p>
-      <ul>
-        {%- for post in students -%}
+    {%- if training_projects.size > 0 -%}
+      <h2 class="projects-group-title">Thesis projects</h2>
+      <ul class="projects-list">
+        {%- for post in phd_projects -%}
           <li>
             <article class="article">
-              {%- if post.portrait -%}<img class="image" src="{{ post.portrait }}" loading="lazy">{%- endif -%}
-              <h3><a href="{{ post.url }}">{{ post.name | default: post.title }}</a></h3>
-              {%- if post.partners -%}<p>{{ post.partners }}</p>{%- endif -%}
+              <div class="article-header">
+                <h3 class="article-title"><a href="{{ post.url }}">{{ post.name }}</a></h3>
+              </div>
+              {%- if post.summary -%}<p class="article-summary">{{ post.summary }}</p>{%- endif -%}
+            </article>
+          </li>
+        {%- endfor -%}
+        {%- for post in msc_projects -%}
+          <li>
+            <article class="article">
+              <div class="article-header">
+                <h3 class="article-title"><a href="{{ post.url }}">{{ post.name }}</a></h3>
+              </div>
+              {%- if post.summary -%}<p class="article-summary">{{ post.summary }}</p>{%- endif -%}
             </article>
           </li>
         {%- endfor -%}

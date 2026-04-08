@@ -1,8 +1,17 @@
 ---
 name: Rashid Mushkani
-title: 
+title:
 pronouns: he/him
 position: Doctoral researcher
+affiliation: internal
+collaboration: core
+publication: yes
+status: active
+institution:
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/rashid-mushkani
+  website:
 bio:
 portrait: /assets/images/people/rashid_mushkani.jpg
 img_credit:

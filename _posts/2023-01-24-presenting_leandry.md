@@ -1,9 +1,9 @@
 ---
 title: Leandry Jieutsa joins the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
-category: Research presented
+category: lecture
 tags: 
-location: Montreal
+location: Montréal
 participants: Leandry Jieutsa
 participants_companies: Université de Montréal
 featured_img: /assets/images/
@@ -14,7 +14,7 @@ The UNESCO Chair in Urban Landscape welcomes Leandry Jieutsa, doctoral student i
 
 Leandry is an urban planner who is passionate about issues of resilient, sustainable and smart cities. A specialist in urban policies and digital urban governance too, he worked on these issues in particular within UN-HABITAT for a few years. He is also the founder of the Africa Innovation Network, a research-action laboratory that brings together experts in diverse and varied fields to propose sustainable and innovative solutions to the complex problems related to the urbanization of the African continent.
 
-The topics of urban digital governance, and particularly artificial intelligence, are at the heart of the discussion at the UNESCO Chair in Urban Landscape; with several members recently contributing to the drafting of “AI & Cities: Risks, Applications and Governance”. This white paper, published by UN Habitat in collaboration with MILA, sets out a series of recommendations on the use and deployment of AI in urban settings.
+The topics of urban digital governance, and particularly artificial intelligence, are at the heart of the discussion at the UNESCO Chair in Urban Landscape; with several collaborators recently contributing to the drafting of “AI & Cities: Risks, Applications and Governance”. This white paper, published by UN Habitat in collaboration with MILA, sets out a series of recommendations on the use and deployment of AI in urban settings.
 
  
 

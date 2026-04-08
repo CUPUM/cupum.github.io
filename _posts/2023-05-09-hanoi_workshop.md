@@ -1,7 +1,7 @@
 ---
-title: Designing an Inclusive and Sustainable Creative Economy in Hanoi Workshop
+title: UNESCO Studio brings together international researchers in Hanoi to reimagine the Red River waterfront
 author: UNESCO Chair in Urban Landscape
-category: Workshop organized
+category: teaching
 tags: 
 location: Hanoi
 participants: Shin Koseki 

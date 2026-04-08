@@ -3,6 +3,15 @@ name: Sheïma Shiri
 title:
 pronouns: she/her
 position: Graduate researcher
+affiliation: internal
+collaboration: auxiliary
+publication: no
+status: alumni
+institution:
+projects:
+links:
+  linkedin:
+  website:
 bio:
 portrait: /assets/images/people/sheima_shiri.jpg
 img_credit:

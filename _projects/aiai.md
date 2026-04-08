@@ -3,7 +3,7 @@ name: AI Alignment for Inclusion
 mission: Generating inclusive AI representations of public spaces
 layout: projects
 category: research
-type: principal
+type: core
 axes:
     - social inclusion
     - digitization
@@ -31,11 +31,20 @@ collaborators:
     - Shravan Nayak
 advisory_committee:
 featured_img: /assets/images/aiai_stable_diffusion_xl_20240228.jpg
-img_link: 
+img_link:
 alt:
 img_credit:
 video_path: /assets/videos/pixabay-video-prokrov_ukraine.mp4
-
+status: ongoing
+featured: false
+summary: Using AI to generate visual representations of inclusive public spaces in Montreal, shaped through community workshops and citizen feedback.
+outcomes:
+publications:
+related_people:
+  - shin_koseki
+  - rashid_mushkani
+  - hugo_berard
+external_url:
 ---
 The AI Alignment for Inclusion (AIAI) project leverages artificial intelligence (AI) to envision public spaces in Montreal that cater to the needs of its diverse population. This initiative is structured to reflect a broad spectrum of perspectives, including those from underrepresented groups. The process begins with the gathering of expert insights to formulate AI prompts. These prompts are then used to generate visual concepts of accessible public areas. The project progresses through phases that incorporate feedback from the community to refine these visuals, ensuring they align with the values of inclusivity. 
   

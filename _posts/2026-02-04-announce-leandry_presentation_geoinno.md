@@ -1,7 +1,7 @@
 ---
-title: Leandry participation to the 8th Geography of Innovation Conference in Budapest 
+title: Leandry Jieutsa presents PhD research on responsible municipal AI governance at GeoInno 2026 in Budapest
 author: UNESCO Chair in Urban Landscape
-category: Participation
+category: event
 tags: geoinno 2026, Responsible AI, Municipal Governance, Urban AI
 location: Budapest
 participants : Leandry Jieutsa

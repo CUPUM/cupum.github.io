@@ -3,8 +3,17 @@ name: Joël Potteck
 title: project agent for nulab
 pronouns: he/him
 position: Graduate student
+affiliation: internal
+collaboration: auxiliary
+publication: no
+status: alumni
+institution:
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/jo%C3%ABl-potteck-54a769269/
+  website:
 bio:
-portrait: assets/images/people/joel_potteck.jpg
+portrait: /assets/images/people/joel_potteck.jpg
 img_credit:
 alt:
 ---

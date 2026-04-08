@@ -1,0 +1,295 @@
+/* Collaborator profile pages */
+
+.collaborator {
+    margin: 0;
+    background-color: white;
+}
+
+.collaborator-container {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    align-items: center;
+    justify-items: center;
+    width: 800px;
+    padding-bottom: 100px;
+}
+
+.collaborator-portrait {
+    width: 500px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.collaborator-portrait--placeholder {
+    width: 500px;
+    height: 500px;
+    background-color: #c7cde8;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.collaborator-header {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.collaborator-name {
+    font-size: 4rem;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.collaborator-pronouns {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #737373;
+}
+
+.collaborator-title {
+    font-size: 1.2rem;
+    margin: 0;
+    color: #737373;
+}
+
+.collaborator-position {
+    font-size: 2rem;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+
+.collaborator-status {
+    display: inline-block;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 2px 8px;
+    border-radius: 2px;
+    font-weight: 600;
+
+    &--active {
+        background-color: #c0dfae;
+        color: #2a4a1a;
+    }
+    &--alumni {
+        background-color: #d1d3d4;
+        color: #444;
+    }
+    &--passive {
+        background-color: #fff9ae;
+        color: #5a4a00;
+    }
+}
+
+.collaborator-content {
+    width: 100%;
+    font-size: 1rem;
+    margin-top: 24px;
+}
+
+.collaborator-projects {
+    width: 100%;
+    margin-top: 32px;
+
+    h3 {
+        font-size: 1.1rem;
+        margin-bottom: 8px;
+    }
+
+    ul {
+        list-style: disc;
+        padding-left: 1.5rem;
+    }
+}
+
+.collaborator-links {
+    width: 100%;
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.collaborator-link {
+    font-size: 0.9rem;
+    text-decoration: underline;
+    color: #0d56fb;
+
+    &:hover {
+        color: #ba6528;
+    }
+}
+
+/* People listing page */
+
+.people-section {
+    padding: 40px 0 100px;
+}
+
+.people-intro {
+    position: relative;
+    padding: 40px 40px 0;
+}
+
+.people-title {
+    font-size: 3rem;
+    margin-bottom: 40px;
+}
+
+.people-section-heading {
+    padding: 40px 40px 0;
+
+    &--alumni {
+        opacity: 0.75;
+    }
+}
+
+.people-section-title {
+    font-size: 2rem;
+    margin: 0 0 8px;
+
+    &--alumni {
+        color: #737373;
+    }
+}
+
+.people-group {
+    padding: 0 40px 40px;
+}
+
+.people-group--sub {
+    padding-left: 60px;
+}
+
+.people-group--alumni {
+    opacity: 0.75;
+}
+
+.people-group-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d1d3d4;
+    padding-bottom: 8px;
+
+    &--sub {
+        font-size: 1.1rem;
+    }
+
+    &--alumni {
+        color: #737373;
+    }
+}
+
+.people-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 24px;
+}
+
+.people-list--alumni {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 16px;
+}
+
+.people-card {
+    a {
+        display: block;
+        text-decoration: none;
+        color: inherit;
+
+        &:hover .people-card-name {
+            color: #0d56fb;
+        }
+    }
+}
+
+.people-card--alumni {
+    .people-card-portrait {
+        height: 120px;
+        object-fit: cover;
+    }
+}
+
+.people-card-portrait {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    background-color: #d1d3d4;
+}
+
+.people-card-portrait--placeholder {
+    width: 100%;
+    height: 200px;
+}
+
+.people-card:nth-child(5n+1) .people-card-portrait--placeholder { background-color: #c7cde8; }
+.people-card:nth-child(5n+2) .people-card-portrait--placeholder { background-color: #cdb9a3; }
+.people-card:nth-child(5n+3) .people-card-portrait--placeholder { background-color: #c0dfae; }
+.people-card:nth-child(5n+4) .people-card-portrait--placeholder { background-color: #fff9ae; }
+.people-card:nth-child(5n+5) .people-card-portrait--placeholder { background-color: #f9a3be; }
+
+.people-card-info {
+    padding: 8px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.people-card-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: color 0.15s;
+}
+
+.people-card-pronouns {
+    font-size: 0.8rem;
+    color: #737373;
+}
+
+.people-card-position {
+    font-size: 0.85rem;
+    color: #737373;
+}
+
+.people-card-institution {
+    font-size: 0.8rem;
+    color: #737373;
+    font-style: italic;
+}
+
+@media (max-width: 600px) {
+    .people-intro,
+    .people-group {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .people-title {
+        font-size: 2rem;
+    }
+
+    .collaborator-container {
+        margin-left: 1rem;
+        margin-right: 1rem;
+        width: auto;
+        padding-bottom: 60px;
+    }
+
+    .collaborator-name {
+        font-size: 2rem;
+    }
+
+    .collaborator-position {
+        font-size: 1rem;
+    }
+
+    .collaborator-portrait {
+        width: calc(100vw - 2rem);
+        height: auto;
+        padding-top: 2rem;
+    }
+}

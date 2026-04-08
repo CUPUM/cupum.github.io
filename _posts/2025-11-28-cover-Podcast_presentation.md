@@ -1,7 +1,7 @@
 ---
-title: Discover the introductory podcast for the new series by the UNESCO Chair in Urban Landscape
+title: UNESCO Chair launches podcast series on urban planning and AI, hosted by Leandry Jieutsa and Roxane Kasprzyk
 author: UNESCO Chair in Urban Landscape
-category: Podcast 
+category: podcast
 tags: Research Podcast, Urban Planning, AI Ethique, Citizen Participation
 location: Montréal
 participants : Leandry Jieutsa, Roxane Kasprzyk

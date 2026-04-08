@@ -1,7 +1,7 @@
 ---
-title: Eddy receives the Graduate and Postdoctoral Studies Scholarship (ESP) from the Université de Montréal (Rosdev Scholarship)
+title: Eddy Nono receives Université de Montréal's ESP Rosdev Scholarship for excellence in planning research
 author: UNESCO Chair in Urban Landscape
-category: Award
+category: award
 tags: 
 location: Montréal
 participants : Eddy Nono Damaris

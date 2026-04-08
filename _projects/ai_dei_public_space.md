@@ -3,7 +3,7 @@ name: AI DEI Public Space
 mission: Measuring the social inclusion of public space using AI
 layout: projects
 category: research
-type: principal
+type: core
 axes:
     - social inclusion
     - digitization
@@ -35,10 +35,26 @@ collaborators:
     - Emmanuel Beaudry-Marchand
 advisory_committee: []
 featured_img: /assets/images/cordat-photo-montreal_street.jpeg
-img_link: 
+img_link:
 alt:
 img_credit:
 video_path: /assets/videos/pixabay-video-plaza_park_bergen_norway.mp4
+status: completed
+featured: true
+summary: A co-created AI tool to measure and improve equity, diversity, and inclusion in Montreal's public spaces, developed with MILA and the Coalition of Inclusive Municipalities.
+outcomes:
+  - Two AI algorithms developed — one evaluating EDI levels in public spaces, one generating inclusive public space imagery using GANs
+  - Participatory methodology co-developed with the Coalition of Inclusive Municipalities of Canada
+publications:
+related_people:
+  - shin_koseki
+  - hugo_berard
+  - cassandre_chatonnier
+  - rashid_mushkani
+  - sarah_tannir
+  - emmanuel_beaudry-marchand
+  - amel_gherbi-rahal
+external_url:
 ---
 
 The COVID-19 pandemic has highlighted the necessity to create more inclusive public space in cities. Research shows that public space plays a central role in the quality of public life and in the economic vitality of urban spaces. Moreover, creating new public spaces and improving existing ones has a significant positive impact on neighboring stores. 

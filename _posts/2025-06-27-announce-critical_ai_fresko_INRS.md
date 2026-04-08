@@ -1,7 +1,7 @@
 ---
-title: Fresque critique de l'IA
+title: UNESCO Chair hosts first public Critical AI Fresk workshop at INRS-Centre Urbanisation Culture Société
 author: UNESCO Chair in Urban Landscape
-category: Activity
+category: activity
 tags: 
 location: Montréal
 participants : 

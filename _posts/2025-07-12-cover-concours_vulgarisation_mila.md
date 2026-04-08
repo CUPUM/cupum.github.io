@@ -1,7 +1,7 @@
 ---
-title: Congrats to Rashid !
+title: Rashid Mushkani wins third prize at Mila Speed Science contest for talk on AI and urban accessibility
 author: UNESCO Chair in Urban Landscape
-category: Award
+category: award
 tags: SpeedScience, Mila AI,nResearch, AI Design
 location: Montréal
 participants : Rashid Mushkani

@@ -1,9 +1,9 @@
 ---
-title: The UNESCO Studio to support the International Coalition of Inclusive and Sustainable Cities
+title: UNESCO Studio joins ICCAR to advise UNESCO's global network of 700 cities on inclusive urban development
 author: UNESCO Chair in Urban Landscape
-category: Announce support
+category: outreach
 tags:
-location: Université de Montréal
+location: Montréal
 participants: 
 participants_companies: International Coalition of Inclusive and Sustainable Cities
 featured_img: assets/images/posts/20250331-unesco_joins_iccar.jpg

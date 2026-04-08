@@ -3,7 +3,7 @@ name: UNESCO Studio Phnom Penh
 mission: Crafting sustainable neighborhoods along the Mekong River
 layout: projects
 category: research
-type: principal
+type: core
 axes:
     - social inclusion
     - biodiversity
@@ -60,10 +60,20 @@ thanks:
     
 advisory_committee:
 featured_img: /assets/images/aiai_stable_diffusion_xl_20240228.jpg
-img_link: 
+img_link:
 alt:
 img_credit:
 video_path: /assets/videos/pixabay-video-phnom_penh_cambodia.mp4
+status: ongoing
+featured: true
+summary: An international design studio bringing together students from Montréal and Phnom Penh to reimagine sustainable urban neighborhoods along the Mekong River.
+outcomes:
+publications:
+related_people:
+  - shin_koseki
+  - delphine_duplain
+  - roxane_kasprzyk
+external_url:
 ---
 
 The UNESCO Phnom Penh Studio is a research-creation workshop held from May 13 to 24 in Cambodia. It initiated a reflection on improving the quality of life in the urban areas along the Mekong River in the Cambodian capital, which are currently experiencing rapid real estate development.

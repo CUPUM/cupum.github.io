@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="partner">
+    <div class="partner-container">
+
+        <div class="partner-header">
+            <h1 class="partner-name">{{ page.name }}</h1>
+            {% if page.category %}<span class="partner-category">{{ page.category | capitalize }} partner</span>{% endif %}
+            {% if page.location %}<p class="partner-location">{{ page.location }}</p>{% endif %}
+        </div>
+
+        {% if page.logo %}
+        <img class="partner-logo" src="{{ page.logo }}" loading="lazy" alt="{{ page.name }}">
+        {% endif %}
+
+        {% if content != "" %}
+        <div class="partner-content">
+            {{ content }}
+        </div>
+        {% endif %}
+
+    </div>
+</div>

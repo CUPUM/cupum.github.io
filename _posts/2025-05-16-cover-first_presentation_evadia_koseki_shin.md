@@ -1,9 +1,9 @@
 ---
 title: First public presentation of Évadia+ at the AI and Cities Forum
 author: UNESCO Chair in Urban Landscape
-category: Cover
+category: outreach
 tags:  
-location: Université de Montréal
+location: Montréal
 participants : Shin Koseki
 participants_companies: 
 featured_img: assets/images/posts/20250516-cover-first_presentation_evadia_shin_koseki.jpg

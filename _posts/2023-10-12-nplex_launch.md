@@ -1,9 +1,9 @@
 ---
-title: Presentation of a platform that promotes design projects
+title: UNESCO Chair unveils Nplex, a web platform showcasing exemplary residential design in Montreal
 author: UNESCO Chair in Urban Landscape
-category: Paltform launched
+category: update
 tags: 
-location: Montreal
+location: Montréal
 participants: Shin Koseki, Emmanuel Baudry
 participants_companies: Université de Montréal
 featured_img: assets/images/posts/20231012-nplex_event.jpg

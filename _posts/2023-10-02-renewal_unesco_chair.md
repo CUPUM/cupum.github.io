@@ -1,9 +1,9 @@
 ---
 title: UNESCO and the University of Montreal renew the mandate of the UNESCO Chair in Urban Landscape
 author: UNESCO Chair in Urban Landscape
-category: Mandate renewed
+category: update
 tags: 
-location: Montreal
+location: Montréal
 participants: Shin Koseki 
 participants_companies: Université de Montréal
 featured_img: assets/images/posts/20231002-chair_renewal.jpg

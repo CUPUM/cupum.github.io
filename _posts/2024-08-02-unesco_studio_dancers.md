@@ -1,9 +1,9 @@
 ---
-title: Throwback to the closing ceremony of the UNESCO Studio 2024 Workshop
+title: Khmer LGBTQIA+ dance company performs at UNESCO Studio 2024 closing ceremony in Phnom Penh
 author: UNESCO Chair in Urban Landscape
-category: dance performance
+category: event
 tags:
-location: Phnom Penh, Cambodia
+location: Phnom Penh
 participants: Shin Koseki, Delphine Duplain, CHAMREOUN SOEURN, REAKSMEY PATH, CHAY KHUON, VENGHOUR THAN, PUTHINK DY
 participants_companies: អមោឃបាស - THE NEXT GENERATION, the Royal University of Fine Arts in Phnom Penh
 featured_img: assets/images/posts/20240802-unesco_studio_dancers.JPG

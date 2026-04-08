@@ -26,6 +26,29 @@ img_link:
 alt:
 img_credit:
 video_path: /assets/videos/pixabay-video-rhine_germany.mp4
+status: ongoing
+featured: true
+summary: A multi-institutional research partnership studying the role of continental rivers in fostering biodiversity and social inclusion in urban communities.
+outcomes:
+publications:
+related_people:
+  - shin_koseki
+  - delphine_duplain
+  - roxane_kasprzyk
+  - geraldine_st-pierre
+  - jaysnee_bhima
+  - jennifer_lopez_alvarado
+  - majdi_hunter-batal
+  - pihely_sorya_ble
+  - trung_vu
+  - chieu_anh_le_van
+  - emile_forest
+  - flore_loisel
+  - gabriel_rech_pascual
+  - genevieve_depelteau
+  - malina_lambert
+  - myriam_guillemette
+external_url:
 ---
 
 Rivers in Commons rethinks how humanity manages and occupies river regions globally, starting with the Saint Lawrence River watershed. The project generates new knowledge to face climate change, protect biodiversity, sustainable and inclusive urban development, diversity of cultural expressions, and economic development of countries.

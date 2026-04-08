@@ -1,8 +1,17 @@
 ---
 name: Shin Koseki
-title: Prof. DSc. 
+title: Prof. DSc.
 pronouns: he/him
-position: Chairholder
+position: Chairholder, Assitant professor
+affiliation: internal
+collaboration: chairholder
+publication: yes
+status: active
+institution: Université de Montréal School of Urban Planning and Landscape Architecture
+projects:
+links:
+  linkedin: https://www.linkedin.com/in/shinkoseki/
+  website:
 bio:
 portrait: /assets/images/people/shin_koseki.jpg
 img_credit:

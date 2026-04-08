@@ -1,9 +1,9 @@
 ---
 title: Rashid Mushkani on SOUR Podcast - Co‑Producing AI for Cities
 author: UNESCO Chair in Urban Landscape
-category: Podcast 
+category: podcast
 tags: Artificial Intelligence, Urban Planning, Participatory AI, Data Sovereignty
-location: SOUR
+location: Online
 participants : Rashid Mushkani
 participants_companies: 
 featured_img: assets/images/posts/20251111-cover-podcast_sour.png

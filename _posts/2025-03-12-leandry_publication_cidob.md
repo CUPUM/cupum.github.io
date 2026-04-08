@@ -1,9 +1,9 @@
 ---
 title: Fairness and non-discrimination in urban AI
 author: UNESCO Chair in Urban Landscape
-category: Research published
+category: publication
 tags:
-location: 
+location: Barcelona
 participants: Leandry Jieutsa
 participants_companies: CIDOB
 featured_img: assets/images/posts/20250312-leandry_publication_cidob.jpg

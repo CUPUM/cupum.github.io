@@ -1,7 +1,7 @@
 ---
-title: Participation in The Great Transition 2025 conference
+title: Frédérique Roy and Hugo Bérard present the Critical AI Fresk at The Great Transition 2025 conference
 author: UNESCO Chair in Urban Landscape
-category: Announce
+category: outreach
 tags: fresque, IA, conference  
 location: Montréal
 participants : Frédérique Roy, Hugo Berard, Émile Pronovost

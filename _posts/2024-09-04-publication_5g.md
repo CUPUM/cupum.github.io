@@ -1,9 +1,9 @@
 ---
-title:  "Comment la 5G va transformer le paysage urbain de Montréal ? "
+title: Koseki and Jieutsa publish La Presse article on how 5G will transform Montreal's urban landscape
 author: UNESCO Chair in Urban Landscape
-category: New publication
+category: publication
 tags:
-location: UNESCO Chair in Urban Landscape
+location: Montréal
 participants: Leandry Jieusta, Shin Koseki
 participants_companies: LaPresse
 featured_img: assets/images/posts/20240904-publication_5g.jpg

@@ -1,9 +1,9 @@
 ---
-title: Shin Koseki examines Laval University School of Architecture
+title: Shin Koseki joins international delegation to evaluate Université Laval's architecture programs
 author: UNESCO Chair in Urban Landscape
-category: Cover
+category: outreach
 tags:  
-location: Laval University School of Architecture, Québec
+location: Québec
 participants : Shin Koseki
 participants_companies: 
 featured_img: assets/images/posts/20250425-cover- examination_ ULaval_ shin_ koseki.jpg

@@ -1,9 +1,9 @@
 ---
-title: Exhibition “New Orleans Beyond” by the UNESCO Chair in Urban Landscape
+title: “New Orleans Beyond” exhibition opens at Université de Montréal, showing Mississippi riverfront design proposals
 author: UNESCO Chair in Urban Landscape
-category: Exhibition
+category: event
 tags: New Orleans Exhibition, Mississippi, Design Exhibition, Urban Design Workshop
-location: Faculty of Environmental Design, Université de Montréal
+location: Montréal
 participants : 
 participants_companies: 
 featured_img: assets/images/posts/20260115-announce-exhibition_new_orleans.png

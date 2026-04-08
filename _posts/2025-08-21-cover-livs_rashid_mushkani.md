@@ -1,7 +1,7 @@
 ---
 title: LIVS, Community-Aligned Images for Inclusive Public Spaces
 author: UNESCO Chair in Urban Landscape
-category: Presentation
+category: lecture
 tags: AIConference, InclusiveDesign, DPO, DataScience
 location: Vancouver
 participants : Rashid Mushkani, Shravan Nayak, Hugo Berard, Allison Cohen, Shin Koseki, Hadrien Bertrand 

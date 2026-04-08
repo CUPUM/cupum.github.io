@@ -1,7 +1,7 @@
 ---
-title: Multidisciplinary discussions on the challenges of emerging technologies in cities
+title: UNESCO Chair launches "Insights Into" webinar series on emerging technologies and urban inequality
 author: UNESCO Chair in Urban Landscape
-category: Discussion organized
+category: event
 tags: 
 location: Montréal
 participants: Léandry Jieutsa, Shin Koseki, Ruth Nelson, Pontus Westerberg
