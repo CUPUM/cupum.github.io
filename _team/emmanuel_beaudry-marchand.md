@@ -5,12 +5,13 @@ pronouns: he/him
 position: Research professional
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 status: alumni
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/emmanuelbeaudrymarchand
+  github: https://github.com/emmnull
   website:
 bio:
 portrait: /assets/images/people/emmanuel_beaudry-marchand.jpg
