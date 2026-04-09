@@ -103,7 +103,7 @@
 }
 
 .news_post-title {
-    text-align: center;
+    text-align: left;
     margin-left: 3rem;
     margin-right: 3rem;
     font-size: 4rem;
@@ -116,7 +116,8 @@
     text-align: center;
     margin-left: 3rem;
     font-size: 2rem;
-    margin-top: 0px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .news_post-meta-block {
@@ -175,6 +176,7 @@
     }
 
     .news_post-title {
+        text-align: left;
         margin-left: 1rem;
         margin-right: 1rem;
         font-size: 2rem;
