@@ -67,7 +67,7 @@ html.translated-rtl main {
   padding-top: 39px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   html.translated-ltr main,
   html.translated-rtl main {
     padding-top: 0;
@@ -135,7 +135,7 @@ html.translated-rtl main {
   background: none !important;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
 
   .navbar {
     flex-wrap: wrap;
