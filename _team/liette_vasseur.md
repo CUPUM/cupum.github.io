@@ -1,6 +1,6 @@
 ---
 name: Liette Vasseur
-title: Prof. Dr.
+credential: Prof. Dr.
 pronouns: she/her
 position: Full professor, UNESCO Chair in Sustainable Communities
 affiliation: external

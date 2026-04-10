@@ -1,6 +1,6 @@
 ---
 name: Toumadher Ammar
-title: Dr.
+credential: Dr.
 pronouns: she/her
 position: Postdoctoral researcher
 affiliation: internal

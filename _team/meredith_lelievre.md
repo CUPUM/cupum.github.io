@@ -1,6 +1,6 @@
 ---
 name: Meredith Nana Lelièvre
-title:
+credential:
 pronouns: she/her
 position: Honorary collaborator
 affiliation: internal

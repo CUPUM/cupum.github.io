@@ -1,6 +1,6 @@
 ---
 name: Anish Potluri
-title: BSc
+credential: BSc
 pronouns: he/his
 position: Undergraduate research intern
 affiliation: internal

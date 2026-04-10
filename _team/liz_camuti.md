@@ -1,6 +1,6 @@
 ---
 name: Liz Camuti
-title: Prof. Dr.
+credential: Prof. Dr.
 pronouns: she/her
 position: Assistant professor
 affiliation: external

@@ -1,6 +1,6 @@
 ---
 name: David Shimpky
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Director
 affiliation: external

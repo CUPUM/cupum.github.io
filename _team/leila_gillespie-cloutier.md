@@ -1,6 +1,6 @@
 ---
 name: Leila Gillespie-Cloutier
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

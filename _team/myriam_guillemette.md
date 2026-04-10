@@ -1,6 +1,6 @@
 ---
 name: Myriam Guillemette
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

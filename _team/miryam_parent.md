@@ -1,6 +1,6 @@
 ---
 name: Miryam Parent
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

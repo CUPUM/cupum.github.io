@@ -1,6 +1,6 @@
 ---
 name: Sheïma Shiri
-title:
+credential:
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

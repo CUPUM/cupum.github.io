@@ -1,6 +1,6 @@
 ---
 name: Gauthier Gidel
-title: PhD
+credential: PhD
 pronouns: he/him
 position: Assistant professor, CIFAR Chair
 affiliation: external

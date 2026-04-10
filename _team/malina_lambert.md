@@ -1,6 +1,6 @@
 ---
 name: Malina Lambert
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

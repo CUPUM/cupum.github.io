@@ -1,6 +1,6 @@
 ---
 name: Myriam El Yassini
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

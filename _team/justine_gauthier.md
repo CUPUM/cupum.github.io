@@ -1,6 +1,6 @@
 ---
 name: Justine Gauthier
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

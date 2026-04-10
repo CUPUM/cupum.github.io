@@ -1,6 +1,6 @@
 ---
 name: Marian Haiduc
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

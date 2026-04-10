@@ -1,6 +1,6 @@
 ---
 name: Philippe Côté
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

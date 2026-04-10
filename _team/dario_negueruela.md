@@ -1,6 +1,6 @@
 ---
 name: Dario Negueruela del Castillo
-title: PhD
+credential: PhD
 pronouns: he/him
 position: Visiting researcher
 affiliation: external

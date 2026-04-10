@@ -10,9 +10,10 @@ layout: default
         {% endif %}
 
         <div class="collaborator-header">
-            <h1 class="collaborator-name">{{ page.name }}{% if page.pronouns %} <span class="collaborator-pronouns">({{ page.pronouns }})</span>{% endif %}</h1>
-            {% if page.title %}<p class="collaborator-title">{{ page.title }}</p>{% endif %}
-            <p class="collaborator-position">{{ page.position }}{% if page.institution %} — {{ page.institution }}{% endif %}</p>
+            <h1 class="collaborator-name">{{ page.name }}</h1>
+            {% if page.credential %}<p class="collaborator-title">{{ page.credential }}{% if page.pronouns %} <span class="collaborator-pronouns">({{ page.pronouns }})</span>{% endif %}</p>{% elsif page.pronouns %}<p class="collaborator-pronouns-line">({{ page.pronouns }})</p>{% endif %}
+            {% if page.position %}<p class="collaborator-position">{{ page.position }}</p>{% endif %}
+            {% if page.institution %}<p class="collaborator-institution">{{ page.institution }}</p>{% endif %}
             <span class="collaborator-status collaborator-status--{{ page.status }}">{{ page.status }}</span>
         </div>
 
@@ -37,10 +38,11 @@ layout: default
         {% endif %}
 
         {% assign has_links = false %}
-        {% if page.links.linkedin or page.links.website %}{% assign has_links = true %}{% endif %}
+        {% if page.links.linkedin or page.links.website or page.links.github %}{% assign has_links = true %}{% endif %}
         {% if has_links %}
         <div class="collaborator-links">
             {% if page.links.linkedin %}<a class="collaborator-link" href="{{ page.links.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+            {% if page.links.github %}<a class="collaborator-link" href="{{ page.links.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
             {% if page.links.website %}<a class="collaborator-link" href="{{ page.links.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
         </div>
         {% endif %}

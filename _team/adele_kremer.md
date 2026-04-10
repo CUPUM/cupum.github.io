@@ -1,6 +1,6 @@
 ---
 name: Adèle Kremer
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

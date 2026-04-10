@@ -1,6 +1,6 @@
 ---
 name: Mohamed Amine Abbou
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Graduate researcher
 affiliation: internal

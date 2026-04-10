@@ -1,6 +1,6 @@
 ---
 name: Ulysse Moutereau
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

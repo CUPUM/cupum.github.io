@@ -1,6 +1,6 @@
 ---
 name: Shin Koseki
-title: Prof. DSc.
+credential: Prof. DSc.
 pronouns: he/him
 position: Chairholder, Assitant professor
 affiliation: internal

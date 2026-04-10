@@ -1,6 +1,6 @@
 ---
 name: Eddy Nono
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Graduate researcher
 affiliation: internal

@@ -1,6 +1,6 @@
 ---
 name: Flore Loisel
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Undergraduate research intern
 affiliation: internal

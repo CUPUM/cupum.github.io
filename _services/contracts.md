@@ -15,7 +15,7 @@ We provide assistance in various formats in accordance with the service and cont
 
 We carry out research projects in collaboration with public institutions, municipalities, NGOs, and private companies. These contracts allow partners to access our scientific expertise, cutting-edge methodologies, and international networks to address complex urban challenges.
 
-A research contract is an agreement between partners in which one or more parties provide financial support to researchers of the UNESCO Chair in Urban Landscape (from one or several institutions) to conduct research in a specific field under defined conditions. The outcomes of the project cannot be predicted with certainty, as there is a level of scientific uncertainty and significant scope for original scientific or technical contribution.
+A research contract is an agreement between partners in which one or more parties provide financial support to researchers of the UNESCO&nbsp;Chair in Urban Landscape (from one or several institutions) to conduct research in a specific field under defined conditions. The outcomes of the project cannot be predicted with certainty, as there is a level of scientific uncertainty and significant scope for original scientific or technical contribution.
 
 #### Research services
 

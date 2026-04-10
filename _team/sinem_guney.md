@@ -1,6 +1,6 @@
 ---
 name: Sinem Guney
-title:
+credential:
 pronouns: she/her
 position: Research intern
 affiliation: internal

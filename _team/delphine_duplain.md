@@ -1,6 +1,6 @@
 ---
 name: Delphine Duplain
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Research professional
 affiliation: internal

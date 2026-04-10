@@ -1,6 +1,6 @@
 ---
 name: Thomas Tremblay
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

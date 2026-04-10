@@ -1,6 +1,6 @@
 ---
 name: Wouter Acthen
-title:
+credential:
 pronouns:
 position:
 affiliation: external

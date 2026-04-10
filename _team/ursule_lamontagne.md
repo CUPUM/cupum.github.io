@@ -1,6 +1,6 @@
 ---
 name: Ursule Lamontagne
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

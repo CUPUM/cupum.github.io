@@ -1,6 +1,6 @@
 ---
 name: Emile Forest
-title: Guest professor
+credential: Guest professor
 pronouns: he/him
 position: Associate researcher
 affiliation: internal

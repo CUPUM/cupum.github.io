@@ -1,6 +1,6 @@
 ---
 name: Marie-Soleil Lamonde
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

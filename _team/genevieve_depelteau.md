@@ -1,6 +1,6 @@
 ---
 name: Geneviève Depelteau
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Research professional
 affiliation: internal

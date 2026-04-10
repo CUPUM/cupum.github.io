@@ -1,6 +1,6 @@
 ---
 name: Philippe Carrier
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

@@ -1,19 +1,19 @@
 ---
 service: [graduate design studies, graduate research studies, UNESCO Studio]
 public: [graduate students]
-question: How to study research or design with the UNESCO Chair?
+question: How to study research or design with the UNESCO&nbsp;Chair?
 order: 3
 ---
 
 ### We provide various courses in urban design and theory open to local and international students  
 
-Since 2003, the mission of the UNESCO Chair has been to build bridges between the University of Montréal, UNESCO, their partner organizations, and international stakeholders.  
+Since 2003, the mission of the UNESCO&nbsp;Chair has been to build bridges between the University of Montréal, UNESCO, their partner organizations, and international stakeholders.  
 
-By providing training in a global context, the UNESCO Chair fosters new forms of exchange and collaboration through education and capacity-building.  
+By providing training in a global context, the UNESCO&nbsp;Chair fosters new forms of exchange and collaboration through education and capacity-building.  
 
 #### 1. MSc in Urban Design
 
-The Master of Science in Urban Design offers advanced training in the theory and practice of urban design. It emphasizes sustainable, inclusive, and climate-resilient approaches to transforming cities and regions. Students engage in design studios, seminars, and fieldwork, often linked to the Chair’s international research and partnerships.  
+The Master of Science in Urban Design offers advanced training in the theory and practice of urban design. It emphasizes sustainable, inclusive, and climate-resilient approaches to transforming cities and regions. Students engage in design studios, seminars, and fieldwork, often linked to the UNESCO&nbsp;Chair’s international research and partnerships.  
 
 #### 2. Graduate course *Datathink*
 

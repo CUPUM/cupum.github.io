@@ -1,6 +1,6 @@
 ---
 name: Sarah Tannir
-title:
+credential:
 pronouns: she/her
 position: Research assistant
 affiliation: internal

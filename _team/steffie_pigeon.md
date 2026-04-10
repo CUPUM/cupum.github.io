@@ -1,6 +1,6 @@
 ---
 name: Steffie Pigeon
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

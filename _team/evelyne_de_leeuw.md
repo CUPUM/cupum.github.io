@@ -1,6 +1,6 @@
 ---
 name: Evelyne de Leeuw
-title: Prof. Dr.
+credential: Prof. Dr.
 pronouns: she/her
 position: Full Professor, Canada Excellence Research Chair, One Urban Health
 affiliation: external

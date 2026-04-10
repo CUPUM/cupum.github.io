@@ -1,6 +1,6 @@
 ---
 name: Jean-Christophe Thériault
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Graduate researcher
 affiliation: internal

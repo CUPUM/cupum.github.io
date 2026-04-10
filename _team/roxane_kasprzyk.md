@@ -1,6 +1,6 @@
 ---
 name: Roxane Kasprzyk
-title:
+credential:
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

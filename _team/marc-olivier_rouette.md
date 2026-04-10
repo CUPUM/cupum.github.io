@@ -1,6 +1,6 @@
 ---
 name: Marc-Olivier Rouette
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

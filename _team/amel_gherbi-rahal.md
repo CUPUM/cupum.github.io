@@ -1,6 +1,6 @@
 ---
 name: Amel Gherbi-Rahal
-title: PhD
+credential: PhD
 pronouns: she/her
 position: Postdoctoral researcher
 affiliation: internal

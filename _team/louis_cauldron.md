@@ -1,6 +1,6 @@
 ---
 name: Louis Cauldron
-title: MSc
+credential: MSc
 pronouns: he/him
 position: 
 affiliation: internal

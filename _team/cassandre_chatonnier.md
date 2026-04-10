@@ -1,6 +1,6 @@
 ---
 name: Cassandre Chatonnier
-title: PhD
+credential: PhD
 pronouns: she/her
 position: Postdoctoral researcher
 affiliation: internal

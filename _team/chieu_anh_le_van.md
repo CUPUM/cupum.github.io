@@ -1,6 +1,6 @@
 ---
 name: Chieu Anh Le Van
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Researchero professional
 affiliation: internal

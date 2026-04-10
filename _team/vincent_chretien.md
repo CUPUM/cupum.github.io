@@ -1,6 +1,6 @@
 ---
 name: Vincent Chrétien
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

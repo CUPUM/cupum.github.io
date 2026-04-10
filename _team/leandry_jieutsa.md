@@ -1,6 +1,6 @@
 ---
 name: Leandry Jieutsa
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Doctoral researcher
 affiliation: internal

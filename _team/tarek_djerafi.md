@@ -1,6 +1,6 @@
 ---
 name: Tarek Djerafi
-title: PhD
+credential: PhD
 pronouns:
 position: Associate Professor
 affiliation: external

@@ -1,6 +1,6 @@
 ---
 name: Leroy Dadem
-title: Msc
+credential: Msc
 pronouns: he/him
 position: Graduate researcher
 affiliation: internal

@@ -1,6 +1,6 @@
 ---
 name: Shaz Jameson
-title:
+credential:
 pronouns:
 position:
 affiliation: external

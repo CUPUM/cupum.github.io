@@ -1,6 +1,6 @@
 ---
 name: Xavier St-Jean
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

@@ -1,6 +1,6 @@
 ---
 name: Tracy Birch
-title:
+credential:
 pronouns:
 position:
 affiliation: external

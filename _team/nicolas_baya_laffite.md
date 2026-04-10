@@ -1,6 +1,6 @@
 ---
 name: Nicolas Baya Laffite
-title: PhD
+credential: PhD
 pronouns: he/him
 position: Associate Professor
 affiliation: external

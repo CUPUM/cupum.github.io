@@ -1,6 +1,6 @@
 ---
 name: Liliane Poulin-Dubé
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

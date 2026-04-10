@@ -1,6 +1,6 @@
 ---
 name: Florian Husson
-title: BSc
+credential: BSc
 pronouns: he/him
 position: Undergraduate research intern
 affiliation: internal

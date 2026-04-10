@@ -1,6 +1,6 @@
 ---
 name: Parsa Yadollahi
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

@@ -1,6 +1,6 @@
 ---
 name: Jaysnee Bhima
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Graduate researcher
 affiliation: associate

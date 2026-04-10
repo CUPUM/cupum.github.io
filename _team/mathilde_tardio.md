@@ -1,6 +1,6 @@
 ---
 name: Mathilde Tardio
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

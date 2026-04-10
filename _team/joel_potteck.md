@@ -1,6 +1,6 @@
 ---
 name: Joël Potteck
-title: project agent for nulab
+credential: project agent for nulab
 pronouns: he/him
 position: Graduate student
 affiliation: internal

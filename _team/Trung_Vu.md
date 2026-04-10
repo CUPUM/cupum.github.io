@@ -1,6 +1,6 @@
 ---
 name: Trung Vu
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Graduate researcher
 affiliation: associate

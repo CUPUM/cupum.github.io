@@ -1,6 +1,6 @@
 ---
 name: Shreeyash Gowaikar
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

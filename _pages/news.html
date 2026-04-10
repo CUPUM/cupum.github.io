@@ -7,7 +7,7 @@ title: News
 <section class="news-section">
   <div class="news-header">
     <h1 class="news-title">News</h1>
-    <p class="news-subtitle">Follow us on <a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a>, <a href="{{ site.social.instagram }}" target="_blank">Instagram</a> , <a href="{{ site.social.facebook }}" target="_blank">Facebook</a> and <a href="{{ site.social.tiktok }}" target="_blank">TikTok</a> for live updates about the UNESCO Chair's activities.</p>
+    <p class="news-subtitle">For live updates about the UNESCO&nbsp;Chair,<br>follow us on <a href="{{ site.social.linkedin }}" target="_blank" class="external">LinkedIn</a>, <a href="{{ site.social.instagram }}" target="_blank" class="external">Instagram</a>, <a href="{{ site.social.facebook }}" target="_blank" class="external">Facebook</a> and <a href="{{ site.social.tiktok }}" target="_blank" class="external">TikTok</a>.</p>
   </div>
   {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% assign currentYear = 'now' | date: '%Y' %}

@@ -1,6 +1,6 @@
 ---
 name: Sirine Sellami
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

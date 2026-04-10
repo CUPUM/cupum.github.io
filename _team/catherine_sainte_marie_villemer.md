@@ -1,6 +1,6 @@
 ---
 name: Catherine Sainte Marie-Villemer
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Director
 affiliation: external

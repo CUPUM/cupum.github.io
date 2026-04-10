@@ -1,6 +1,6 @@
 ---
 name: Rashid Mushkani
-title:
+credential:
 pronouns: he/him
 position: Doctoral researcher
 affiliation: internal

@@ -1,6 +1,6 @@
 ---
 name: Salmane Yahya Ghadi
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

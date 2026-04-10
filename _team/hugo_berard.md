@@ -1,6 +1,6 @@
 ---
 name: Hugo Bérard
-title: PhD
+credential: PhD
 pronouns: he/him
 position: Postdoctoral researcher
 affiliation: internal

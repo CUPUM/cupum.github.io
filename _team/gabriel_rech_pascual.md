@@ -1,6 +1,6 @@
 ---
 name: Gabriel Rech Pascual
-title: BSc
+credential: BSc
 pronouns: he/him
 position: International research intern
 affiliation: internal

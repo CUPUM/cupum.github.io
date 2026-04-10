@@ -1,6 +1,6 @@
 ---
 name: Philipe Tremblay
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

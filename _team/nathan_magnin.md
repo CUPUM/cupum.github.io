@@ -1,6 +1,6 @@
 ---
 name: Nathan Magnin
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

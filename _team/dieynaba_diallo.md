@@ -1,6 +1,6 @@
 ---
 name: Dieynaba Diallo
-title: BSc
+credential: BSc
 pronouns: she/her
 position: Undergraduate researcher
 affiliation: internal

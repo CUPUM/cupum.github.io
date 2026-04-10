@@ -1,6 +1,6 @@
 ---
 name: Majdi Hunter-Batal
-title: MSc
+credential: MSc
 pronouns: he/him
 position: Graduate researcher
 affiliation: associate

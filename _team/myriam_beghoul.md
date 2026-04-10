@@ -1,6 +1,6 @@
 ---
 name: Myriam Beghoul
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

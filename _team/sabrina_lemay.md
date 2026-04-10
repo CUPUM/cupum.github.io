@@ -1,6 +1,6 @@
 ---
 name: Sabrina Lemay
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

@@ -1,6 +1,6 @@
 ---
 name: Léa Lajeunesse
-title: MSc
+credential: MSc
 pronouns: she/her
 position: Graduate researcher
 affiliation: internal

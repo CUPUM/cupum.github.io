@@ -1,6 +1,6 @@
 ---
 name: Itri Ajaja
-title: BSc
+credential: BSc
 pronouns: he/him
 position: Undergraduate researcher
 affiliation: internal

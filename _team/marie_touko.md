@@ -1,6 +1,6 @@
 ---
 name: Marie Touko
-title:
+credential:
 pronouns:
 position:
 affiliation: internal

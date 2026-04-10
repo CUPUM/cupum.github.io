@@ -1,6 +1,6 @@
 ---
 name: Linda Tinio
-title: 
+credential: 
 pronouns: she/her
 position: Programme Manager
 affiliation: external
