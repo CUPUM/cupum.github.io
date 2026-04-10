@@ -5,12 +5,12 @@ pronouns: she/her
 position: Graduate researcher
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 status: alumni
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/justine-gauthier-913085235/
   website:
 bio:
 portrait:
