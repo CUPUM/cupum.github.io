@@ -3,10 +3,10 @@ layout: default
 ---
 <!DOCTYPE html>
 <div class="news_post">
-    <img class="news_post-image" src="{{ page.featured_img | relative_url }}" loading="lazy" alt="{{ page.alt }}">
     <h1 class="news_post-title">{{ page.title }}</h1>
     <h2 class="news_post-category">{{ page.category }}</h2>
-	
+    <img class="news_post-image" src="{{ page.featured_img | relative_url }}" loading="lazy" alt="{{ page.alt }}">
+
     <div class="news_post-container">
         <p class="news_post-date">{{ page.location }}, {{ page.date | date: "%b. %d, %Y" }}</p>
         <div class="news_post-content">

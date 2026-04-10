@@ -5,12 +5,12 @@ pronouns:
 position:
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 status: alumni
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/marie-soleil-lamonde-56624b26a
   website:
 bio:
 portrait:
