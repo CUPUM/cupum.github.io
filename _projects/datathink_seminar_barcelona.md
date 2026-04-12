@@ -1,5 +1,5 @@
 ---
-name: UNESCO Studio Hanoi
+name: Datathink Seminar Barcelona
 mission:
 layout: projects
 category: research

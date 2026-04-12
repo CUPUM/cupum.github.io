@@ -10,7 +10,33 @@ title: Output
   </div>
 
   <div class="output-group">
+    <h2 class="output-group-title">Summer and Winter Schools</h2>
+    {% assign school_projects = site.projects | where: "type", "school" | where_exp: "p", "p.name != nil" | where_exp: "p", "p.name != ''" %}
+    {% if school_projects.size > 0 %}
+    <ul class="projects-list">
+      {% for project in school_projects %}
+      <li>
+        <article class="article">
+          <div class="article-header">
+            <h3 class="article-title"><a href="{{ project.url }}">{{ project.name }}</a></h3>
+          </div>
+          {% if project.summary %}<p class="article-summary">{{ project.summary }}</p>
+          {% elsif project.mission %}<p class="article-summary">{{ project.mission }}</p>{% endif %}
+        </article>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+
+  <div class="output-group">
     <h2 class="output-group-title">Exhibitions</h2>
+    <ul class="projects-list">
+      <li><article class="article"><div class="article-header"><h3 class="article-title">New Orleans Beyond, New Orleans</h3></div></article></li>
+      <li><article class="article"><div class="article-header"><h3 class="article-title">New Orleans Beyond, Montréal</h3></div></article></li>
+      <li><article class="article"><div class="article-header"><h3 class="article-title">Phnom Penh Against the Current, Phnom Penh</h3></div></article></li>
+      <li><article class="article"><div class="article-header"><h3 class="article-title">Phnom Penh Against the Current, Montréal</h3></div></article></li>
+    </ul>
   </div>
 
   <div class="output-group">

@@ -1,5 +1,5 @@
 ---
-name: UNESCO Studio Hanoi
+name: UNESCO Studio Cairo
 mission:
 layout: projects
 category: research

@@ -2,8 +2,11 @@
 layout: default
 ---
 <div class="project">
+    {% if page.featured_img %}
+    <img src="{{ page.featured_img }}" alt="{{ page.name }}" class="project-featured-img">
+    {% endif %}
     <div class="project-header">
-        <h1 class="project-title">{{ page.name }}</h1>
+        <h1 class="project-title">{% if page.display_name %}{{ page.display_name }}{% else %}{{ page.name }}{% endif %}</h1>
         <p class="project-mission">{{ page.mission }}</p>
         {% if page.status %}
         <span class="project-status project-status--{{ page.status }}">{{ page.status }}</span>

@@ -8,13 +8,17 @@ title: Home
 <!-- Hero Video Section -->
 <section class="hero">
   <img src="{{ site.assets.sticker_en }}" alt="UNESCO Chair in Urban Landscape sticker" class="sticker top-left">
-  {% assign featured_projects = site.projects | where: "featured", true | where_exp: "p", "p.video_path != nil" | where_exp: "p", "p.video_path != ''" %}
+  {% assign featured_projects = site.projects | where: "featured", true | where_exp: "p", "p.name != nil" | where_exp: "p", "p.name != ''" %}
   {% if featured_projects.size > 0 %}
     {% for post in featured_projects %}
         <div class="carousel-item">
+          {% if post.video_path and post.video_path != '' %}
           <video class="carousel-video" autoplay muted loop playsinline>
             <source src="{{ post.video_path }}" type="video/mp4">
           </video>
+          {% elsif post.featured_img and post.featured_img != '' %}
+          <img src="{{ post.featured_img }}" alt="{{ post.name }}" class="carousel-video carousel-img">
+          {% endif %}
           <div class="carousel-item-text">
             <h3 class="carousel-item-mission"><a href="{{ post.url }}" class="no-icon">{{ post.mission }}</a></h3>
             <h2 class="carousel-item-title"><a href="{{ post.url }}">{{ post.name }}</a></h2>

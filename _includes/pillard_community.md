@@ -1,1 +1,1 @@
-Our projects are co-created with citizens, organizations, and municipalities. This way, we generate knowledge that is inclusive, applied, and transformative—ensuring communities remain at the center of innovation and urban change.
+Our projects are elaborated with citizens, organizations, and municipalities. This way, we generate knowledge that is inclusive, applied, and transformative—ensuring communities remain at the center of innovation and urban change.
