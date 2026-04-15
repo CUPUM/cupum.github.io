@@ -1,16 +1,10 @@
 ---
 name: UNESCO Studio Hanoi
 <<<<<<< HEAD
-mission:
-layout: projects
-category: research
-type: school
-=======
 mission: Reconnecting Hanoi to its Red River
 layout: projects
 category: research
-type: core
->>>>>>> 49b727e (published US hanoi)
+type: school
 axes:
     - social inclusion
     - biodiversity
