@@ -5,12 +5,13 @@ pronouns: she/her
 position: Graduate researcher
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 status: active
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ljennifer-lopezl
+  github: https://github.com/llJenn
   website:
 bio:
 portrait:
