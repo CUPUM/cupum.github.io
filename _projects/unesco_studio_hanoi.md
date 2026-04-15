@@ -1,6 +1,5 @@
 ---
 name: UNESCO Studio Hanoi
-<<<<<<< HEAD
 mission: Reconnecting Hanoi to its Red River
 layout: projects
 category: research
