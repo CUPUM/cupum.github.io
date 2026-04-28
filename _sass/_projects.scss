@@ -126,6 +126,13 @@
 }
 
 /* project detail page */
+.project-featured-img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+}
+
 .project {
   max-width: 800px;
   margin: 0 auto;
@@ -179,6 +186,12 @@
 .project-content {
   font-size: 1rem;
   line-height: 1.7;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
 }
 
 .project-people {

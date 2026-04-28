@@ -13,7 +13,7 @@ links:
   linkedin: https://www.linkedin.com/in/majdi-hunter-batal-0b5568269/
   website:
 bio:
-portrait:
+portrait: /assets/images/people/majdi_hunter_batal.jpg
 img_credit:
 alt:
 ---

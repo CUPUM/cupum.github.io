@@ -1,9 +1,10 @@
 ---
 name: UNESCO Studio Phnom Penh
+display_name: "UNESCO Studio<br>Phnom Penh"
 mission: Crafting sustainable neighborhoods along the Mekong River
 layout: projects
 category: research
-type: core
+type: school
 axes:
     - social inclusion
     - biodiversity
@@ -59,7 +60,7 @@ thanks:
     - Family Van Molyvan
     
 advisory_committee:
-featured_img: /assets/images/aiai_stable_diffusion_xl_20240228.jpg
+featured_img: /assets/images/posts/20240515-unesco_studio_phnom.jpg
 img_link:
 alt:
 img_credit:
@@ -224,7 +225,6 @@ Vuth, L. (2024, May 21). Pedagogy, community, art: Bottom-up urbanism at Phnom P
 ### Teaching
 
 - Shin Koseki (University of Montréal)
-- Delphine Duplain (University of Montréal)
 - Kanjanee Buddhimedhee (King Mongkut's University of Technology Thonburi)
 
 ### Logistics
