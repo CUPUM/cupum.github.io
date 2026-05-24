@@ -6,6 +6,7 @@ position: Full Professor, Canada Excellence Research Chair, One Urban Health
 affiliation: external
 collaboration: advisor
 publication: yes
+member: yes
 status: active
 institution: Université de Montréal
 projects:

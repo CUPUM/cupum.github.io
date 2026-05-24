@@ -6,6 +6,7 @@ position: Undergraduate research intern
 affiliation: internal
 collaboration: intern
 publication: no
+member: no
 status: alumni
 institution: École des ingénieurs de la ville de Paris
 projects:

@@ -6,6 +6,7 @@ position: Programme Manager
 affiliation: external
 collaboration: advisor
 publication: yes
+member: no
 status: active
 institution: UNESCO
 projects:

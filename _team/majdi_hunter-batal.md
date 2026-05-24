@@ -6,6 +6,7 @@ position: Graduate researcher
 affiliation: associate
 collaboration: core
 publication: yes
+member: yes
 status: active
 institution: Université de Montréal
 projects:

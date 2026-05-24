@@ -6,6 +6,7 @@ position: Assistant professor, CIFAR Chair
 affiliation: external
 collaboration: associate
 publication: no
+member: no
 status: active
 institution: Université de Montréal, MILA
 projects:

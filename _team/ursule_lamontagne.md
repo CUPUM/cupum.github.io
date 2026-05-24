@@ -6,6 +6,7 @@ position:
 affiliation: internal
 collaboration: auxiliary
 publication: no
+member: no
 status: alumni
 institution:
 projects:

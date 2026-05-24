@@ -6,6 +6,7 @@ position: Research assistant
 affiliation: internal
 collaboration: core
 publication: yes
+member: no
 status: alumni
 institution:
 projects:

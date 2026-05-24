@@ -6,6 +6,7 @@ position: Postdoctoral researcher
 affiliation: internal
 collaboration: core
 publication: no
+member: yes
 status: alumni
 institution: Université de Montréal
 projects:

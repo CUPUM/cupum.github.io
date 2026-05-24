@@ -6,6 +6,7 @@ position: Undergraduate researcher
 affiliation: internal
 collaboration: auxiliary
 publication: no
+member: no
 status: alumni
 institution: Université de Montréal
 projects:

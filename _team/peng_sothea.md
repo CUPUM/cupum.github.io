@@ -6,6 +6,7 @@ position:
 affiliation: external
 collaboration: affiliate
 publication: no
+member: no
 status: active
 institution: Royal University of Fine Arts
 projects:

@@ -6,6 +6,7 @@ position: Graduate researcher
 affiliation: internal
 collaboration: core
 publication: no
+member: no
 status: alumni
 institution: Université de Montréal
 projects:

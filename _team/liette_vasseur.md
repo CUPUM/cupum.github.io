@@ -6,6 +6,7 @@ position: Full professor, UNESCO Chair in Sustainable Communities
 affiliation: external
 collaboration: advisor
 publication: yes
+member: no
 status: active
 institution: Brock University
 projects:

@@ -6,6 +6,7 @@ position: Associate researcher
 affiliation: internal
 collaboration: core
 publication: no
+member: no
 status: alumni
 institution: Dark Matter Labs / Nouveaux Voisins
 projects:

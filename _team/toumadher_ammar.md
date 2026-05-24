@@ -6,6 +6,7 @@ position: Postdoctoral researcher
 affiliation: internal
 collaboration: core
 publication: yes
+member: no
 status: alumni
 institution:
 projects:

@@ -6,6 +6,7 @@ position: Graduate student
 affiliation: internal
 collaboration: auxiliary
 publication: yes
+member: no
 status: alumni
 institution:
 projects:

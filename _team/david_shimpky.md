@@ -6,6 +6,7 @@ position: Director
 affiliation: external
 collaboration: advisor
 publication: yes
+member: no
 status: active
 institution: Frontenac Arch Biosphere
 projects:

@@ -6,6 +6,7 @@ position:
 affiliation: external
 collaboration: associate
 publication: no
+member: no
 status: active
 institution: King Mongkut's University of Technology Thonburi
 projects:

@@ -22,6 +22,7 @@ title: People
     {% assign alumni_affil   = site.team | where_exp: "p", "p.publication" | where: "collaboration", "affiliate"   | where: "status", "alumni" | sort: "name" %}
     {% assign alumni_aux     = site.team | where_exp: "p", "p.publication" | where: "collaboration", "auxiliary"   | where: "status", "alumni" | sort: "name" %}
     {% assign alumni_intern  = site.team | where_exp: "p", "p.publication" | where: "collaboration", "intern"      | where: "status", "alumni" | sort: "name" %}
+    {% assign governance_members = site.team | where_exp: "p", "p.member" | sort: "name" %}
 
     {% comment %}— Chairholder —{% endcomment %}
     {% if chairholder.size > 0 %}
@@ -293,6 +294,39 @@ title: People
     </div>
     {% endif %}
 
+    {% endif %}
+
+    {% comment %}— Governance —{% endcomment %}
+    <div class="people-section-heading">
+        <h2 class="people-section-title">Governance</h2>
+    </div>
+
+    {% comment %}— Administrative Board —{% endcomment %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Administrative Board</h3>
+    </div>
+
+    {% comment %}— Members —{% endcomment %}
+    {% if governance_members.size > 0 %}
+    <div class="people-group people-group--sub">
+        <h3 class="people-group-title people-group-title--sub">Members</h3>
+        <ul class="people-list">
+            {% for person in governance_members %}
+            <li class="people-card">
+                <a href="{{ person.url }}">
+                    {% if person.portrait %}<img class="people-card-portrait" src="{{ person.portrait }}" alt="{{ person.name }}" loading="lazy">
+                    {% else %}<div class="people-card-portrait people-card-portrait--placeholder"></div>{% endif %}
+                    <div class="people-card-info">
+                        <span class="people-card-name">{{ person.name }}</span>
+                        {% if person.pronouns %}<span class="people-card-pronouns">({{ person.pronouns }})</span>{% endif %}
+                        {% if person.position %}<span class="people-card-position">{{ person.position }}</span>{% endif %}
+                        {% if person.institution %}<span class="people-card-institution">{{ person.institution }}</span>{% endif %}
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
     {% endif %}
 
 </section>

@@ -6,6 +6,7 @@ position: Director
 affiliation: external
 collaboration: advisor
 publication: yes
+member: no
 status: active
 institution: Université de Montréal Vice-rectorate for Community and International
 projects:

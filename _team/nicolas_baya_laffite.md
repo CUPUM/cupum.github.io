@@ -6,6 +6,7 @@ position: Associate Professor
 affiliation: external
 collaboration: associate
 publication: no
+member: no
 status: active
 institution: University of Geneva
 projects:

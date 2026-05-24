@@ -6,6 +6,7 @@ position: Honorary collaborator
 affiliation: internal
 collaboration: core
 publication: no
+member: no
 status: alumni
 institution:
 projects:

@@ -6,6 +6,7 @@ position: Research intern
 affiliation: internal
 collaboration: intern
 publication: no
+member: no
 status: alumni
 institution: Polytechnic Faculty of Mons
 projects:

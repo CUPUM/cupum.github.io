@@ -6,6 +6,7 @@ position: Collaborator
 affiliation: internal
 collaboration: auxiliary
 publication: no
+member: no
 status: active
 institution: Université de Montréal
 projects:
