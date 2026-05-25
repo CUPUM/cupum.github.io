@@ -45,9 +45,9 @@ thanks:
     - Agence Universitaire de la Francophonie
     - Canadian Commission for UNESCO
     - Think Playgrounds!
-featured_img:
+featured_img: /assets/images/unesco_studio_hanoi_cover.jpg
 img_link:
-alt:
+alt: Group photo of UNESCO Studio Hanoi participants
 img_credit:
 video_path:
 status: past

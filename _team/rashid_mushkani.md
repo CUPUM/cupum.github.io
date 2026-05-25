@@ -10,6 +10,7 @@ member: yes
 status: active
 institution: Université de Montréal
 projects:
+    - phd_mushkani
 links:
   linkedin: https://www.linkedin.com/in/rashid-mushkani
   website:

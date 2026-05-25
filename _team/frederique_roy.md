@@ -10,6 +10,7 @@ member: yes
 status: active
 institution: Université de Montréal
 projects:
+    - msc_roy
 links:
   linkedin: https://www.linkedin.com/in/fr%C3%A9d%C3%A9rique-roy-9a893517b/
   website:

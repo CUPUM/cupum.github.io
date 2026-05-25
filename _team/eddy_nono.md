@@ -10,6 +10,7 @@ member: yes
 status: active
 institution: Université de Montréal
 projects:
+    - msc_nono
 links:
   linkedin: https://www.linkedin.com/in/eddy-damaris-nono-defo-360125177/
   website:

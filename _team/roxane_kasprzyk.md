@@ -10,6 +10,7 @@ member: yes
 status: active
 institution:
 projects:
+    - msc_kasprzyk
 links:
   linkedin: https://www.linkedin.com/in/roxane-kasprzyk-5b725923a/
   website:

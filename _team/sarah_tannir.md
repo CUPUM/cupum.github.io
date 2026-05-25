@@ -10,6 +10,7 @@ member: no
 status: alumni
 institution:
 projects:
+    - msc_tannir
 links:
   linkedin: https://www.linkedin.com/in/sarahtannir/
   website:

@@ -10,6 +10,7 @@ member: no
 status: alumni
 institution: Université de Montréal
 projects:
+    - msc_bernard
 links:
   linkedin: https://www.linkedin.com/in/andréanne-bernard-031851128
   website:

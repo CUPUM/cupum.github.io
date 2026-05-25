@@ -10,6 +10,7 @@ member: no
 status: alumni
 institution: Université de Montréal
 projects:
+    - msc_kremer
 links:
   linkedin:
   website:

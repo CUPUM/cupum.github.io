@@ -10,6 +10,7 @@ member: no
 status: alumni
 institution:
 projects:
+    - msc_nana
 links:
   linkedin:
   website:
