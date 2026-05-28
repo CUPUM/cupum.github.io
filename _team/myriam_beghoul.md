@@ -1,17 +1,17 @@
 ---
 name: Myriam Beghoul
-credential:
-pronouns:
+credential: M. Sc. A
+pronouns: she/her
 position:
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 member: no
 status: alumni
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: http://linkedin.com/in/myriam-beghoul-a53a551b6
   website:
 bio:
 portrait:

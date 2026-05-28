@@ -1,17 +1,17 @@
 ---
 name: Nicolas Baya Laffite
 credential: PhD
-pronouns: he/him
-position: Associate Professor
+pronouns: he/his
+position: Prof.
 affiliation: external
 collaboration: associate
-publication: no
+publication: yes
 member: no
 status: active
 institution: University of Geneva
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/nicolasbaya
   website:
 bio:
 portrait: /assets/images/people/nicolas_baya_laffite.jpg

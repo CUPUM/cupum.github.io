@@ -1,17 +1,17 @@
 ---
 name: Steffie Pigeon
-credential:
-pronouns:
-position:
+credential: B. Env. D., M.A.P.
+pronouns: she/her
+position: étudiante
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 member: no
 status: alumni
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/steffie-pigeon-976100204/
   website:
 bio:
 portrait:

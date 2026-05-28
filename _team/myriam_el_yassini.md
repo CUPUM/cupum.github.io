@@ -1,17 +1,17 @@
 ---
 name: Myriam El Yassini
-credential:
-pronouns:
+credential: M.Arch., M.L.A., MBA
+pronouns: she/her
 position:
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 member: no
 status: alumni
 institution:
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/myriam-el-yassini-145934179
   website:
 bio:
 portrait:

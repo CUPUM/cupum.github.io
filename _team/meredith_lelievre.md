@@ -1,11 +1,11 @@
 ---
 name: Meredith Nana Lelièvre
-credential:
+credential: M. urb
 pronouns: she/her
 position: Honorary collaborator
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 member: no
 status: alumni
 institution:

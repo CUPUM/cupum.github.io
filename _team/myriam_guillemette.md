@@ -1,14 +1,14 @@
 ---
 name: Myriam Guillemette
-credential:
-pronouns:
-position:
+credential: PhD
+pronouns: she/her
+position: Dr.
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 member: no
 status: alumni
-institution:
+institution: Université du Québec à Montréal
 projects:
 links:
   linkedin:

@@ -1,14 +1,14 @@
 ---
 name: Wouter Acthen
-credential:
-pronouns:
-position:
+credential: PhD
+pronouns: he/his
+position: Prof.
 affiliation: external
 collaboration: associate
-publication: no
+publication: yes
 member: no
 status: active
-institution:
+institution: Université libre de bruxelles
 projects:
 links:
   linkedin:
