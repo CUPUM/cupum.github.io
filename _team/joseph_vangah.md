@@ -5,13 +5,13 @@ pronouns: he/him
 position: Graduate researcher
 affiliation: internal
 collaboration: auxiliary
-publication: no
+publication: yes
 member: no
 status: alumni
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/joseph-parfait-vangah-534b3712/
   website:
 bio:
 portrait:
