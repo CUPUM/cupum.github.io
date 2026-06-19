@@ -5,13 +5,13 @@ pronouns: she/her
 position: Researchero professional
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 member: no
 status: alumni
 institution: Université de Montréal
 projects:
 links:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/calevan
   website:
 bio:
 portrait:

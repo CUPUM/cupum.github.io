@@ -5,7 +5,7 @@ pronouns: he/him
 position: Postdoctoral researcher
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 member: yes
 status: alumni
 institution: Université de Montréal

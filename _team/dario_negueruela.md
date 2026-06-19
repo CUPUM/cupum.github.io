@@ -5,7 +5,7 @@ pronouns: he/him
 position: Visiting researcher
 affiliation: external
 collaboration: affiliate
-publication: no
+publication: yes
 member: no
 status: active
 institution: University of Zurich
