@@ -48,6 +48,7 @@ related_people:
   - genevieve_depelteau
   - malina_lambert
   - myriam_guillemette
+  - camille_lemaitre
 external_url:
 ---
 
