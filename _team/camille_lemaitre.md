@@ -5,7 +5,7 @@ pronouns: she/her
 position: Doctoral researcher
 affiliation: internal
 collaboration: core
-publication: no
+publication: yes
 member: yes
 status: active
 institution: Université de Montréal
