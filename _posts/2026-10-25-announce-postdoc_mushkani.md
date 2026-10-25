@@ -17,5 +17,3 @@ The project, *AI Pluralism Index: An interoperable framework for pluralism in ci
 Mushkani plans to test the index's indicators, document AI providers' practices, and develop open-source audit tools and procurement guidance for Québec and Canada. Conducting this work in a law faculty will connect participatory design methods with questions of institutional responsibility and human rights: what participation requires of organizations, what evidence they should make public, and how they can be held accountable. The aim is to give public institutions evidence they can use to assess who has a say in AI governance and whether commitments to participation are reflected in practice.
 
 More on IVADO's 2026 postdoctoral funding recipients: [ivado.ca](https://ivado.ca/en/2026/06/16/ivado-announces-the-recipients-of-its-2026-postdoctoral-research-funding-program/)
-
-#UrbanLandscape #UNESCOChair #AIGovernance #Pluralism #IVADO

@@ -19,5 +19,3 @@ The UNESCO Chair in Urban Landscape contributed to the exhibition's conception a
 Campeau-Vallée holds a master's degree in Environment and Sustainable Development from Université de Montréal and is completing a research-creation PhD in Art History. His work has been exhibited in Quebec and Toronto, and he has presented on photography and the environment in Quebec, Europe and Africa.
 
 The exhibition is included with regular museum admission at the Niagara Falls History Museum, 5810 Ferry Street, Niagara Falls, Ontario. More information: [nfexchange.ca/museum](https://www.niagarafalls.ca/exchange/museums/exhibits/current-exhibits/picture-yourself-here/)
-
-#UrbanLandscape #UNESCOChair #Photography #NiagaraFalls #RiversInCommons

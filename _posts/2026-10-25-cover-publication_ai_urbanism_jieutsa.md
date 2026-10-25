@@ -17,5 +17,3 @@ The article offers a clear overview of the main families of AI systems used in u
 Beyond the applications, Leandry calls on municipalities to take a more active role in governing these technologies, with an emphasis on transparency, citizen inclusion and critical reflection on the risks involved. This line of thinking connects closely with the Chair's own work on artificial intelligence in cities and adds to the collective conversation the Chair aims to advance around responsible urban AI.
 
 Full article (in French): [Revue québécoise d'urbanisme, September 2026](https://www.aqu.qc.ca/client_file/upload/Revues_PDF/Revue_2026-09.pdf)
-
-#ArtificialIntelligence #UrbanPlanning #DigitalGovernance #SmartCities #UNESCOChair
