@@ -8,7 +8,7 @@ participants : Shin Koseki, Nicolas Baya-Laffite, Giovanna Di Marzo Serugendo, W
 participants_companies: Université de Genève, Université libre de Bruxelles, Université de Montréal, G3, UNESCO Chair in Urban Landscape
 featured_img: assets/images/posts/20260513-cover-g3_closing_conference_geneva_koseki.jpg
 img_credit: Shin Koseki
-alt: Poster of the G3 closing colloquium "Gouverner la double transition des territoires: jumeaux numériques, complexité, participation", Université de Genève, 13 May 2026
+alt: "Poster of the G3 closing colloquium Gouverner la double transition des territoires, Université de Genève, 13 May 2026"
 ---
 Looking back on last spring: on 13 May 2026, Chairholder Shin Koseki spoke at the Université de Genève during "Gouverner la double transition des territoires: jumeaux numériques, complexité, participation" (Governing the twin transition of territories: digital twins, complexity, participation), the closing colloquium of the G3 project on the twin transition. Organized by Nicolas Baya-Laffite at Uni Mail, the event brought together lectures by Nicolas Baya-Laffite, Giovanna Di Marzo Serugendo, Shin Koseki and D. Vorbach, as well as a survey by students of the Master SACHA. Building on the work carried out since 2024 on the ecological and digital transitions, the colloquium opened a new research agenda on participatory digital twins, bringing together STS, urban planning and computer science to question the promises, uses and limits of these technologies.
 
