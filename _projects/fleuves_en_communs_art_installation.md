@@ -1,6 +1,5 @@
 ---
-name: Fleuves en Communs
-display_name: "Fleuves en Communs: Building New Ecosocial Imaginaries Through Art for the Conservation of the Saint Lawrence River"
+name: Fleuves en Communs Art Installation
 mission: A film and immersive installation for the conservation of the St. Lawrence River
 layout: projects
 category: research
