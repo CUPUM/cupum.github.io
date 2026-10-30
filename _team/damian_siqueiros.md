@@ -9,7 +9,8 @@ publication: no
 member: yes
 status: active
 institution: Terra Sapiens Collective, UQAM
-projects: Fleuves en Communs
+projects:
+  - fleuves_en_communs
 links:
   linkedin:
   website: https://terrasapiens.studio
