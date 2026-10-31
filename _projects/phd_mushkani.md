@@ -6,8 +6,8 @@ category: formation
 type: training
 level: phd
 axes:
-start_date:
-end_date:
+start_date: 2022-09-01
+end_date: 2026-08-24
 direction:
     - Shin Koseki
 lead:
@@ -23,7 +23,7 @@ img_link:
 alt:
 img_credit:
 video_path:
-status:
+status: completed
 featured: false
 summary:
 outcomes:
