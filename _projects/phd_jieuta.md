@@ -6,7 +6,7 @@ category: formation
 type: training
 level: phd
 axes:
-start_date:
+start_date: 2023-01-01
 end_date:
 direction:
     - Shin Koseki
@@ -23,7 +23,7 @@ img_link:
 alt:
 img_credit:
 video_path:
-status:
+status: ongoing
 featured: false
 summary:
 outcomes:
