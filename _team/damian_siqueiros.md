@@ -5,7 +5,7 @@ pronouns: he/him
 position: Artist-researcher, Founder and Creative Director
 affiliation: external
 collaboration: associate
-publication: no
+publication: yes
 member: no
 status: active
 institution: Terra Sapiens Collective, UQAM
