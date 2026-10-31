@@ -6,8 +6,8 @@ position: Graduate researcher
 affiliation: internal
 collaboration: core
 publication: yes
-member: yes
-status: active
+member: no
+status: alumni
 institution:
 projects:
     - msc_kasprzyk

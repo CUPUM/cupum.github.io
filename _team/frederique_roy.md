@@ -6,8 +6,8 @@ position: Graduate researcher
 affiliation: internal
 collaboration: core
 publication: yes
-member: yes
-status: active
+member: no
+status: alumni
 institution: Université de Montréal
 projects:
     - msc_roy

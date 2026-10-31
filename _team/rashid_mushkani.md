@@ -2,9 +2,9 @@
 name: Rashid Mushkani
 credential:
 pronouns: he/him
-position: Doctoral researcher
+position: Postdoctoral researcher
 affiliation: internal
-collaboration: core
+collaboration: associate
 publication: yes
 member: yes
 status: active
