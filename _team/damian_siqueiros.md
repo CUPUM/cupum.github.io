@@ -6,7 +6,7 @@ position: Artist-researcher, Founder and Creative Director
 affiliation: external
 collaboration: associate
 publication: no
-member: yes
+member: no
 status: active
 institution: Terra Sapiens Collective, UQAM
 projects:
