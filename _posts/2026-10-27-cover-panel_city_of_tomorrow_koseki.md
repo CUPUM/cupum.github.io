@@ -1,4 +1,5 @@
 ---
+permalink: /event/2026/10/25/cover-panel_city_of_tomorrow_koseki.html
 title: Shin Koseki joins public panel on quality of life and the city of tomorrow
 author: UNESCO Chair in Urban Landscape
 category: event

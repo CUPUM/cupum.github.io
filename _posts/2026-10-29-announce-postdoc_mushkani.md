@@ -1,4 +1,5 @@
 ---
+permalink: /update/2026/10/25/announce-postdoc_mushkani.html
 title: Rashid Mushkani to pursue postdoctoral research on AI pluralism at UdeM's Faculty of Law
 author: UNESCO Chair in Urban Landscape
 category: update
