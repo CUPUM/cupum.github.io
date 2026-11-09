@@ -8,7 +8,7 @@ participants : Shin Koseki
 participants_companies: Villes Régions Monde (VRM), INRS, UNESCO Chair in Urban Landscape
 featured_img: assets/images/posts/20261109-cover-vrm_lecture_fleuves_en_communs_koseki.jpg
 img_credit: Shin Koseki
-alt: "The Nile and the Cairo skyline seen from above, one of the five rivers studied by Fleuves en communs"
+alt: "The St. Lawrence River under the Samuel-De Champlain Bridge in Montréal"
 ---
 On Wednesday, November 25, 2026, Shin Koseki, holder of the UNESCO Chair in Urban Landscape, will give a noon lecture for the Villes Régions Monde (VRM) network at INRS: "Fleuves en communs : repenser l'urbanisation des grands fleuves du local au planétaire." The talk introduces Fleuves en communs, an intersectoral action-research and research-creation initiative led by the Chair.
 
