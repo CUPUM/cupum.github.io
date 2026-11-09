@@ -7,8 +7,8 @@ location: LMU Munich, Germany
 participants : Rashid Mushkani, Hugo Bérard, Shin Koseki
 participants_companies: ACM EAAMO, LMU Munich, UNESCO Chair in Urban Landscape
 featured_img: assets/images/posts/20261113-cover-eaamo_posters_mushkani.jpg
-img_credit:
-alt: "Portrait of Rashid Mushkani"
+img_credit: UNESCO Chair in Urban Landscape
+alt: "Participants of a WeDesign+ workshop in Montréal comparing AI-generated images of public spaces on computer screens"
 ---
 On November 6, 2026, Rashid Mushkani, who completed his PhD at the UNESCO Chair in Urban Landscape this year, presented two papers at the highlighted poster session of ACM EAAMO 2026, the Conference on Equity and Access in Algorithms, Mechanisms, and Optimization, held at LMU Munich. Both posters ask the same question from two angles: how can AI support public decisions about cities without leaving residents and accountability behind?
 
