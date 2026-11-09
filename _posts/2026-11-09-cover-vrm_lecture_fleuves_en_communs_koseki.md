@@ -1,17 +1,17 @@
 ---
-title: Shin Koseki présente Fleuves en communs lors d'une conférence midi VRM à l'INRS
+title: Shin Koseki to present Fleuves en communs at a VRM noon lecture at INRS
 author: UNESCO Chair in Urban Landscape
 category: event
-tags: Fleuves en communs, grands fleuves, urbanisation, VRM, INRS, conférence
+tags: Fleuves en communs, rivers, urbanization, VRM, INRS, lecture
 location: INRS, Montréal
 participants : Shin Koseki
 participants_companies: Villes Régions Monde (VRM), INRS, UNESCO Chair in Urban Landscape
 featured_img: assets/images/posts/20261109-cover-vrm_lecture_fleuves_en_communs_koseki.jpg
 img_credit: Shin Koseki
-alt: "Le Saint-Laurent sous le pont Samuel-De Champlain, à Montréal"
+alt: "The St. Lawrence River under the Samuel-De Champlain Bridge in Montréal"
 ---
-Le mercredi 25 novembre 2026, Shin Koseki, titulaire de la Chaire UNESCO en paysage urbain, donnera une conférence midi du réseau Villes Régions Monde (VRM) à l'INRS : « Fleuves en communs : repenser l'urbanisation des grands fleuves du local au planétaire ». La présentation introduit Fleuves en communs, une initiative intersectorielle de recherche-action et de recherche-création portée par la Chaire.
+On Wednesday, November 25, 2026, Shin Koseki, holder of the UNESCO Chair in Urban Landscape, will give a noon lecture for the Villes Régions Monde (VRM) network at INRS: "Fleuves en communs : repenser l'urbanisation des grands fleuves du local au planétaire." The talk introduces Fleuves en communs, an intersectoral action-research and research-creation initiative led by the Chair.
 
-Croisant le design, les études urbaines, la santé publique et les sciences environnementales, Fleuves en communs relie acteurs locaux et internationaux, ainsi que savoirs scientifiques, techniques, culturels et sociaux, autour de l'urbanisation de cinq fleuves continentaux : le Saint-Laurent, le fleuve Rouge, le Mékong, le Nil et le Mississippi. Shin en exposera la démarche et les premiers résultats, et montrera comment, avec l'appui d'organisations internationales comme l'UNESCO et ONU-Habitat et de leaders locaux, l'initiative propose un nouveau modèle pour penser l'urbanisation du monde, du local au planétaire.
+Bringing together design, urban studies, public health and environmental sciences, Fleuves en communs connects local and international actors, as well as scientific, technical, cultural and social knowledge, around the urbanization of five continental rivers: the St. Lawrence, the Red River, the Mekong, the Nile and the Mississippi. Shin will present the initiative's approach and first results, and show how, with the support of international organizations such as UNESCO and UN-Habitat and of local leaders, it proposes a new model for thinking about the urbanization of the world, from the local to the planetary.
 
-La conférence a lieu de 12 h 30 à 14 h, à la salle 3114 de l'INRS. Gratuit et ouvert à toutes et à tous, en présence seulement. SVP confirmez votre présence auprès de Salomé Vallette (salome.vallette@inrs.ca).
+The lecture takes place from 12:30 to 2:00 PM in room 3114 at INRS. It is free and open to all, in person only. Please confirm your attendance with Salomé Vallette (salome.vallette@inrs.ca).
