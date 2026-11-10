@@ -201,3 +201,46 @@
         padding: 1rem;
     }
 }
+/* Call for participants banner */
+
+.call-banner {
+    background-color: black;
+    color: white;
+    padding: 3rem clamp(1rem, 4vw, 6rem);
+
+    .call-banner-link {
+        display: block;
+        color: white;
+    }
+
+    .call-banner-kicker {
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #b3b3b3;
+        margin: 0 0 0.75rem;
+    }
+
+    .call-banner-title {
+        font-size: 2.5rem;
+        line-height: 1.15;
+        margin: 0 0 1.5rem;
+        max-width: 28ch;
+    }
+
+    .call-banner-cta {
+        font-size: 1rem;
+        border-bottom: 1px solid white;
+        padding-bottom: 2px;
+    }
+
+    .call-banner-link:hover .call-banner-title {
+        text-decoration: underline;
+    }
+}
+
+@media (max-width: 768px) {
+    .call-banner .call-banner-title {
+        font-size: 1.6rem;
+    }
+}

@@ -302,3 +302,46 @@
     font-size: 1.1rem;
   }
 }
+/* Call for participants page */
+
+.call-page-kicker {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #737373;
+  margin: 0 0 8px;
+}
+
+.call-page .project-content {
+  h2 {
+    margin-top: 2.5rem;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #d1d3d4;
+    margin: 2rem 0;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.9rem;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px 12px 8px 0;
+    border-bottom: 1px solid #d1d3d4;
+    vertical-align: top;
+  }
+
+  th {
+    font-weight: 600;
+  }
+}
