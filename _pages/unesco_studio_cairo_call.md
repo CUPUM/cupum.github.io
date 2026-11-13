@@ -137,9 +137,9 @@ The Studio is led by the UNESCO Chair in Urban Landscape at the Université de M
 
 ## Previous editions
 
-- [UNESCO Studio Hanoi](/projects/unesco_studio_hanoi/)
-- [UNESCO Studio Phnom Penh](/projects/unesco_studio_phnom_penh/)
-- [UNESCO Studio New Orleans](/projects/unesco_studio_new_orleans/)
+- [UNESCO Studio Hanoi](/projects/unesco-studio-hanoi/)
+- [UNESCO Studio Phnom Penh](/projects/unesco-studio-phnom-penh/)
+- [UNESCO Studio New Orleans](/projects/unesco-studio-new-orleans/)
 
 ---
 
