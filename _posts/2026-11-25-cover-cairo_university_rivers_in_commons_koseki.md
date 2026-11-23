@@ -6,7 +6,7 @@ tags: Rivers in Commons, Nile, One Health, UNESCO Studio, Cairo University
 location: Cairo, Egypt
 participants: Shin Koseki
 participants_companies: Cairo University, Faculty of Urban and Regional Planning, UNESCO Chair in Urban Landscape
-featured_img: assets/images/posts/20261125-cover-cairo_university_rivers_in_commons_koseki.jpg
+featured_img: assets/images/posts/20261125-cover-cairo_university_rivers_in_commons_koseki_v2.jpg
 img_credit: UNESCO Chair in Urban Landscape
 alt: "Shin Koseki standing in the gardens in front of the domed main building of Cairo University"
 ---
